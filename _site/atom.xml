@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Max Lynch</title>
+ <link href="http://mlynch.github.com/atom.xml" rel="self"/>
+ <link href="http://mlynch.github.com/"/>
+ <updated>2012-05-21T18:47:56-05:00</updated>
+ <id>http://mlynch.github.com</id>
+ <author>
+   <name>Max Lynch</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>Moved my blog to Jekyll + Github Pages</title>
+   <link href="http://mlynch.github.com/blog/moved-to-jekyll-github-pages"/>
+   <updated>2012-05-21T00:00:00-05:00</updated>
+   <id>http://mlynch.github.com/blog/moved-to-jekyll-github-pages</id>
+   <content type="html">&lt;div class=&quot;row&quot;&gt;
+  This is a quick note and experiment testing my new blog. I decided to move away from Posterous after the Twitter acquisition and I had some issues posting to posterous lately.
+&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
