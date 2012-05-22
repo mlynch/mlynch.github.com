@@ -201,8 +201,11 @@ ul.posts {
   color: #888;
 }
 
-#disqus_thread {
+#post-bottom {
   margin-top: 15px;
   padding-top: 20px;
   border-top: 1px solid #eee;
+}
+#disqus_thread {
+  margin-top: 15px;
 }
