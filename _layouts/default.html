@@ -1,69 +1,82 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="/css/docs.css" rel="stylesheet">
-    <link href="/js/google-code-prettify/prettify.css" rel="stylesheet">	
-	<link rel="shortcut icon" href="/favicon.ico">    
-  </head>
-  <body data-spy="scroll" data-target=".subnav" data-offset="50">
-	{% include navigation.html %}  
-	<div class="container">	
-		<div class="marketing">
-		{{ content }}
-		</div>
-		 {% include footer.html %}
-	 </div>    
-    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-    <script src="/js/jquery.js"></script>
-    <script src="/js/google-code-prettify/prettify.js"></script>
-    <script src="/js/bootstrap-transition.js"></script>
-    <script src="/js/bootstrap-alert.js"></script>
-    <script src="/js/bootstrap-modal.js"></script>
-    <script src="/js/bootstrap-dropdown.js"></script>
-    <script src="/js/bootstrap-scrollspy.js"></script>
-    <script src="/js/bootstrap-tab.js"></script>
-    <script src="/js/bootstrap-tooltip.js"></script>
-    <script src="/js/bootstrap-popover.js"></script>
-    <script src="/js/bootstrap-button.js"></script>
-    <script src="/js/bootstrap-collapse.js"></script>
-    <script src="/js/bootstrap-carousel.js"></script>
-    <script src="/js/bootstrap-typeahead.js"></script>
-    <script src="/js/application.js"></script>
-	<script src="/js/custom.js" type="text/javascript"></script>	
-	
-	<script type="text/javascript">
-		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-		var disqus_shortname = 'maxlynch'; // required: replace example with your forum shortname
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Max Lynch" />
+   <link href="http://feeds.feedburner.com/tom-preston-werner" rel="alternate" title="Max Lynch" type="application/atom+xml" />
 
-		/* * * DON'T EDIT BELOW THIS LINE * * */
-		(function () {
-			var s = document.createElement('script'); s.async = true;
-			s.type = 'text/javascript';
-			s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-		}());
-	</script>
-	
-	<!-- Google Analytics -->
-	<script type="text/javascript">
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-29830549-1']);
-	  _gaq.push(['_trackPageview']);
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+   <!-- Typekit -->
+   <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
+   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+</head>
+<body>
 
-	</script>	
-  </body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+<div class="site">
+  <div class="title">
+    <a href="/">Max Lynch</a>
+    <a class="extra" href="/">home</a>
+  </div>
+  
+  {{ content }}
+  
+  <div class="footer">
+    <div class="contact">
+      <p>
+        Max Lynch<br />
+        Co-founder of <a href="http://codiqa.com/">Codiqa</a><br />
+        max@codiqa.com
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/mlynch/">github.com/mlynch</a><br />
+        <a href="http://twitter.com/maxlynch/">twitter.com/maxlynch</a><br />
+      </p>
+    </div>
+    <div class="rss">
+      <a href="http://feeds.feedburner.com/tom-preston-werner">
+        <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
+      </a>
+    </div>
+  </div>
+</div>
+
+<a href="http://github.com/mlynch"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(206,0.3,"www03");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6016902-1");
+pageTracker._trackPageview();
+</script>
+<!-- Google Analytics end -->
+
+</body>
 </html>
