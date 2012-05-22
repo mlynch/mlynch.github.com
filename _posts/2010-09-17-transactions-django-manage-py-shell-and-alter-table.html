@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Transactions, Django manage.py shell, and ALTER TABLE
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "28348109"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/transactions-django-managepy-shell-and-alter
+tags: []
+
+type: post
+status: publish
+---
+
+    Today I figured out what the postgresql transactions that were idle and waiting yet keeping me from running an ALTER TABLE were from: I was running Django's manage.py shell application.&nbsp; I quit out of it and the transation completed.&nbsp; I use select * from pg_stat_activity to see what queries or transactions are currently running on the database.
+  

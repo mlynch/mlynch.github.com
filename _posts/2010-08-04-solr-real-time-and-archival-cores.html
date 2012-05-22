@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Solr Real Time and Archival Cores
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "24920707"
+  _searchme: "1"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/solr-real-time-and-archival-cores
+tags: []
+
+type: post
+status: publish
+---
+
+    <p>Right now I'm running into a case where I need to store documents in a Solr index in two cores: One for quick searching (~1 day old docs), and one for archival analysis (30-60 days old docs). It doesn't seem like Solr has built in support for core replication, and the official replication system built into solr doesn't seem to have support for selective replication (i.e. based on a query). The solution I've created is to duplicate a core to another core each night, and issue a &lt;delete&gt;&lt;query&gt;mydate:[* TO NOW/DAY-1DAY]&lt;/query&gt;&lt;/delete&gt; query to the "real-time" core to delete all documents older than a day or so. That way my arhival core will continue to grow while my "real-time" core will stay night and light...perfect for replication to small-disk-space VPS's.</p>
+  

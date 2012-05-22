@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Lets write an SNES emulator - Part 2
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "36526773"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/lets-write-an-snes-emulator-part-2
+tags: []
+
+type: post
+status: publish
+---
+
+    Tonight I'm resuming my previous post about learning to write an SNES emulator. I started the night feeling really unsure about what to do next. I fear I might have glossed over too many of the flags in the ROM header to correctly interpret the rest of the data in the ROM. Also, my original learning source does not go much further past reading the headers. <p /> However, I've learned a few important facts about the 65c816 instructions mainly thanks to this forum post: <a href="http://acmlm.kafuka.org/board/thread.php?id=99.">http://acmlm.kafuka.org/board/thread.php?id=99.</a> Opcodes are 1 byte long. Then, there are at most three more bytes of data for the instruction (and at least zero). <p /> In terms of LoROM and HiROM, they are used to map between offsets in the ROM and SNES addresses. <p /> I took this list of 65816 machine code: <a href="http://romhack.wikia.com/wiki/65816_machine_code">http://romhack.wikia.com/wiki/65816_machine_code</a> and converted it to a lookup table with a python script and built a super simple disassembler. Right now I'm just starting at the first byte after the SNES header and reading 4 bytes at a time and disassembling the first byte to the string opcode in my lookup table. It's a start but I'm not sure I'm reading the correct data. <p /> I've learned a good bit tonight but this process is going to be very slow.
+  

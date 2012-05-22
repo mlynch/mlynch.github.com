@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: My Git Workflow
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "25412220"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/my-git-workflow
+tags: []
+
+type: post
+status: publish
+---
+
+    <p>I've recently settled on a Git workflow that works pretty well for me:</p>
+<p>For initial project creation:</p>
+<ol>
+<li>Go to remote server<ol>
+<li>Create a folder myproject.git</li>
+<li>cd into folder, run&nbsp; <code>git --bare init</code></li>
+</ol> </li>
+<li>Go to local machine<ol>
+<li><code>mkdir</code> for project.  Ex: <code>mkdir myproject</code> </li>
+<li><code>cd</code> into that directory.  Run <code>git remote add origin ssh://me@myserver.com:SSHPORT/path/to/myproject.git</code> </li>
+<li>Add files to the repo.  <code>git add doc1 doc2 etc</code></li>
+<li><code>git commit -m "Initial import"</code></li>
+<li><code>git push origin master</code></li>
+</ol></li>
+</ol>
+<p>For branching, merging, daily work, etc., I tend to work like this:</p>
+<ol>
+<li>Get off master branch.  Run <code>git checkout -b mybranch</code></li>
+<li>If new branch, run <code>git push origin mybranch</code></li>
+</ol>
+<p>Right now I have three "stages" of <a href="http://gobuzz.com/">GoBuzz</a> deployment: dev, stage and prod.  I'll commit changes in dev, go to stage, and run <code>git pull origin dev</code>, fixing any merge conflicts if necessary.</p>
+<p>Grabbing the code on another machine is easy by doing <code>git clone ssh://me@myserver.com:SSHPORT/path/to/myproject.git</code> and then <code>git checkout -b mybranch</code> and <code>git reset --hard origin/mybranch</code> to sync the local branch with the master branch.</p>
+  

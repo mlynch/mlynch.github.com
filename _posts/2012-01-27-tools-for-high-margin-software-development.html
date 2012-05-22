@@ -1,0 +1,60 @@
+--- 
+layout: post
+title: Tools for High Margin Software Development
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "96407064"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/tools-for-high-margin-software-development
+tags: []
+
+type: post
+status: publish
+---
+
+    <p>I've finally settled on some solid tools and libraries for developing software and I thought I'd compile a list and share it. &nbsp;The underlying theme of these tools and development approaches is <em>cost savings.</em>&nbsp; With software products the dream is high automation which can help enable high &nbsp;margins. &nbsp;Make sure your tools save you time, not waste it. Don't let your fanboyism keep you from being as effective as possible.</p>
+<p />
+<div><strong>Development Operating System</strong></div>
+<p />
+<div>This one is interesting because it always incites flame wars (which I've been happy to engage in to mess with people). I've realized that Mac OS (and other BSD's) and Linux are the most effective platforms for developing, deploying, and maintaining web applications. &nbsp;These Unixey environments offer amazing possibilities for automation, which is a huge part of reducing costs and increasing your margins as a software product developer. Not only that, but they make remote automation so easy. SSH is an automator's dream tool, and SSH loves Unix.</div>
+<p />
+<div>Unfortunately, Windows doesn't make it so easy. &nbsp;Automating tasks on remote Windows machines is especially painful, involving awkward SSH hacks or Remote Desktop point and click. This means that your nice fabric deploy script won't "just work" and will require a lot of your time to get it up and running. It's tempting to fall in love with&nbsp;seamless&nbsp;copy and paste between local and remote machines with Remote Desktop, but remember, that's <em>manual</em>&nbsp;work, and represents an inefficiency in your development and deployment process.&nbsp;</div>
+<p />
+<div>For most, Linux is the default operating system for web application deployment, but I thought I'd mention the awkwardness of Windows as a server platform, especially since I've seen some people so blinded by their love of C# (ooooh, lambdas and LINQ!) and&nbsp; <a href="http://ASP.NET">ASP.NET</a>&nbsp;that they will ignore these issues. &nbsp;Not that <a href="http://ASP.NET">ASP.NET</a> runs poorly on Windows or Windows can't handle some solid traffic, but long term maintenance and development is more costly for heterogeneous web applications that have a Windows link in their chain.&nbsp;</div>
+<p />
+<div><strong>Version Control and Development Model</strong></div>
+<p />
+<div>I prefer git, and I've fallen in love with topic branches, which have had real time savings on the projects I've incorporated them into. &nbsp;</div>
+<p />
+<div>Imagine developing a new feature in a new branch, only to be notified of a serious bug in production. &nbsp;With a DVCS like git, you just switch over to the branch in production, make a fix, deploy it to your test environments, test it, and deploy it to prod. After that, you switch right back to your topic branch and continue working on new features. When you're done with the topic, or feature, just switch to the target branch and merge that one over.</div>
+<p />
+<div>I've argued that SVN does not allow this kind of development model, and I was wrong, it does. However, the merge process is not nearly as simple. You must figure out a range of revisions to merge from one branch to the other (if you plan on keeping the branch around), or follow the "reintegration" process, which merges all changes in that branch into the current branch (the SVN docs highly recommend you delete this branch afterwards). I find that the context switch for SVN is just too expensive, why waste time when it's so fast with git (or hg, bzr, etc.)?</div>
+<p />
+<div><strong>Deployment Automation</strong></div>
+<p />
+<div>This one goes hand-in-hand with a good VCS. &nbsp;The goal here is to be able to push updates and topic branches to a live server in <em>one command</em>. &nbsp;It might seem fine to manually deploy at first, but doing that ten times a day can really have an impact on your agility, especially if you are shipping branches to different test environments.</div>
+<p />
+<div>Tools I use to make this easier: SSH, Python Fabric, and GNU Makefiles. &nbsp;Other popular tools are normal shell scripts, Capistrano (Ruby), and Cakefiles (Coffeescript).</div>
+<p />
+<div>A simple script to deploy to an environment with a given branch from your VCS might read like this:</div>
+<p />
+<div>1) push your local changes to a more central repository</div>
+<div>2) SSH into your remote server and cd to your application path</div>
+<div>3) Checkout the branch and pull in the changes</div>
+<div>4) Run any required makefiles or scripts</div>
+<div>5) Restart or soft-reload the server</div>
+<div>6) Realize you just did what used to take minutes in a matter of seconds</div>
+<p />
+<div><strong>Text Editor/IDE</strong></div>
+<p />
+<div>There isn't much to say here, but make sure your IDE is not slowing you down. &nbsp;Things to watch out for: you spend a long time finding menu entries, you spend time figuring out esoteric build problems ("did I refresh the solution explorer? did I clean? did I hit this random menu option I had to spend hours searching online for?").</div>
+<p />
+<div>In my most recent job I spent a lot of time in Eclipse and Visual Studio, and both were fine. For most of my work I prefer vim.</div>
+<p />
+<div><strong>Programming Languages</strong></div>
+<p />
+<div>Again, a personal preference. &nbsp;I love Python and I love using Django for web application development. &nbsp;Efficiency issues here are less related to the language than to the tools and standards of the language. &nbsp;As a web development example, creating models that map to the database and writing a view to handle them is faster for me to do in Django than Asp.NET or Asp.NET MVC. I also find larger frameworks like Spring to be overly complex, requiring a lot of configuration and brain power to get running.&nbsp;</div>
+<p />
+<div>Things to watch out for here: make sure you can map functions to URLs very quickly (and through a regex so your URLs aren't littered with file extensions like .aspx), and you can quickly reload and ship updates. &nbsp;An issue with some application servers for Java and C# is you have to manually push the binaries of your new compiled code to the server, which causes slower deployments (especially if you are on Windows where remote automation is already laborious enough).</div>
+<p />
+<div>Most modern MVC frameworks for most modern languages allow you to process serialized form data as a model, which is convenient and saves time. I highly suggest using one if you plan on developing web services.</div>
+  

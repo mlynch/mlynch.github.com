@@ -1,0 +1,80 @@
+--- 
+layout: post
+title: Installing Sentry and Raven for Logging in Django
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "103373027"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/installing-sentry-and-raven-for-logging-in-dj
+tags: []
+
+type: post
+status: publish
+---
+
+    <p>I finally got Sentry and Raven correctly installed for Django, and I thought it was worth a really quick blog post, considering the gaping holes in documentation the projects have.</p>
+<p />
+<div>If you've used django-sentry before, the project has been split into a generic logging server (Sentry) and logging clients (Raven). The goal I guess is to make Sentry more framework and language agnostic. It comes at a pretty heavy cost of additional complexity compared to the old django-sentry. I've broken the steps down to make it easier to install.</div>
+<p />
+<div>Be aware, these steps below require Django 1.3.1, and will not work without it (see the raven docs for older versions of Django).&nbsp;</div>
+<p />
+<div><strong>1. Install Sentry</strong></div>
+<p />
+<div>If you are using virtualenv I'll assume you already know how to manage your packages with it, so adjust this command accordingly. &nbsp;Run</div>
+<p />
+<div>easy_install -U sentry</div>
+<p />
+<div><strong>2. Install Raven</strong></div>
+<p />
+<div>easy_install -U raven</div>
+<p />
+<div><strong>3. Configure sentry</strong></div>
+<p />
+<div>Sentry uses a simple python file to configure itself. We must create the config file by running</div>
+<p />
+<div>sentry init</div>
+<p />
+<div>which will use the default path of ~/.sentry/<a href="http://sentry.conf.py">sentry.conf.py</a>. &nbsp;If you want to change it, run&nbsp;</div>
+<p />
+<div>sentry init /desired/path/<a href="http://sentry.conf.py">sentry.conf.py</a></div>
+<p />
+<div><strong>4. Create sentry tables</strong></div>
+<p />
+<div>sentry upgrade [/path/to/config/if/not/default/<a href="http://sentry.conf.py">sentry.conf.py</a>]</div>
+<p />
+<div><strong>5. Configure django</strong></div>
+<p />
+<div>Add 'raven.contrib.django' to your INSTALLED_APPS tuple. &nbsp;Copy over the SENTRY_KEY value generated inside the <a href="http://sentry.conf.py">sentry.conf.py</a> file and add it to your django settings file:</div>
+<p />
+<div>SENTRY_KEY='KEYHERE'</div>
+<p />
+<div><strong>6. Run sentry</strong></div>
+<p />
+<div>sentry start [/path/to/config/if/not/default/<a href="http://sentry.conf.py">sentry.conf.py</a>]</div>
+<p />
+<div><strong>7. View sentry and copy project public and private key</strong></div>
+<p />
+<div>This part hung me up for a long time as the docs seemed to just assume you would know how to configure django to connect to the sentry server. &nbsp;Open up your browser and point it to the running instance of sentry (9000 is the default port). &nbsp;Log in with the admin user/password created with the sentry upgrade command, and click Projects -&gt; Manage on the dropdown in the header of the sentry dashboard. &nbsp;Copy the long URL under "Default"</div>
+<p />
+<div><strong>8. Configure Raven to send logging to Sentry in your Django app</strong></div>
+<p />
+<div>Paste that URL into this value in your django settings file:</div>
+<p />
+<div>SENTRY_DSN='URL HERE'</div>
+<p />
+<div>Add these lines in your views file or wherever you want to log to Sentry:</div>
+<p />
+<div>
+<div>client = get_client()</div>
+<div>client.captureException()</div>
+<p />
+<div>logger = logging.getLogger(__name__)</div>
+</div>
+<p />
+<div><strong>9. Log away</strong></div>
+<p />
+<div>Call logger.error() to log an error, for example.</div>
+<p />
+<div><strong>Conclusion</strong></div>
+<p />
+<div>Sentry is awesome, but the docs are too opaque. I hope this helps you get logging set up for your Django app!</div>
+  

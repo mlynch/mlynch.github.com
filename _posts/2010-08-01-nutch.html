@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Nutch
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "24716364"
+  _searchme: "1"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/nutch
+tags: []
+
+type: post
+status: publish
+---
+
+    <p>Lately I've been trying to get a hold on <a href="http://nutch.apache.org/">Apache Nutch</a>, a web crawling and indexing system. If you've never used Nutch before, it works by breaking down the job of indexing and crawling web pages into different steps in the pipeline. For example, you start by <strong>Injecting </strong>a list of "seed" urls that you want to begin your crawl from. Then, you <strong>Generate </strong>a list of pages that need to be fetched based on these seed URLs. Next, the actual work of <strong>Fetching </strong>the pages happens, with the fetch database needing to be <strong>Updated </strong>on completion. The last three steps are then repeated as desired to increase the "depth" of the crawl (every time you <strong>Fetch </strong>new pages you find more "outlinks" which <strong>Generate </strong>uses for the next round of <strong>Fetching</strong>). Finally, we <strong>Invert </strong>all of the links we have found (I'm still fuzzy on this step) and we can <strong>index </strong>our documents in either a local lucene index for Nutch or <strong>send them to solr</strong>. <p /> Nutch is complex and just writing this post has helped me understand some of the steps a bit better. I still encounter issues in the cycle but once I figure it all out I think I'll really enjoy Nutch.</p>
+  

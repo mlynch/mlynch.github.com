@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Nutch Bugs
+published: true
+meta: 
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_post_id: "24732875"
+  _searchme: "1"
+  posterous_60e8ef2b7d9ddd23e14a941a8878b49c_permalink: http://maxlynchmadison.posterous.com/nutch-bugs
+tags: []
+
+type: post
+status: publish
+---
+
+    I've encountered a few bugs in Nutch 1.1 this evening, specifically with the <b>parse</b> step of nutch cycle.  The parse step is when all files that have been fetched are processed and parsed to obtain their content.  For example, this is when PDF files are parsed to pull out their text.  It seems that when encountering a strange file format with a misrepresented mime-type, the parse step will appear to hang until it runs out of memory (presumably trying to process this document).  As a separate bug, the parser will fail with a NullPointerException in ParseSegment.java if the ParseUtil.parse method doesn't properly handle a document.  The former has been solved with this patch: <a href="https://issues.apache.org/jira/browse/NUTCH-696">https://issues.apache.org/jira/browse/NUTCH-696</a> but the latter is new, but potentially caused by the parse timeout being enforced by the NUTCH-696 patch.  I've created a new bug with a patch here: <a href="https://issues.apache.org/jira/browse/NUTCH-868">https://issues.apache.org/jira/browse/NUTCH-868</a> but both patches seem to fix any parse bugs I was having, so all is well!
+  
