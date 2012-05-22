@@ -200,3 +200,9 @@ ul.posts {
   margin: 10px 0px 20px 0px;
   color: #888;
 }
+
+#disqus_thread {
+  margin-top: 15px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
