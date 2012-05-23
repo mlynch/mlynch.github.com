@@ -20,7 +20,7 @@ In many other industries, this just isn't the case. Let's say you love making ca
 
 I think it's better that way. You know your product inside and out. If anyone engages you in a discussion about the product, you'll be able to yap their ears off for hours on end. Your passion rubs off on anyone that you share your product with. You don't have to rehearse your pitch and you can answer tough questions with insight.
 
-Even if you hate business or socializing and you despite those aspects of running a company, you will most likely be a more effective leader of your company than someone else who might have more traditional business skills but doesn't really "get" what your product is or what it's capable of. And trust me, you can ignore the uptight business bullshit and still build a real company.
+Even if you hate business or socializing and you despise those aspects of running a company, you will most likely be a more effective leader of your company than someone else who might have more traditional business skills but doesn't really "get" what your product is or what it's capable of. And trust me, you can ignore the uptight business bullshit and still build a real company.
 
 If you are capable of making something, just fucking make it. You don't need a business person to get it off the ground, you are smart and intelligent and I'm sure you can figure out how to wire up a credit card form to make money from it.
 
