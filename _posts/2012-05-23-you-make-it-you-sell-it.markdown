@@ -22,10 +22,10 @@ I think it's better that way. You know your product inside and out. If anyone en
 
 Even if you hate business or socializing and you despise those aspects of running a company, you will most likely be a more effective leader of your company than someone else who might have more traditional business skills but doesn't really "get" what your product is or what it's capable of. And trust me, you can ignore the uptight business bullshit and still build a real company.
 
-If you are capable of making something, just fucking make it. You don't need a business person to get it off the ground, you are smart and intelligent and I'm sure you can figure out how to wire up a credit card form to make money from it.
+If you are capable of making something, just fucking make it. You don't need a business person to get it off the ground, you are smart and intelligent and I'm sure you can figure out how to wire up a credit card form to make money from it. If it makes sense to bring in extra domain knowledge as you expand, do it then, after you've built and tested your idea with actual customers.
 
 On the flip side, if you are writing a lot of software for a product you don't really get or feel a connection with, go work on something else. Chances are there's a niche out there waiting for your brand of passion and skill, and you and the world will be better off for it.
 
 I want to see more people that make the bread selling it. Think of all the companies you admire, chances are most of them are lead by passionate people who truly love working on their products, not just a CEO reading a script and collecting a paycheck. 
 
-These leaders might be [quirky](http://en.wikipedia.org/wiki/Elon_Musk) or [lack superb social skills](http://en.wikipedia.org/wiki/Larry_Page), but whitewashed companies don't win any passionate fans.
+These leaders might be [quirky](http://en.wikipedia.org/wiki/Elon_Musk) or [lack superb social skills](http://en.wikipedia.org/wiki/Larry_Page), but whitewashed companies don't win passionate fans.
