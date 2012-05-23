@@ -28,4 +28,4 @@ On the flip side, if you are writing a lot of software for a product you don't r
 
 I want to see more people that make the bread selling it. Think of all the companies you admire, chances are most of them are lead by passionate people who truly love working on their products, not just a CEO reading a script and collecting a paycheck. 
 
-These leaders might be [quirky](http://en.wikipedia.org/wiki/Elon_Musk) or [lack superb social skills](http://en.wikipedia.org/wiki/Larry_Page), but whitewashed companies don't win passionate fans.
+These leaders might be [quirky](http://en.wikipedia.org/wiki/Elon_Musk) or [lack superb social skills](http://en.wikipedia.org/wiki/Larry_Page), but we can't help but be infected with their passion and energy.
