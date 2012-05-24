@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Make It You Sell It
+title: Make it Yourself, Sell it Yourself
 category: Blog
 tags: startups
 year: 2012
