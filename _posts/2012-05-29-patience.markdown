@@ -1,0 +1,27 @@
+---
+layout: post
+title: Patience in Startups
+category: Blog
+tags: startups
+year: 2012
+month: 5
+day: 29 
+published: true
+summary: 
+---
+
+# {{ page.title }} #
+
+<p class="meta">29 May 2012 - Madison</p>
+
+Patience is difficult for me. I find it hard to sit still and not make decisions or take control of a situation. I like to jump in and commit to stuff before I've given it enough thought.
+
+Being a salaried employee has actually helped me be patient. It's hard not to be patient as an employee because you aren't going anywhere. Your job will most likely be here tomorrow. You hopefully like the people you work with and you look forward to coming in each day and working with them. You're not answering to investors and your reputation isn't on the line in a public way. There are also natural rate limiters on work loads (culture, compensation limits, lack of equity, etc.).
+
+When you are running your own company, you don't have those rate limiters. Each day feels so incredibly important to our survival that it's difficult to just "chill out" and *wait*. It's hard not to believe doing lots of stuff quickly will make you more successful in a shorter amount of time. You feel that as the driver of the bus you've got to put the pedal to the metal to get where you dream of going.
+
+If I wasn't making a point to be patient, my new startup [Codiqa](http://codiqa.com/) may have gone in some really different directions, only just a few months into its life. Instead, we are making the decision to wait and just focus on our product. We've got customers, they love our product, and there is a lot we can do to improve our current offering and grow our company over the next year or two.
+
+Being impatient is a great way to fall into a "spinning pivot of death": doing one thing, not waiting or focusing long enough to see any meaningful results, and then pivoting into something different. 
+
+I've done that before and I'm working really hard to make sure it doesn't happen again. "Patience, patience, patience" is a common saying in our office. Maybe it should be in yours, too.
