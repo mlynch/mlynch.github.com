@@ -14,7 +14,7 @@ summary:
 
 <p class="meta">8 June 2012 - Madison</p>
 
-Two days ago I spoke on a panel at the [Wisconsin Entrepreneurs Conference](http://www.wisconsintechnologycouncil.com/events/ent_conf/). The panel was made up of Forrest Woolworth of [PerBlue](http://perblue.com/) and Matt Howard of [U Connect](http://www.uconnectllc.com/). The topic of the panel was college startups, our experiences running them, and our advice to other college kids interested in starting companies while in college.  I think it's an interesting topic and I have much more to say than I was able to due to time constraints. This blog is directed at people interested in joining startups, that have the desire to take the road less traveled and make themselves independently prolific.
+Two days ago I spoke on a panel at the [Wisconsin Entrepreneurs Conference](http://www.wisconsintechnologycouncil.com/events/ent_conf/). The panel was made up of Forrest Woolworth of [PerBlue](http://perblue.com/) and Matt Howard of [U Connect](http://www.uconnectllc.com/). The topic of the panel was college startups, our experiences running them, and our advice to other college kids interested in starting companies while in college.  I think it's an interesting topic and I have much more to say than I was able to due to time constraints. This blog is directed at people interested in joining or starting startups, that have the desire to take the road less traveled and make themselves independently prolific.
 
 Dream big, start small
 ----------------------
