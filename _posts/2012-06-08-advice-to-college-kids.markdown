@@ -40,6 +40,15 @@ Put your earmuffs on
 
 If you are new to starting a company you will feel the need to do lots of networking, attend events, and other things that aren't directly related to your business. It's common advice from young entrepreneurs that much of this is wasted time, and when you dig into it you'll be better at predicting it. There is so much bullshitting going on that you just have to be confident that you'll be better off for tuning it out. I've blogged about [bullshit networking](http://maxlynch.com/blog/be-real-honesty-in-professional-networking/) before, but the basic idea is that if you are finding it really hard to form honest relationships with certain people in the business community, stop wasting your time trying to. I really cherish the stronger connections I've made, but it takes a long time and they were not formed through sales pitches.
 
+Say "no" to business plans
+--------------------------
+
+You can win lots of money and services by doing business plan contests. But, you are wasting precious time that could have been spent *actually building something*. At the end of the day what does a company need to survive, customers or business plan contest trophies?
+
+Business plans are complete bullshit, too. You end up tweaking the numbers so they look nice and perfect. You are just guessing and pretending. You'll be in for a rude awakening when you put your product into the wild and it breaks all your rules.
+
+There are some cool contests starting up like the [CS NEST](https://contest.cs.wisc.edu/) contest that ask you to make something real. I won $5k from one of these contests, *and* I had something to show for it. Do these instead or don't do any at all.
+
 Do it now
 ---------
 
