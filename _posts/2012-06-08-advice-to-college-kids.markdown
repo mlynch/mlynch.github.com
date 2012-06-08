@@ -33,7 +33,7 @@ Oh, and if you're like me and you want to be self-employed for the rest of your 
 Don't wear a suit
 -----------------
 
-Assuming you are not one of the tech hubs, when you venture out and join the local business community you will feel really young and out of place. You will feel obligated to dress up and be "professional."  Don't do it if you don't feel like it's "you": these meaningless standards are dying out.
+Assuming you don't live in one of the tech hubs of the US, when you venture out and join the local business community you will feel really young and out of place. You will feel obligated to dress up and be "professional."  Don't do it if you don't feel like it's "you": these meaningless standards are dying out.
 
 Put your earmuffs on
 --------------------
