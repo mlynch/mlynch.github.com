@@ -24,7 +24,9 @@ I know it's easy to get caught up with delusions of grandeur. Don't let them dis
 Drop out, or not
 ----------------
 
-I graduated in four years from UW-Madison. I didn't drop out, so I'm not an authority on this. But, maybe *you* should. Why not apply to [Y Combinator](http://ycombinator.com/) or [TechStars](http://techstars.com/) right now? In my opinion, being confident and independent enough to not do what everyone else is doing (i.e. staying in school) will only separate you from your peers in the future. In a world where there are too many graduates and not enough jobs, why don't you do something that far fewer people are doing, like starting a company? It sure seems like a better idea than taking on tons of debt.
+I graduated in four years from UW-Madison. I didn't drop out, so I'm not an authority on this. But, maybe *you* should. Why not apply to [Y Combinator](http://ycombinator.com/) or [TechStars](http://techstars.com/), and consider college your backup plan? I can guarantee you the experience will be better for your career and startup. 
+
+Being confident and independent enough to not do what everyone else is doing (i.e. staying in school) will only better separate you from your peers. In a world where there are too many graduates following the "plan" and not enough jobs, why don't you do something that far fewer people are doing, like starting a company? It sure seems like a better idea than taking on tons of debt.
 
 If you don't want to drop out, think hard about your priorities. When you graduate, what will employers care more about, grades or creative projects? What about the employer that _you want to work for_? Don't worry about impressing employers who care about shit that doesn't matter, you would hate working there anyways.
 
