@@ -28,7 +28,7 @@ I graduated in four years from UW-Madison. I didn't drop out, so I'm not an auth
 
 Being confident and independent enough to not do what everyone else is doing (i.e. staying in school) will only better separate you from your peers. In a world where there are too many graduates following the "plan" and not enough jobs, why don't you do something that far fewer people are doing, like starting a company? It sure seems like a better idea than taking on tons of debt.
 
-If you don't want to drop out, think hard about your priorities. When you graduate, what will employers care more about, grades or creative projects? What about the employer that _you want to work for_? Don't worry about impressing employers who care about shit that doesn't matter, you would hate working there anyways.
+If you don't want to drop out, think hard about your priorities. When you graduate, what will employers care more about, grades or good, passionate work? What about the employer that _you want to work for_? Don't worry about impressing employers who care about shit that doesn't matter, you would hate working there anyways.
 
 Oh, and if you're like me and you want to be self-employed for the rest of your life, then what do _you_ care more about?
 
