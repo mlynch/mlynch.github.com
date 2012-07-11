@@ -57,15 +57,28 @@ table {
 /*
 /*****************************************************************************/
 
+
+/*
 #share-box {
   width: 108px;
   height: 60px;
-  left: 50px;
+  left: -120px;
+  top: 0px;
   position: absolute;
 }
 #share-box.fixed {
   position: fixed;
   top: 40px !important;
+}
+@media only screen and (max-width : 860px) {
+  #share-box {
+    display: none;
+  }
+}
+  */
+#share-box {
+  width: 300px;
+  margin: 10px 0px;
 }
 
 ul.posts {
@@ -173,7 +186,7 @@ ul.posts {
 /*****************************************************************************/
 
 #post {
-
+  position: relative;
 }
 
   /* standard */
