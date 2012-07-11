@@ -57,6 +57,17 @@ table {
 /*
 /*****************************************************************************/
 
+#share-box {
+  width: 108px;
+  height: 60px;
+  left: 50px;
+  position: absolute;
+}
+#share-box.fixed {
+  position: fixed;
+  top: 40px !important;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -90,6 +101,19 @@ ul.posts {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+}
+
+.title .face {
+  width: 110px;
+  height: 100px;
+}
+
+.title .face img {
+  border-radius: 5px;
+}
+
+.title .info {
+  width: 475px;
 }
 
   .site .title a {
@@ -197,7 +221,7 @@ ul.posts {
   }
 
 .info {
-  margin: 10px 0px 20px 0px;
+  /*margin: 10px 0px 20px 0px;*/
   color: #888;
 }
 
@@ -211,4 +235,20 @@ ul.posts {
 }
 .social {
   margin: 10px 0px;
+}
+
+.l {
+  float: left;
+}
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+ 
+.clearfix {
+  display: inline-block;
 }
