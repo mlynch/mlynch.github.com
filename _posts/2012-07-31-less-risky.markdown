@@ -34,3 +34,20 @@ I have experienced this first hand. The few times I've left my job were very dif
 In the end, each time I have been better off. I've dramatically improved my earning potential, learned a ton of new things, worked with really experienced people, and expanded my professional network many times over. I can safely say my value increased each time much more than if I had stayed at my job.
 
 In fact, staying at my job each time has been much riskier than leaving, I just couldn't see what the future held.
+
+Final Thoughts
+-----------
+
+Here are some thoughts that helped me finally make the leap. For each of these, if the answer lies beyond your current job, seriously consider the opportunity cost to ignore the problem.
+
+ 1. Picture yourself in your dream "job" (this could be self-employment). Is it what you're doing now?
+
+ 2. What if you moved all the way up in this job, would you feel satisfied?
+
+ 3. Will employers really care if you left your job, as long as it's not a pattern of consistent quitting? Would you even want to work for them if they did?
+
+ 4. Are you significantly underpaid compared to average earners in your field? Do you feel taken advantage of? Are you respected by your employers?
+
+ 5. Do you feel like you could be learning more? Do you want a bigger challenge?
+
+__What about you? Have you left a job and wish you did it sooner? Or did you regret it? How did you reconcile your choice given the other options?__
