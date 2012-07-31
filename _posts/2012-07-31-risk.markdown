@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risk
+title: Less Risky: Leaving your Job
 category: Blog
 tags: startups life
 year: 2012
