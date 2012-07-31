@@ -33,4 +33,4 @@ I have experienced this first hand. The few times I've left my job were very dif
 
 In the end, each time I have been better off. I've dramatically improved my earning potential, learned a ton of new things, worked with really experienced people, and expanded my professional network many times over. I can safely say my value increased each time much more than if I had stayed at my job.
 
-In fact, staying at my job each time has been much riskier than leaving, I just couldn't trust what the future held.
+In fact, staying at my job each time has been much riskier than leaving, I just couldn't see what the future held.
