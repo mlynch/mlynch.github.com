@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Success"
+category: Blog
+tags: startups life
+year: 2012
+month: 8
+day: 13
+published: true
+summary: 
+---
+
+# {{ page.title }} #
+
+<p class="meta">13 August 2012 - Madison, WI</p>
+
+When young adults graduate from college, they are told to find a good job, provide value to an employer, and work their way up. That is what "success" looks like.
+
+Since leaving my full time job in January to start my own company, I've realized that this definition doesn't apply in the world of entrepreneurship. 
+
+Instead of impressing your employers and getting a good performance review and a raise, you have to impress yourself and the community. Instead of being known inside the company, you have to be known in the rest of the world.
+
+This is an important detail for anyone thinking about starting their own company. If you would rather have someone else hold the measuring stick and give you pats on the back when you do well, running a company is probably not for you.
+
+If you can get passed this lack of authoritative feedback, you'll find yourself really growing into a more confident, self-sufficient person. 
+
+You might even find yourself questioning everything you've ever been told. Is there really just one path to success, or many? Is there a better one for *you* out there?
+
+Here's to success!
