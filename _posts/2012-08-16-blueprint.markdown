@@ -56,7 +56,7 @@ This is one of your first user tests. Build a simple landing page that pitches t
 
 Gather emails and send them to Mailchimp. I now use double-opt-in on my forms because they increase the quality of your mailing lists as the product grows.
 
-Make sure you offer a way to tweet about the page after signing up. This is your first change to build some virality.
+Make sure you offer a way to tweet about the page after signing up. This is your first chance to build some virality.
 
 __7. Build a Proof-of-Concept__
 
