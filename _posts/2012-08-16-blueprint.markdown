@@ -38,7 +38,7 @@ __3. Find a business model__
 
 I am only interested in business models that offer a product for a price, either recurring or large one-time purchases. I am not interested in creating social product businesses since the failure rates are astronomical and I don't find the business models interesting.
 
-When in doubt, I start with a monthly recurring charge since it's mutually beneficial: you get somewhat consistent revenue and customers get a product that can sustain itself and won't disappear like Sparrow.
+When in doubt, I start with a monthly recurring charge since it's mutually beneficial: you get somewhat consistent revenue and customers get a product that can sustain itself and won't [disappear like Sparrow](http://news.ycombinator.com/item?id=4271376).
 
 __4. Pick a name, find a domain__
 
@@ -48,7 +48,7 @@ I find open domains on [Instant Domain Search](http://instantdomainsearch.com/) 
 
 __5. Use heroku for hosting__
 
-I used to use Linode or a VPS provider. I've since changed because Heroku will save you tons of time down the road. I've wasted hours setting up database backups, worrying about disk space usage, configuring web servers, etc. It's just not worth it. Use Heroku.
+I used to use Linode or Amazon EC2 a VPS provider. I've since changed because [Heroku](http://heroku.com/) will save you tons of time down the road. I've wasted hours setting up database backups, worrying about disk space usage, configuring web servers, etc. It's just not worth it. Use Heroku.
 
 Heroku gives you the most bang for your time, take advantage of it.
 
@@ -66,13 +66,13 @@ What constitutes a proof of concept will vary between each person and product. T
 
 For my main product [Codiqa](http://codiqa.com/), our POC was delayed since the software was a bit complicated to build.
 
-Perfection is *bad* here. Design details don't really matter at this point, so don't waste time getting it pixel-perfect.
+Perfection is *bad* here. Design details don't really matter at this point, so don't waste time getting it pixel-perfect. Do designs in CSS rather than image slices which are a pain to deal with.
 
 __8. Share and Listen__
 
 This is the part where you gather information and wait. Invite users from your mailing list and gather feedback with an embedded Google form.
 
-Listen for customers taking your rough sketch and filling in the missing parts, this means you are creating something they understand and find interesting. This is the making of user passion.
+Listen for customers taking your rough sketch and filling in the missing parts for you, this means you are creating something they understand and find interesting. This is user passion in the making.
 
 __9. Engage with users__
 
@@ -88,7 +88,7 @@ __11. Be careful with freemium__
 
 Freemium is a double-edged sword. On one hand, it helps lots of people get into your product, which increases your potential paying customer base later, but it can also devalue any premium plans you create.
 
-I removed freemium from Codiqa recently and we've since made more money. I'm no longer interested in freemium but I think n-day trials are still useful.
+I removed freemium from Codiqa recently and we've since made more money. I'm no longer interested in freemium but I think *n*-day trials are still useful.
 
 __12. Charge__
 
@@ -102,7 +102,7 @@ Marketing is not my strong point, and I used to think as a programmer I'd always
 
 It's actually easier than it sounds: share your passion for your product with others and spread the word. The most passionate marketers are far more effective than the most extroverted, smooth talkers. 
 
-Don't be a "salesperson", no one will believe you.
+Don't be a "salesperson", no one will believe or trust you.
 
 __14. Enjoy it__
 
