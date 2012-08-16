@@ -68,7 +68,7 @@ Perfection is *bad* here. Design details don't really matter at this point, so d
 
 __8. Share and Listen__
 
-This is the part where you gather information and wait. Try to get some choice target users into the product through Twitter and gather emails through Mailchimp (API or form). Encourage feedback with an embedded google form. 
+This is the part where you gather information and wait. Invite users from your mailing list and gather feedback with an embedded Google form.
 
 Listen for customers taking your rough sketch and filling in the missing parts, this means you are creating something they understand and find interesting. This is the making of user passion.
 
