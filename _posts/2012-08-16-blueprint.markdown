@@ -20,9 +20,11 @@ When starting a new product, here are the steps I take:
 
 __1. Find something people want__
 
-"What is something people really want? Is there a pain point somewhere that I can solve? Do *I* have any pain points that could be solved?"
+"What is something people really want? Is there a pain point somewhere that I can solve? Do *I* have any pain points that could be solved? Am I passionate about this space?"
 
 Twitter search is one of the best ways to research this quickly. You can validate a business model through tweeting faster than anything else.
+
+If you aren't passionate about this, don't do it. The best work comes from authentic passion.
 
 __2. Find something people will pay for__
 
