@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Web Product Development Blueprint
+title: Building a Web Product - Start to Finish
 category: Blog
 tags: startups
 year: 2012
