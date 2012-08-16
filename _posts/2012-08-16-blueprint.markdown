@@ -48,9 +48,9 @@ I've had all kinds of names in the past. As long as people can spell it and I li
 
 I find open domains on [Instant Domain Search](http://instantdomainsearch.com/) since they won't steal your domain if you leave the shopping cart. I buy the domains on Namecheap.
 
-__5. Use heroku for hosting__
+__5. Use Heroku for hosting__
 
-I used to use Linode or Amazon EC2 a VPS provider. I've since changed because [Heroku](http://heroku.com/) will save you tons of time down the road. I've wasted hours setting up database backups, worrying about disk space usage, configuring web servers, etc. It's just not worth it. Use Heroku.
+I used to use Linode or Amazon EC2 as a VPS provider. I've since changed because [Heroku](http://heroku.com/) will save you tons of time down the road. I've wasted hours setting up database backups, worrying about disk space usage, configuring web servers, etc. It's just not worth it. Use Heroku.
 
 Heroku gives you the most bang for your time, take advantage of it.
 
