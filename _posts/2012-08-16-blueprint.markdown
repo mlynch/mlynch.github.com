@@ -38,6 +38,8 @@ __3. Find a business model__
 
 I am only interested in business models that offer a product for a price, either recurring or large one-time purchases. I am not interested in creating social product businesses since the failure rates are astronomical and I don't find the business models interesting.
 
+Also, if the product will require a lot of manual work with an unclear path to future automation I'd avoid it, it's too much work for too little return.
+
 When in doubt, I start with a monthly recurring charge since it's mutually beneficial: you get somewhat consistent revenue and customers get a product that can sustain itself and won't [disappear like Sparrow](http://news.ycombinator.com/item?id=4271376).
 
 __4. Pick a name, find a domain__
