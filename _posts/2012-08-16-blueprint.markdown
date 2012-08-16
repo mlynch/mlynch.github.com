@@ -28,7 +28,7 @@ If you aren't passionate about this, don't do it. The best work comes from authe
 
 __2. Find something people will pay for__
 
-"Would *I* pay for this solution to the problem. If not, does there exist a type of person who would?"
+"Would *I* pay for this solution? If not, does there exist a type of person who would?"
 
 I think it's okay if the pain point addressed isn't exactly yours, as long as you feel confident you understand the domain and can really solve someone's problem in a way that is valuable to them.
 
