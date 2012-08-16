@@ -20,7 +20,7 @@ When starting a new product, here are the steps I take:
 
 __1. Find something people want__
 
-"What is something people really want? Is there a pain point somewhere that I can solve? Do *I* have any pain points that could be solved? Am I passionate about this space?"
+*"What is something people really want? Is there a pain point somewhere that I can solve? Do *I* have any pain points that could be solved? Am I passionate about this space?"*
 
 Twitter search is one of the best ways to research this quickly. You can validate an idea through tweeting faster than anything else.
 
@@ -28,13 +28,13 @@ If you aren't passionate about this, don't do it. The best work comes from authe
 
 __2. Find something people will pay for__
 
-"Would *I* pay for this solution? If not, does there exist a type of person who would?"
+*"Would *I* pay for this solution? If not, does there exist a type of person who would?"*
 
 I think it's okay if the pain point addressed isn't exactly yours, as long as you feel confident you understand the domain and can really solve someone's problem in a way that is valuable to them.
 
 __3. Find a business model__
 
-"Is there a business model here with a clear value exchange that I can build a sustainable business on?"
+*"Is there a business model here with a clear value exchange that I can build a sustainable business on? Can it be easily automated and scaled?"*
 
 I am only interested in business models that offer a product for a price, either recurring or large one-time purchases. I am not interested in creating social product businesses since the failure rates are astronomical and I don't find the business models interesting.
 
