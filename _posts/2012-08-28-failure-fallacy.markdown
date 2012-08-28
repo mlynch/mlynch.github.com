@@ -14,7 +14,7 @@ summary:
 
 <p class="meta">28 August 2012 - Madison</p>
 
-Over 93% of startups fail...right?
+9 in 10 startups fail...right?
 
 You went big. Like *Facebook* big. Shit, *bigger* than Facebook big. You had a great social platform, lots of promise and maybe some rocket fuel from top investors...and *nothing*. The startup failed.
 
