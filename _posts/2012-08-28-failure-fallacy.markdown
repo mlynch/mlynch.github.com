@@ -20,9 +20,7 @@ You went big. Like *Facebook* big. Shit, *bigger* than Facebook big. You had a g
 
 You analyze your failure and wonder what happend. Conclusion: the world just wasn't ready. But maybe the startup failed because it wasn't built on any sound economics. 
 
-Why do we build yet another social sharing app, or a website to change yet another of our regretable habits? Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
-
-I'm sick of this. Startups don't have to fail in such large numbers. Why do we keep making the same mistakes? If not even [Like a Little](http://lal.com/) which supposedly had a "virality index...higher than Facebook's in their fastest growth stage" could build a big social product, why do we keep thinking we'll be able to?
+I'm sick of this. Startups don't have to fail in such large numbers. Why do we keep making the same mistakes? Why do we keep building yet another social product? If not even [Like a Little](http://lal.com/) which supposedly had a "virality index...higher than Facebook's in their fastest growth stage" could build a big social product, why do we keep thinking we'll be able to? Business is not a popularity contest, and this is not high school.
 
 The best way to build a real business has not changed for centuries, and the formula is incredibly simple: _Make something people want, charge for it, and scale it up._
 
