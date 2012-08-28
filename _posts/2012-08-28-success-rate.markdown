@@ -16,9 +16,13 @@ summary:
 
 Over 93% of startups fail...right?
 
-Since 95% of startups fail, it seems you have two choices: not even bother, or go really big. Like Facebook bit. Shit, *bigger* than Facebook big! 
+You went big. Like *Facebook* big. Shit, *bigger* than Facebook big. You had a great social platform, lots of promise and maybe some rocket fuel from top investors...and *nothing*. The startup failed.
 
-Or maybe 88% of startups fail because so many are starting "startups" not based on any sound economics. Another social sharing app, or a website to change yet another of our regretable habits. Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
+You analyze your failure and wonder what happend. Conclusion: the world just wasn't ready.
+
+But maybe the startup failed because it wasn't built on any sound economics. 
+
+Why do we build yet another social sharing app, or a website to change yet another of our regretable habits? Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
 
 I'm sick of this. Startups don't have to fail in such large numbers. Why do we keep making the same mistakes? If not even [Like a Little](http://lal.com/) which supposedly had a "virality index...higher than Facebook's in their fastest growth stage" could build a big social product, why do we keep thinking we'll be able to?
 
@@ -30,4 +34,4 @@ The great thing is, you can do this without having to jump into the deep end. Ru
 
 It's time to ignore the startup failure statistic. Take it from 37signals: "Don't get fooled by the stats. Other people's failures are just that: other peoples failures. If other people can't market their product, it has nothing to do with you."
 
-Get out there and *sell*.
+Get out there and *sell*. 
