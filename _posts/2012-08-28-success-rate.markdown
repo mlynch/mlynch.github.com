@@ -24,8 +24,8 @@ The best way to build a real business has not changed for centuries, and the for
 
 It's not easy. In fact, it's fucking *hard*. But we live in a time of unprecedented personal empowerment. Each and every one of us is capable of turning our passions into products and building sustainable businesses on them. You can't build a sustainable business without money, so why build a product that doesn't build revenue right in?
 
-I want to see *more* people succeeding in running their own company. But it's so hard when so many jump right back into the wrong formula.
+The great thing is, you can do this without having to jump into the deep end. Run some experiments on the side. Keep your day job. Build something while you still have an income stream. Work nights and weekends to make it happen.
 
-It's time to ignore this statistic. Take it from 37signals: "Don't get fooled by the stats. Other people's failures are just that: other peoples failures. If other people can't market their product, it has nothing to do with you."
+It's time to ignore the startup failure statistic. Take it from 37signals: "Don't get fooled by the stats. Other people's failures are just that: other peoples failures. If other people can't market their product, it has nothing to do with you."
 
 Get out there and *sell*.
