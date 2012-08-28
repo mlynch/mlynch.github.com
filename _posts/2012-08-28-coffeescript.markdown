@@ -20,4 +20,4 @@ The language feels so unique: practical, yet non-commercial or standards-laden. 
 
 In a decade of building software I have not used a language that is of such high quality yet so informal. It's a joy to use and I regret to say I doubted it for so long.
 
-I'm a believer now and I hope to encourage *ever* Javascript developer to spend some time with it. Use it on some new code. You'll absolutely love it if you give it time.
+I'm a believer now and I hope to encourage *every* Javascript developer to spend some time with it. Use it on some new code. You'll absolutely love it if you give it time.
