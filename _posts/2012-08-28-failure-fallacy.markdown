@@ -18,9 +18,7 @@ Over 93% of startups fail...right?
 
 You went big. Like *Facebook* big. Shit, *bigger* than Facebook big. You had a great social platform, lots of promise and maybe some rocket fuel from top investors...and *nothing*. The startup failed.
 
-You analyze your failure and wonder what happend. Conclusion: the world just wasn't ready.
-
-But maybe the startup failed because it wasn't built on any sound economics. 
+You analyze your failure and wonder what happend. Conclusion: the world just wasn't ready. But maybe the startup failed because it wasn't built on any sound economics. 
 
 Why do we build yet another social sharing app, or a website to change yet another of our regretable habits? Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
 
