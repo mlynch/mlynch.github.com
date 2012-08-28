@@ -14,9 +14,11 @@ summary:
 
 <p class="meta">28 August 2012 - Madison</p>
 
-Over 93% of startups fail...right? You have two choices then: either not even bother, or go really big. Like really *fucking* big. Facebook big. Shit, BIGGER than facebook big.
+Over 93% of startups fail...right?
 
-Or maybe 84% of startups fail because so many are starting "startups" not based on any sound economics. Another social sharing app, or a website to change yet another of our regretable habits. Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
+Since 95% of startups fail, it seems you have two choices: not even bother, or go really big. Like Facebook bit. Shit, *bigger* than Facebook big! 
+
+Or maybe 88% of startups fail because so many are starting "startups" not based on any sound economics. Another social sharing app, or a website to change yet another of our regretable habits. Thinking that business is a popularity contest and this is high school all over again. Listening to TechCrunch and thinking if you can just convince an investor to give you their money you'll have a gigantic exit and can skip the whole profit part.
 
 I'm sick of this. Startups don't have to fail in such large numbers. Why do we keep making the same mistakes? If not even [Like a Little](http://lal.com/) which supposedly had a "virality index...higher than Facebook's in their fastest growth stage" could build a big social product, why do we keep thinking we'll be able to?
 
