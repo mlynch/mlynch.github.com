@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CoffeeScript is Fuck You"
+title: "CoffeeScript"
 category: Blog
 tags: software
 year: 2012
