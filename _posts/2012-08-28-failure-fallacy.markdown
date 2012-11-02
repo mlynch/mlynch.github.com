@@ -10,9 +10,10 @@ published: true
 summary: 
 ---
 
+<p class="meta">August 28th, 2012</p>
+
 # {{ page.title }} #
 
-<p class="meta">28 August 2012 - Madison</p>
 
 9 in 10 startups fail...right?
 
