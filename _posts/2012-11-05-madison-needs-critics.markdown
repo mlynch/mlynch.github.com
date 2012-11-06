@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madison Needs Critics"
+title: "Madison Needs Harsher Critics"
 category: Blog
 tags: madison
 year: 2012
