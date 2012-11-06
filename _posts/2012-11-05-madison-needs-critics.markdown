@@ -14,7 +14,7 @@ summary:
 
 # {{ page.title }} #
 
-I was down in San Antonio, TX this weekend hanging out with some local tech people. One thing that struck me was how publically critcal everyone was of San Antonio.
+I was down in San Antonio, TX this weekend hanging out with some local tech people. One thing that struck me was how publicly critical everyone was of San Antonio.
 
 Comparisons are constantly made between Austin and San Antonio. SA is just the lame brother of Austin, and everyone accepts it. But at the same time, they realize that there is a bright future for the city and they want to be a part of it, they just aren't going to let it continue to be lame by ignoring the warts.
 
@@ -24,7 +24,7 @@ Part of this is SF is a city of transplants. Many people "love" their old town b
 
 All this made me realize that Madison needs harsher critics too. It's almost a sin to talk poorly of this city, for fear it would damage our burgeoning community and tech scene.
 
-I should be able to share my problems with Madison without fear that I'll be labled "anti-Madison," someone working against the great progress this city has seen and will continue to see.
+I should be able to share my problems with Madison without fear that I'll be labeled "anti-Madison," someone working against the great progress this city has seen and will continue to see.
 
 We need to stop being so sensitive about our small town and more focused on how to improve it. We should also stop writing purely glowing articles about Madison, it deserves better.It's far from perfect, and to pretend otherwise is just delusional.
 
