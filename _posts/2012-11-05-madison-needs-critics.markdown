@@ -22,13 +22,13 @@ San Antonio isn't the only town with an intensely critical citizenry. Those livi
 
 Part of this is SF is a city of transplants. Many people "love" their old town but moved to SF for greater opportunities, or to live with more people their own age, or to escape cultural problems back home. 
 
-As SF is a popular destination, there isn't really any need to defend it. But it's partly this raw criticism and honesty that draws younger generations to it.
+As SF is a popular destination, there isn't really any need to defend it. But it's partly this "take nothing personally" attitude that draws younger generations to it.
 
 All this made me realize that Madison needs harsher critics too. It's almost a sin to talk poorly of this city, for fear it would damage our burgeoning community and tech scene.
 
 I should be able to share my problems with Madison without fear that I'll be labeled "anti-Madison," someone working against the great progress this city has seen and will continue to see.
 
-We need to stop being so sensitive about our small town and more focused on how to improve it. We should also stop writing purely glowing articles about Madison, it deserves better. It's far from perfect, and to pretend otherwise is just delusional.
+We need to stop being so sensitive about our small town and more focused on how to improve it. Instead of only talking about the great things about this city, we should talk about what needs work, or where we come up short.
 
 Let's get back to working to build a great city with a realistic and objective attitude.
 
