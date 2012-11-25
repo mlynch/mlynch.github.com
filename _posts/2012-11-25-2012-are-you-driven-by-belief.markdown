@@ -78,6 +78,6 @@ Find What you Love. Do it.
 
 I believe that life is too precious to waste it doing things that don't matter to you. Regardless of what beliefs you have that motivate you, try to incorporate them into your job, your relationships, and your approach to learning.
 
-Belief doesn't have to be religious or spiritual. It can simply be a set of values that motivate you more than shallow pursuits.
+Belief doesn't have to be religious or spiritual. It can simply be a set of values that motivate you and which you believe to be true.
 
 Go out there and believe in something...and then do it.
