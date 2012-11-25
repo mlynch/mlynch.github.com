@@ -18,7 +18,9 @@ I recently found out about the awesome little book [Strengths Finder 2.0](http:/
 
 Among other realizations, Strengths Finder pointed out that I might be strong in the Belief theme.
 
-This shocked me, since generally I don't find "belief" very interesting as it pertains to spirituality. I'm a staunch atheist, and I find the scientific and physical world far more exciting and full of wonder and truth than religion. 
+This shocked me, since generally I don't find "belief" very interesting as it pertains to spirituality. I'm a staunch atheist, and I find the scientific and physical world far more exciting and full of wonder and truth than religion.
+
+I also thing belief makes us act irrationally in the face of truth or implausibility.
 
 However, I think belief is actually a really strong driver in my life, and I just didn't understand what it really meant until now.
 
@@ -65,8 +67,16 @@ In my current company, my co-founder [Ben](http://bensperry.com/) and I strive t
 
 It's not always natural to communicate personality across a product boundary, but it's a skill worth learning. Sales, marketing, talent acquisition, and employee happiness depend on it.
 
-Believe in something. Work towards it.
+Believe in something, but be Flexible
 --------------------------------------
+
+Belief is a very strong theme, but it's also difficult to manage properly. If we aren't careful, our beliefs can lead us to ignore evidence or conflicting opinions that challenge them.
+
+I find it helps to add one more belief to our arsenal: that truth trumps all. In the face of uncertainty or challenges to our closely held belief systems, we should strive to find truth and truth alone.
+
+
+Find What you Love. Do it.
+--------------------------
 
 I believe that life is too precious to waste it doing things that don't matter to you. Regardless of what beliefs you have that motivate you, try to incorporate them into your job, your relationships, and your approach to learning.
 
