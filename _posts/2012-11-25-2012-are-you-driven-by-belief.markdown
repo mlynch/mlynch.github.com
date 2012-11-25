@@ -18,9 +18,7 @@ I recently found out about the awesome little book [Strengths Finder 2.0](http:/
 
 Among other realizations, Strengths Finder pointed out that I might be strong in the Belief theme.
 
-This shocked me, since generally I don't find "belief" very interesting as it pertains to spirituality. I'm a staunch atheist, and I find the scientific and physical world far more exciting and full of wonder and truth than religion.
-
-I also thing belief makes us act irrationally in the face of truth or implausibility.
+This shocked me, since generally I don't find "belief" very interesting as it pertains to spirituality. I'm a staunch atheist, and I find the scientific and physical world far more exciting and full of wonder and truth than religion. I also think belief can make us act irrationally in the face of truth or implausibility.
 
 However, I think belief is actually a really strong driver in my life, and I just didn't understand what it really meant until now.
 
