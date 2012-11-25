@@ -41,7 +41,7 @@ I also believe too many people spend too much time doing things they don't love.
 
 I strongly believe if we invest in practical entrepreneurship education from childhood through adulthood, we will have more people being self-sufficient while doing what they love. I think the world would also be a more interesting and happy place to live.
 
-This belief is partly what drove me to start [Madison Iterators](http://madisoniterators.com/), a weekly meetup of creators. I wanted to create a stronger support system for those trying to be self-sufficient.
+This belief is partly what drove me to start [Madison Iterators](http://madisoniterators.com/), a weekly meetup of creators and entrepreneurs. I believe support systems are crucial in helping us become more self-sufficient, and we need more of them.
 
 __2. Scientific understanding is under-appreciated but increasingly important.__
 
@@ -49,7 +49,7 @@ I like to think of this more as a fact than a belief, but the lack of scientific
 
 It's amazing what things like Reddit are doing to bring enlightenment to more people around the world. I want to help make Science more appreciated in our society and a bigger driver of behavior in government and daily life.
 
-I believe in that understanding how the world works makes us more conscious of how our actions impact everything around us, and help us explain things that were previously mysterious.
+I believe that understanding how the world works makes us more conscious of how our actions impact everything around us, and help us explain things that were previously mysterious.
 
 We don't have to look far for examples where a lack of understanding of science has had severe negative impacts on our society and ecosystems.
 
