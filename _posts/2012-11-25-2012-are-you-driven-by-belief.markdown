@@ -47,7 +47,7 @@ __2. Scientific understanding is under-appreciated but increasingly important.__
 
 I like to think of this more as a fact than a belief, but the lack of scientific knowledge in the world is a problem I want to help solve.
 
-It's amazing what things like Reddit are doing to bring enlightenment to more people around the world. I want to help make Science more appreciated in our society and bigger driver of behavior in government and daily life.
+It's amazing what things like Reddit are doing to bring enlightenment to more people around the world. I want to help make Science more appreciated in our society and a bigger driver of behavior in government and daily life.
 
 I believe in that understanding how the world works makes us more conscious of how our actions impact everything around us, and help us explain things that were previously mysterious.
 
