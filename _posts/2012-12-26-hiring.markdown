@@ -20,8 +20,9 @@ It's an extremely exciting time. I've always been interested in what makes a gre
 
 Ben and I have come up with a few list of cultural details and perks we think are important for a small software company such as Drifty, and we intend to roll these out over 2013.
 
-Since this is a work in progress, I'd love your feedback on our goals, or if we are missing something important.
+Since this is a work in progress, I'd love your feedback on our list, including anything we are missing.
 
+__Features of a Great Workplace__
 
 * **They pick their computer**. Buy it for them, let them pick the hostname, etc. No one should have to work on Windows if they'd prefer OS X. And if they want a laptop to take home, they should get one.
 
