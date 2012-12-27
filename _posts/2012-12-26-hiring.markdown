@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Creating a Great Place to Work"
+category: Blog
+tags: madison
+year: 2012
+month: 12
+day: 26
+published: true
+summary: 
+---
+
+<p class="meta">December 26th, 2012</p>
+
+# {{ page.title }} #
+
+As of last week I am proud to say that Ben and I hired our first ever employee for our software company, [Drifty Co.](http://drifty.co/)
+
+It's an extremely exciting time. I've always been interested in what makes a great work environment, and now I have the chance to create one.
+
+Ben and I have come up with a few list of cultural details and perks we think are important for a small software company such as Drifty, and we intend to roll these out over 2013.
+
+Since this is a work in progress, I'd love your feedback on our goals, or if we are missing something important.
+
+
+* **They pick their computer**. Buy it for them, let them pick the hostname, etc. No one should have to work on Windows if they'd prefer OS X. And if they want a laptop to take home, they should get one.
+
+* **Let them pick their own email address**. This avoids the unfortunate case where early employees are firstname@company.com and later employees are first.last@company.com or some other less "important" naming convention. No one likes being a number.
+
+* **No defined vacation policy**. We'd like to experiment with no "earned" vacation time. Instead, everyone should feel comfortable taking time off when they'd like to or need to, within sane limits. I think the difficulty with this will be making sure people actually take time off and know the policy is there to make sure you do (this is a cultural consideration, primarily).
+
+* **Company credit card access**. Within reasonable limits, no one should have to ask to purchase things that make their job easier.
+
+* **A clear salary system**. This will be the most difficult to implement and nail down the details, but I think it's extremely important to have a salary system that eliminates any large variations in compensation among similar positions that were primarily based on negotiation experience at hire-time. I've worked in environments where employers tried to squeeze the maximum dollar out of inexperienced employees and it's a short term gain with really negative long term consequences.
+  
+  It's also important that progress in the startup is reflected in salaries. If employees join on at a reduced salary in the hope that the company will continue to grow, and it does, they should not have to renegotiate to have their salaries "upgraded."
+
+* **Quality furniture and office space**. No one likes working on crappy desks with bad chairs, or in office spaces that just don't compare to other companies. I'd like us to all have quality chairs and desks, with a fun office space that we can be proud of. Basically, that means having a ping pong table and a kegerator.
+
+* **A brand to be proud of**. Everyone should be proud to represent the logos and branding of our company and products. If they aren't, we should make drastic changes to fix that. We should have high quality Swag that employees actually want to wear, and it should be free to them.
+
+* **Dedicate time and resources to learning**. Everyone should take time to learn and improve their skillset. All employees should be invited to conferences the company attends, as well as any they would like to go to on their own. New technologies should be embraced, if at least to explore new ideas and approaches.
+
+  We should encourage side projects and periodically hack on things together that are not related to work.
+
+
+This is a growing list, but Ben and I feel very strongly that to hire and retain great people that love their jobs and have happy lives, these details have to be taken seriously right from the beginning.
+
+The cost of getting this wrong is drastic. Hiring employees is a large time and cost investment, and a toxic work environment is difficult to clean up as well as being a failure of our dreams.
+
