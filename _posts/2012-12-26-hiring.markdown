@@ -32,7 +32,7 @@ __Features of a Great Workplace__
 
 * **Company credit card access**. Within reasonable limits, no one should have to ask to purchase things that make their job easier.
 
-* **A clear salary system**. This will be the most difficult to implement and nail down the details, but I think it's extremely important to have a salary system that eliminates any large variations in compensation among similar positions that were primarily based on negotiation experience at hire-time. I've worked in environments where employers tried to squeeze the maximum dollar out of inexperienced employees and it's a short term gain with really negative long term consequences.
+* **A clear salary system**. This will be the most difficult to implement and nail down the details, but I think it's extremely important to have a salary system that eliminates any large variations in compensation among similar positions that were primarily based on negotiation experience at hire-time. We've worked in environments where employers tried to squeeze the maximum dollar out of inexperienced employees and it's a short term gain with really negative long term consequences.
   
   It's also important that progress in the startup is reflected in salaries. If employees join on at a reduced salary in the hope that the company will continue to grow, and it does, they should not have to renegotiate to have their salaries "upgraded."
 
