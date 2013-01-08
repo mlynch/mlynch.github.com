@@ -733,7 +733,14 @@ ul.posts {
 ul.posts li {
   line-height: 22px;
   font-size: 16px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
+  min-height: 50px;
+}
+ul.posts li .count {
+  min-height: 15px;
+  font-size: 12px;
+  color: #888;
+  font-style: italic;
 }
 
 ul.posts span {

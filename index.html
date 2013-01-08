@@ -13,21 +13,14 @@ title: Max Lynch
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-    <li>
-      <div>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-      <div><span>{{ post.date | date_to_string }}</span><div> 
-      <div>
-        <a href="https://twitter.com/share" data-url="http://maxlynch.com{{post.url}}" class="twitter-share-button" data-via="maxlynch">Tweet</a>
-        <!--<g:plusone href="{{post.url}}" size="medium"></g:plusone>-->
-      </div>
-    </li>
-      
+      <li>
+        <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        <div class="count">
+        </div>
+      </li>
     {% endfor %}
   </ul>
 </div>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" class="codiqa">
   (function() {
     var wh = document.createElement('script'); wh.type = 'text/javascript'; wh.async = true;    wh.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'threeabout.me/host/9fb4212a/js';
@@ -35,3 +28,43 @@ title: Max Lynch
   })();
 </script>
 
+<script>
+  var countQueue = []
+  $('.posts li').each(function() {
+    var a = $(this).find('a')
+    var url = 'http://maxlynch.com' + a.attr('href');
+    console.log(url);
+    countQueue.push({
+      a: a,
+      url: url
+    });
+  });
+
+  var queueInterval = setInterval(function() {
+    if(countQueue.length) {
+      var next = countQueue.shift();
+      (function(next) {
+        var u = 'http://urls.api.twitter.com/1/urls/count.json?url=' + next.url;
+        $.ajax({
+          type: 'GET',
+          dataType: 'jsonp',
+          url: u,
+          success: function(resp) {
+            count = resp.count;
+            if(count == 1) {
+              ct = 'person';
+            } else if(count == 0) {
+              count = 'no'
+              ct = 'one';
+            } else {
+              ct = 'people';
+            }
+            next.a.parent().find('.count').html('<i>' + count + ' ' + ct + ' liked this</i>');
+          }
+        });
+      })(next);
+    } else {
+      clearInterval(queueInterval);
+    }
+  }, 30);
+</script>
