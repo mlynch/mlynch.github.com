@@ -26,7 +26,7 @@ __The problem is, it's all 100% complete and utter bullshit.__
 
 In the time it took you to draft up a business plan you could have actually gone out and talked to customers. Hell, you could have sold them something, too!
 
-That's really how businesses become successful: by building real traction with real customers. The great thing is you don't have to have a fucking clue what you are going to do if you actually get a customer, but just getting one teaches you a hell of a lot more than your BP would.
+That's really how businesses become successful: by building real traction with real customers. The great thing is you don't have to have a clue what you are going to do if you actually get a customer, but just getting one teaches you a lot more than your BP would.
 
 Oh, and forget about winning if you don't have a strong relationship with the judging panel. As in real life, BPC success is driven on relationships, not merit.
 
@@ -44,6 +44,6 @@ These aren't the only alternatives. There are hackathons, Lean Startup meetups, 
 
 If you look at what is happening in more advanced startup communities like SF and NY, absolutely no one ever talks about BPCs. There is a reason: they just don't make sense for most companies.
 
-__Skip it and start working on building your fucking business instead of fantasizing about it.__
+__Skip it and start working on building your business instead of fantasizing about it.__
 
 *What are your thoughts? Do you find BPCs valuable? Am I just plain wrong? Please leave a comment below.*
