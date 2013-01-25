@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Habits that Kill Productivity"
+category: Blog
+tags: startups work
+year: 2013
+month: 1
+day: 24
+published: true
+summary: 
+---
+
+<p class="meta">January 24th, 2013</p>
+
+# {{ page.title }} #
+
+Some habits that hurt my productivity that I need to work out:
+
+* Checking email every 5 minutes
+* Checking TweetDeck on about 10 columns every 5 minutes
+* Checking Stripe every 5 minutes for how payments for our business are doing
+* Writing every little blog post idea that comes to mind as soon as I think of it.
+
+Back to work.
