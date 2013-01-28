@@ -24,6 +24,8 @@ The thing is, every time we hit a milestone, it goes over without much fanfare. 
 
 I've never been as happy or had as much fun achieving something as I had trying to get to the goal.
 
-I doubt any of my future achievements will ever make me feel as happy as I do now, deep in the moment, deep in the grind. Maybe life isn't about the goal, but enjoying the ride with people you love.
+I doubt any of my future achievements will ever make me feel as happy as I do now, deep in the moment, deep in the grind. 
+
+Maybe life isn't about the end, but enjoying the ride with people you love. Don't throw that away.
 
 Good night.
