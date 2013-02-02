@@ -16,7 +16,7 @@ summary:
 
 "Lifestyle business" is, frankly, a derogatory term used by fundraising zealots to describe a business where the *assumed* aspirations of the founders are to simply provide a nice lifestyle for themselves, and that's it.
 
-It's often used in comparison to "high-growth venture backed" businesses.
+It's often used in comparison to "high-growth venture backed" businesses that are out to "change the world on a rocketship".
 
 I find the term rather silly when you look at what Mojang [just pulled in](http://news.ycombinator.com/item?id=5151227) for Minecraft (supposedly on 236 MM USD of revenue). If you use the definition of a lifestyle business as one that has not taken outside funding, then Mojang is a lifestyle business.
 
