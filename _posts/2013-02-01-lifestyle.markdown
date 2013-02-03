@@ -22,4 +22,4 @@ I find the term rather silly when you look at what Mojang [just pulled in](http:
 
 Take a look at Github and Mailchimp for two more examples that many would have called "lifestyle business" but are absolutely killing it and truly changing the way the world works.
 
-Do us all a favor: stop using such shallow terms. There are some really awesome companies that don't fit the fundraising moldyet have had huge impacts on the world, and we should be celebrating them.
+Do us all a favor: stop using such shallow terms. There are some really awesome companies that don't fit the fundraising mold yet have had a huge impact on the world, and we should be celebrating them.
