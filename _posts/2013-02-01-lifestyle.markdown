@@ -14,7 +14,7 @@ summary:
 
 # {{ page.title }} #
 
-"Lifestyle business" is, frankly, a derogatory term used by fundraising zealots to describe a business where the *assumed* aspirations of the founders are to simply provide a nice lifestyle for themselves, and that's it.
+"Lifestyle business" is, frankly, a derogatory term used by fundraising zealots and the tech media to describe a business where the *assumed* aspirations of the founders are to simply provide a nice lifestyle for themselves, and that's it.
 
 It's often used in comparison to "high-growth venture backed" businesses that are out to "change the world" on their rocketship.
 
