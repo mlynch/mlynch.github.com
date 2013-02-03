@@ -22,4 +22,6 @@ I find the term rather silly when you look at what Mojang [just pulled in](http:
 
 Take a look at Github and Mailchimp for two more examples that many would have called "lifestyle business" but are absolutely killing it and truly changing the way the world works.
 
+Personally, I've had my company called a lifestyle business many times, because we have bootstrapped and might continue to do so. It always seems implied that we want to stay small and not really make a dent in the universe. In reality, we just have a way of working that feels right to us, and we think we can grow just fine without it and still make a big impact.
+
 Do us all a favor: stop using such shallow terms. There are some really awesome companies that don't fit the fundraising mold yet have had a huge impact on the world, and we should be celebrating them.
