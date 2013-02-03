@@ -18,8 +18,8 @@ summary:
 
 It's often used in comparison to "high-growth venture backed" businesses that are out to "change the world" on their rocketship.
 
-I find the term rather silly when you look at what Mojang [just pulled in](http://news.ycombinator.com/item?id=5151227) for Minecraft (supposedly on 236 MM USD of revenue). If you use the definition of a lifestyle business as one that has not taken outside funding, then Mojang is a lifestyle business.
+I find the term rather silly when you look at what Mojang [just pulled in](http://news.ycombinator.com/item?id=5151227) for Minecraft (92 MM USD profit on 236 MM USD of revenue). If you use the definition of a lifestyle business as one that has not taken outside funding, then Mojang is a lifestyle business.
 
-Take a look at Github and Mailchimp for two more examples that many would have called "lifestyle business" but are absolutely killing it.
+Take a look at Github and Mailchimp for two more examples that many would have called "lifestyle business" but are absolutely killing it and truly changing the way the world works.
 
-Do us all a favor: stop using such shallow terms. The depth of entrepreneurship in the modern age deserves better.
+Do us all a favor: stop using such shallow terms. There are some really awesome companies that don't fit the fundraising moldyet have had huge impacts on the world, and we should be celebrating them.
