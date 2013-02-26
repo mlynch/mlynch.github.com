@@ -16,7 +16,7 @@ summary:
 
 Tonight I was watching a [great interview](http://www.youtube.com/watch?v=KmdiQcybhLw) with Austin Meyer, the creator of the popular [X-Plane](http://x-plane.com/) flight simulator.
 
-Austin bootstrapped [Laminar Research](http://www.laminarresearch.com/), creator of X-Plane, which has been around for at least two decades, and has contended with some huge competition from [Microsoft Flight Simulator](http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator) that traditionally dominated the market.
+Austin bootstrapped [Laminar Research](http://www.laminarresearch.com/), the company behind X-Plane, which has been around for at least two decades, and has contended with some huge competition from [Microsoft Flight Simulator](http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator) that traditionally dominated the market.
 
 But in 2012 Microsoft decided to launch a toned-down version of their popular Flight Simulator line called "Flight", which they promptly [cancelled](http://en.wikipedia.org/wiki/Microsoft_Flight#Cancellation) .
 
