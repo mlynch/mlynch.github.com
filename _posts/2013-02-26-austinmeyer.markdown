@@ -34,4 +34,4 @@ Back when he started writing X-Plane he said
 
 Tonight, Austin is my inspiration to create a company with products that come from the heart. If you focus on that, you just might beat your big, entrenched competitors and get to work on something you love at the same time.
 
-Stay true, and stay the course. Good night.
+Stay true, and stay the course.
