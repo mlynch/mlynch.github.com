@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrapped Inspiration: Austin Meyer of X-Plane"
+title: "David vs. Goliath - The Power of Passion"
 category: Blog
 tags: business
 year: 2013
