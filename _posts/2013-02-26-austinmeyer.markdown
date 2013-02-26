@@ -16,22 +16,20 @@ summary:
 
 Tonight I was watching a [great interview](http://www.youtube.com/watch?v=KmdiQcybhLw) with Austin Meyer, the creator of the popular [X-Plane](http://x-plane.com/) flight simulator.
 
-Austin has essentially bootstrapped a highly profitable software company with complex technology in the face of huge competitors, and over time has come out on top.
-
-In the interview, when Austin is asked what the ultimate goal and dream of X-Plane is, he answers
-
-> "I guess the only goal is to design the best flight simulator in the world that everybody wants to use to see what it's like to fly airplanes...And it's not a number of people, it's not a number of dollars in revenue, and it's not a number of people on the payroll. The only question is: can we make a flight simulator where when people fly it they say this is like flying a real airplane."
-
 X-Plane has been around for at least a decade (maybe two), and has contended with some huge competition from [Microsoft Flight Simulator](http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator) that traditionally dominated the market.
 
 But in 2012 Microsoft decided to launch a toned-down version of their popular Flight Simulator line called "Flight", which they promptly [cancelled](http://en.wikipedia.org/wiki/Microsoft_Flight#Cancellation) .
 
 The Wikipedia article on Flight has this to say about the cancellation: "Reviewers indicated that sales may have been slow due to competition from other products, such as X-Plane."
 
-When you work on something you love and your only goal is to make kick ass products that win on pure merit, that has to feel amazing.
+Austin bootstrapped X-Plane into a highly profitable software company with complex technology in the face of huge competitors, and has come out on top.
+
+In the interview, when Austin is asked what the ultimate goal and dream of X-Plane is, he answers
+
+> "I guess the only goal is to design the best flight simulator in the world that everybody wants to use to see what it's like to fly airplanes...And it's not a number of people, it's not a number of dollars in revenue, and it's not a number of people on the payroll. The only question is: can we make a flight simulator where when people fly it they say this is like flying a real airplane."
 
 The cool thing about Austin is he's just a big aviation nerd. He would be working on X-Plane even if it wasn't a business, and that's what I really like about him: he proves individual passion can overpower large, entrenched competition and create a [fanatic](http://x-plane.org/) customer base (disclaimer: I am one of those aspiring flight sim fanatics).
 
-Tonight, Austin is my inspiration to create a company with products that come from the heart. Stay true and stay the course.
+Tonight, Austin is my inspiration to create a company with products that come from the heart. I can safely say I would be working on [Drifty](http://drifty.co/) even if it wasn't a business, because it wasn't for half a year when its products were just a fun side project.
 
-Goodnight.
+Stay true, and stay the course. Good night.
