@@ -14,7 +14,7 @@ summary:
 
 # {{ page.title }} #
 
-Tonight I was watching [an interview](http://www.youtube.com/watch?v=KmdiQcybhLw) with Austin Meyer, the creator of the popular [X-Plane](http://x-plane.com/) flight simulator.
+Tonight I was watching a [great interview](http://www.youtube.com/watch?v=KmdiQcybhLw) with Austin Meyer, the creator of the popular [X-Plane](http://x-plane.com/) flight simulator.
 
 Austin has essentially bootstrapped a highly profitable software company with complex technology in the face of huge competitors, and over time has come out on top.
 
