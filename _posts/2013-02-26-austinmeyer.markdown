@@ -30,6 +30,8 @@ The Wikipedia article on Flight has this to say about the cancellation: "Reviewe
 
 When you work on something you love and your only goal is to make kick ass products that win on pure merit, that has to feel amazing.
 
+The cool thing about Austin is he's just a big aviation nerd. He would be working on X-Plane even if it wasn't a business, and that's what I really like about him. He proves individual passion (not to discount the X-Plane team) can overpower large entrenched competition.
+
 Tonight, Austin is my inspiration to create great products that come from the heart. Stay true and stay the course.
 
-Good night.
+Goodnight.
