@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Austin Meyer is my Idol"
+title: "Bootstrapped Inspiration: Austin Meyer of X-Plane"
 category: Blog
 tags: business
 year: 2013
