@@ -6,7 +6,11 @@ tags: startups
 year: 2013
 month: 2
 day: 1
+dateString: "February 1st, 2013"
 published: true
+backgroundImage: "https://s3.amazonaws.com/maxlynch.com/3194723378_e297469102_b.jpg"
+backgroundImageCredit: <a href="http://www.flickr.com/photos/10699036@N08/3194723378/" target="_blank">fredpanassac</a>
+backgroundImageStyle: "-webkit-filter: sepia(70%); filter: sepia(70%); -moz-filter: sepia(70%);"
 summary: 
 ---
 

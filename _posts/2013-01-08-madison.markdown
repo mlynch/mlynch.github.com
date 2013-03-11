@@ -7,6 +7,8 @@ year: 2013
 month: 1
 day: 8
 published: true
+backgroundImage: "https://s3.amazonaws.com/maxlynch.com/Madison_Wisconsin_skyline_night_0855_small.jpg"
+backgroundImageCredit: "unknown"
 summary: 
 ---
 

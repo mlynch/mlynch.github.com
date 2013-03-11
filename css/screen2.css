@@ -621,6 +621,7 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   #responsive-info {
     display: block !important;
+
   }
 	.sidebar {
 		display: none;
@@ -667,6 +668,8 @@ body {
   line-height: 24px;
   margin: 0;
   /*border-top: 7px solid #FFFF94;*/
+  /*font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;*/
+  font-family: "open sans", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -675,8 +678,40 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
-#post h1, h1.title {
+#post h1 {
+  display: none;
+}
+#post h1.title {
   font-weight: 800;
+  display: block;
+  font-family: "open sans", sans-serif;
+  font-size: 30px;
+  color: #111;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#post h1.title.offset {
+  /*
+  margin-top: -100px;
+  margin-bottom: 50px;
+  color: #fff;
+  font-size: 40px;
+  text-shadow: 0px 1px 15px rgba(0,0,0,0.7);
+  */
+}
+#post .meta { display: none; }
+
+
+@media only screen and (max-width: 767px) {
+  #post h1.title.offset {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #111;
+    font-size: 30px;
+    text-shadow: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 }
 
 h1 {
@@ -701,7 +736,8 @@ ul {
 }
 
 a {
-  color: #0C84E8;
+  /*color: #0C84E8;*/
+  color: rgb(49, 175, 130);
   text-decoration: none;
 }
 
@@ -710,7 +746,7 @@ a:hover {
 }
 
 a:visited {
-  color: #0C84E8;
+  color: rgb(49, 175, 130);
 }
 
 table {
@@ -822,11 +858,41 @@ ul.posts span {
   font-weight: 600;
 }
 
+.sidebar .meta {
+
+}
+.sidebar .meta.fixed {
+  position: fixed;
+  top: 0px;
+}
+.sidebar .meta .info {
+  font-size: 11px;
+  font-style: italic;
+  display: block;
+}
+.sidebar .meta h4.title {
+  margin: 0px;
+  font-size: 18px;
+}
+.sidebar .meta .social-buttons {
+  margin-top: 8px;
+}
+.sidebar .meta .social-buttons > * {
+  margin-right: 4px !important;
+}
+.sidebar .meta .social-buttons > *:last-child {
+}
+#face {
+  text-align: left;
+}
+#face img {
+  display: inline-block;
+}
+
 .content {
   font: 400 16px/22px "open sans", sans-serif;
-  border-left: 1px solid #DDD;
   padding-left: 40px;
-  padding-top: 25px;
+  padding-top: 3px;
 }
 
 .footer {
@@ -907,7 +973,75 @@ sup {
 
 #responsive-info {
   display: none;
-  text-align: center;
+  text-align: left;
   margin-bottom: 15px;
   font-size: 14px;
+  font-style: italic;
+  margin-top: -25px;
+  margin-bottom: 30px;
+}
+#responsive-info img {
+  display: block;
+  float: left;
+  margin: 0px;
+  margin-right: 20px;
+  margin-top: -10px;
+}
+
+.jumbotron {
+  position: relative;
+  margin-bottom: 20px;
+  color: #fff;
+  text-align: center;
+  height: 300px;
+  line-height: 300px;
+width: 100%;
+height: 300px;
+}
+
+.jumbotron-image {
+width: 100%;
+height: 100%;
+z-index: -1 !important;
+position: absolute;
+/*
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+*/
+}
+
+.jumbotron .credit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  color: #eee;
+  font-weight: normal;
+  font-size: 11px;
+  padding: 3px 10px;
+  line-height: 15px;
+}
+.jumbotron a {
+  font-weight: bold;
+  color: #eee;
+}
+
+.jumbotron h1 {
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "open sans", sans-serif;
+  font-weight: 600;
+  color: #fff;
+  font-size: 40px;
+}
+
+@media only screen and (max-width: 767px) {
+  .jumbotron {
+    height: 100px;
+  }
 }

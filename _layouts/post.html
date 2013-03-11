@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<script src="/js/post.js"></script>
+<!--<script src="/js/post.js"></script>-->
 <div id="post">
   <!--
   <div class="social">
@@ -18,17 +18,17 @@ layout: default
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
+{% if page.backgroundImage %}
+<h1 class="title offset">{{page.title}}</h1>
+{% else %}
+<h1 class="title">{{page.title}}</h1>
+{% endif %}
 
 {{ content }}
 
 <hr>
 
 <div id="post-bottom">
-  <div class="social">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="maxlynch">Tweet</a>
-    <g:plusone size="medium"></g:plusone>
-  </div>
-
   <div id="disqus_thread"></div>
   <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

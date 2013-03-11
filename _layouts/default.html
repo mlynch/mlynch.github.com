@@ -21,17 +21,22 @@
    <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 </head>
 <body>
-
+  {% if page.backgroundImage %}
+  <div class="jumbotron">
+    <div class="jumbotron-image"></div>
+    <div class="credit">Image credit: {{ page.backgroundImageCredit }}</div>
+  </div>
+  {% endif %}
   <div class="container">
     <div class="four columns sidebar">
       <nav>
-      <a href="/" style="text-decoration: none; display: block; text-align: center; margin-bottom: 15px">
+      <a href="/" style="text-decoration: none; display: block; margin-bottom: 15px" id="face">
         <img src="https://si0.twimg.com/profile_images/2267580936/kztws9hx14kocbphjfaf.png" style="height: 64px; border-radius: 100px; box-shadow: 0px 0px 2px rgba(0,0,0,0.3)" />
       </a>
-      <h2>I'm <a href="/">Max Lynch</a>.</h2>
+      <h2><a href="/">Max Lynch</a></h2>
       <ul>
-        <p>
-        I'm a developer and co-founder of <a href="http://drifty.co/">Drifty Co.</a> in Madison, makers of cloud-based dev tools 
+        <p style="font-style: italic">
+        Developer and co-founder of <a href="http://drifty.co/">Drifty Co.</a> in Madison, makers of cloud-based dev tools 
         <a href="http://codiqa.com/">Codiqa</a>
         and <a href="http://jetstrap.com/">Jetstrap</a>
         </p>
@@ -40,14 +45,30 @@
         <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="false">Follow me</a>
       </ul>
       </nav>
+      {% if page.category %}
+      <hr>
+      <div class="meta">
+        <h4 class="title">{{page.title}}</h4>
+        <div class="info"><time>Posted {{page.dateString}}</time> in {{page.tags}}</div>
+        <div class="social-buttons">
+          <a href="https://twitter.com/share" class="twitter-share-button" data-via="maxlynch" data-count="vertical">Tweet</a>
+          <g:plusone size="tall"></g:plusone>
+          <a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-via="maxlynch" >Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
+        </div>
+      </div>
+      {% endif %}
     </div>
     <div class="eleven columns content">
       <div id="home">
         <div id="responsive-info">
-          <a href="/" style="text-decoration: none; display: block; text-align: center; margin-bottom: 15px">
+          <a href="/" style="text-decoration: none; display: block; margin-bottom: 15px">
             <img src="https://si0.twimg.com/profile_images/2267580936/kztws9hx14kocbphjfaf.png" style="height: 64px; border-radius: 100px; box-shadow: 0px 0px 2px rgba(0,0,0,0.3)" />
           </a>
-          I'm <a href="/">Max Lynch</a>, founder of <a href="http://drifty.co/">Drifty Co.</a> in Madison, WI
+          {% if page.category %}
+          Written by <a href="/">Max Lynch</a>, founder of <a href="http://drifty.co/">Drifty</a>{% if page.dateString %}, on {{page.dateString}}{% endif %}. <a href="/">More by Max</a>
+          {% else %}
+          <a href="/">Max Lynch</a>, founder and CTO of <a href="http://drifty.co/">Drifty</a> in Madison, WI
+          {% endif %}
         </div>
 
   {{ content }}
@@ -77,6 +98,58 @@
 </div>
 
 <!--<a href="http://github.com/mlynch"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>-->
+<script src="/js/jquery.backstretch.js"></script>
+
+{% if page.backgroundImageStyle %}
+<style>
+  .jumbotron img {
+    {{page.backgroundImageStyle}}
+  }
+</style>
+{% endif %}
+<script>
+{% if page.backgroundImage %}
+$(document).ready(function() {
+  $('.jumbotron-image').backstretch('{{page.backgroundImage}}');
+  //$('.jumbotron-image').centerImage();
+});
+{% endif %}
+
+$.fn.fixie = function(opts) {
+  var offsetTop = opts.offsetTop || 0;
+
+  return this.each(function() {
+    var $el = $(this);
+
+    var originalSpot = $(this).is(':visible') ? $(this).offset() : null;
+
+    $(window).scroll(function(){
+      if(!$el.is(':visible')) {
+        originalSpot = null;
+        $el.removeClass('fixed');
+        $el.css('top', '');;
+        return;
+      }
+      if(originalSpot === null) {
+        originalSpot = $el.offset();
+      }
+      if($(window).scrollTop() > originalSpot.top - offsetTop) {
+        $el.addClass('fixed');
+        $el.css('top', offsetTop + 'px');
+      } else { 
+        $el.removeClass('fixed');
+        $el.css('top', '');
+      }
+    });
+  });
+}
+
+
+$('.sidebar .meta').fixie({
+  offsetTop: 20
+});
+
+</script>
 
 <script type="text/javascript">
 
