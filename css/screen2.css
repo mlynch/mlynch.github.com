@@ -941,6 +941,9 @@ sup {
   color: #AAA;
 }
 
+#home > h1 {
+  margin: 20px 0px;
+}
 #home h2 {
   color: #0C84E8;
 }
