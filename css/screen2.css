@@ -586,17 +586,16 @@
 		padding: 9px 20px 11px; }
 }
 
+@media only screen and (min-width: 959px) {
+  .sidebar .meta {
+    width: 220px;
+  }
+}
+
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	nav {
 		width: 160px; }
-	.sidebar h2 {
-		font-size: 18px;
-	}
-
-	.sidebar ul {
-		font-size: 14px;
-	}
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -687,8 +686,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "open sans", sans-serif;
   font-size: 30px;
   color: #111;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 #post h1.title.offset {
   /*
@@ -881,6 +880,20 @@ ul.posts span {
   margin-right: 4px !important;
 }
 .sidebar .meta .social-buttons > *:last-child {
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.sidebar h2 {
+		font-size: 18px;
+	}
+	.sidebar ul {
+		font-size: 14px;
+	}
+  .sidebar .meta {
+    width: 172px;
+  }
+  .sidebar .meta .social-buttons > * {
+    margin-right: 1px !important;
+  }
 }
 #face {
   text-align: left;
