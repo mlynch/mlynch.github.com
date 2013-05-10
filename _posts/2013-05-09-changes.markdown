@@ -22,7 +22,7 @@ Now we are doing much more than that. Each month is bigger than the last.
 
 And so many things have changed. 
 
-Everything we do now has to be put through the "10x" test: will this grow the company by an order of magnitude?
+Everything we do now has to be put through the "10x" test: will this grow the company by an order of magnitude? If not, it might not be worth doing.
 
 Our metrics have to be scrutinized to see where we are hurting and where we are enabling that potential growth.
 
