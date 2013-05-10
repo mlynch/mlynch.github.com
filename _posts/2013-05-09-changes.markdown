@@ -1,0 +1,44 @@
+---
+layout: post
+title: "It All Changes"
+category: Blog
+tags: startups
+year: 2013
+month: 5
+day: 9
+published: false
+summary: 
+---
+
+# {{ page.title }} #
+
+As my startup adventure has evolved, I've come to a much greater understanding of how far we've come, where we are today, and where we have yet to go.
+
+I remember the beginning of 2012 for my company [Drifty](http://drifty.com/) after we launched our first product [Codiqa](http://codiqa.com/). We made about $600 our first month. We got drunk the first time a credit card was charged through our Stripe account.
+
+A few months after that we had quadrupled it. I remember going crazy the first time we made over $2000 in a month.
+
+Now we are doing much more than that, and each month is bigger than the last. 
+
+And so many things have changed. 
+
+Everything we do now has to be put through the "10x" test: will this grow the company by an order of magnitude?
+
+Our metrics have to be scrutinized to see where we are hurting and where we are enabling that potential growth.
+
+The business teeters on a balance between creativity and conservatism. Being too reckless could kill what we've worked so hard to achieve. Being too careful could keep us from that 10x growth we are working to unlock.
+
+Some people think we're not very ambitious partly because Ben and I are bootstrapping Drifty and not going the VC route.
+
+The reality is we think every day how we can grow faster, but not in headcount or advertising spend. Instead it's revenue, partnerships, and profits.
+
+I hear of many startups that are making small amounts of money each month. They might thing that it's insignificant, or they might think it's amazing.
+
+The truth is two zeros can turn into three incredibly quickly, four even faster, and five in the blink of an eye.
+
+It's important to think ahead about where your company is going and what kind of foundation you are building.
+
+
+
+
+
