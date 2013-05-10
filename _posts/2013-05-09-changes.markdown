@@ -28,9 +28,7 @@ Our metrics have to be scrutinized to see where we are hurting and where we are 
 
 The business teeters on a balance between creativity and conservatism. Being too reckless could kill what we've worked so hard to achieve. Being too careful could keep us from that 10x growth we are working to unlock.
 
-Some people think we're not very ambitious partly because Ben and I are bootstrapping Drifty and not going the VC route.
-
-The reality is we think every day how we can grow faster, but not in headcount or advertising spend. Instead it's revenue, partnerships, and profits.
+Our operational mindset has changed in a fundamental way that I never predicted.
 
 I hear of many startups that are making small amounts of money each month. They might thing that it's insignificant, or they might think it's amazing.
 
