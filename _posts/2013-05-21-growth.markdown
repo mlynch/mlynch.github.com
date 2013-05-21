@@ -12,8 +12,7 @@ backgroundImageCredit: "unknown"
 summary: 
 ---
 
-Over the last half year, my company [Drifty](http://drifty.com/) has grown revenues about 500%. We blew through some of my conservative milestones and are doing well.
+Over the last half year, my company [Drifty](http://drifty.com/) has grown revenues about 500%. We blew through some of my conservative milestones and are doing quite well.
 
-But we are never satisifed. We are addicted to growth. 
+But one thing I wasn't prepared for was the complete lack of satisfaction with our early success.
 
-It's also why I don't think generally business people are "greedy" in the sense that they want money more than anything. Rather, they are always looking f
