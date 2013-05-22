@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Nerds can't Sell"
+category: Blog
+tags: startups
+year: 2013
+month: 5
+day: 22
+published: false
+summary: 
+---
+
+# {{ page.title }} #
+
