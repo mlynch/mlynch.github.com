@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The Internet"
+category: Blog
+tags: life
+year: 2013
+month: 5
+day: 28
+published: true
+summary:
+backgroundImage: http://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg
+backgroundImageCredit: Wikipedia
+---
+
+The Internet. 
+
+My connection to the world.
+
+My second home.
+
+My startup hub.
+
+My location independence.
+
+My career driver.
+
+My personality.
+
+My free time.
+
+My freedom to build anything, for free.
+
+My place to change the world.
