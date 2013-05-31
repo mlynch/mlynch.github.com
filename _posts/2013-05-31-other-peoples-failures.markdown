@@ -28,7 +28,9 @@ Having a business model, staying lean, charging as early as possible. These thin
 
 If you want to build a large social product or one that relies on a land grab without an initial business model, you should know what you are getting yourself into.
 
-If you want to start a more traditional business that generates revenue from day one and could become quite profitable, get paying customers as soon as possible. It's amazing how supportive early adopters can be when they are on board with your vision.
+If you want to start a more traditional business that generates revenue from day one and could become quite profitable, get paying customers as soon as possible. 
+
+It's amazing how supportive early adopters can be when they are on board with your vision.
 
 Startup failure statistics are bullshit. You *can* be better at this game.
 
