@@ -22,4 +22,11 @@ I've taken one quote in particular to heart:
 
 > "Don't get fooled by the stats. Other people’s failures are just that: other people’s failures."
 
+Your startup doesn't have to fail. It's not all up to chance. There are certain things you can do to improve your chances of success.
+
+
+At the end of the day though, the one trap that few first time entrepreneurs don't see is your constantly rising expectations.
+
+
+
 
