@@ -43,18 +43,31 @@
         <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="false">Follow me</a>
       </ul>
       </nav>
+      
       {% if page.category %}
       <hr>
+      {% endif %}
       <div class="meta">
+        {% if page.category %}
         <h4 class="title">{{page.title}}</h4>
-        <div class="info"><time>Posted {{page.dateString}}</time> in {{page.tags}}</div>
+        <div class="info"><time>Posted {{page.dateString}}</time> in <b>{{page.tags}}</b></div>
         <div class="social-buttons">
           <a href="https://twitter.com/share" class="twitter-share-button" data-via="maxlynch" data-count="vertical">Tweet</a>
           <g:plusone size="tall"></g:plusone>
           <a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-via="maxlynch" >Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
         </div>
+        {% endif %}
+        <hr>
+        <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=maxlynch', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+          <h4 class="title">Get my newsletter.</h4>
+          Periodic articles on bootstrapping, startups, and life.
+          <p style="margin-top: 10px">
+          <input type="text" style="width:190px" name="email" placeholder="Email"/></p>
+          <input type="hidden" value="maxlynch" name="uri"/>
+          <input type="hidden" name="loc" value="en_US"/>
+          <input type="submit" value="Subscribe" />
+        </form>
       </div>
-      {% endif %}
     </div>
     <div class="eleven columns content">
       <div id="home">
