@@ -9,7 +9,7 @@ day: 31
 published: true
 summary:
 backgroundImage: http://maxlynch.com.s3.amazonaws.com/Explosion.jpg
-backgroundImageCredit: 
+backgroundImageCredit: DOE
 ---
 
 In the startup world, there is this "statistic" that 9 in 10 startups fail. I don't know where the hell it came from, but it's a very convenient stat thrown around by investors, entrepreneurs, and the media that helps give startups an air of extreme risk and uncertainty.
