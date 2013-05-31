@@ -8,8 +8,8 @@ month: 5
 day: 31
 published: false
 summary:
-backgroundImage: http://www.bu.edu/litphil/files/2011/02/Raphael-Plato-and-Aristotle.jpg
-backgroundImageCredit: Boston University
+backgroundImage: http://maxlynch.com.s3.amazonaws.com/Explosion.jpg
+backgroundImageCredit: 
 ---
 
 In the startup world, there is this "statistic" that 9 in 10 startups fail. I don't know where the hell it came from, but it's a very convenient stat thrown around by investors, entrepreneurs, and the media that helps give startups an air of extreme risk and uncertainty.
