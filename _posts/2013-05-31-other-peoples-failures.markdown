@@ -12,12 +12,14 @@ backgroundImage: http://www.bu.edu/litphil/files/2011/02/Raphael-Plato-and-Arist
 backgroundImageCredit: Boston University
 ---
 
-In the startup world, there is this "statistic" that 9 in 10 startups fail. I don't know where the hell it came from, but it's a very convenient stat thrown around by investors, entrepreneurs, and the media.
+In the startup world, there is this "statistic" that 9 in 10 startups fail. I don't know where the hell it came from, but it's a very convenient stat thrown around by investors, entrepreneurs, and the media that helps give startups an air of extreme risk and uncertainty.
 
-I recently found a [Quora discussion](http://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) on the topic which explores the truth behind the stat.
+I recently found a [Quora discussion](http://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) on the topic which explores the truth behind the stat. Conclusion? The stat is essentially bullshit, but emerges from self-interested slicing of small data sets.
 
-The stat is essentially bullshit and shouldn't be taken seriously.
+One of my favorite business books, [Rework](http://37signals.com/rework), discusses the concept of failure as a "rite of passage" - something expected in the business world that you are either in that lucky 10% or you're a fuck up.
 
-One of my favorite business books, Rework, discusses the concept of failure as a "rite of passage" - something expected in the business world that you are either in that lucky 10% or you're a fuck up.
+I've taken one quote in particular to heart: 
 
-Other people’s failures are just that: other people’s failures.
+> "Don't get fooled by the stats. Other people’s failures are just that: other people’s failures."
+
+
