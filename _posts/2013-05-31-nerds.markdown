@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Nerds: You Are Wrong"
+category: Blog
+tags: startups
+year: 2013
+month: 5
+day: 31
+published: false
+summary: 
+---
+
+Over the last few months I've become frustrated with my nerd friends on Hacker News. It seems every Show HN or new launch brings with it predictable detraction.
+
+These comments run the gamut from complaining about a Facebook login button to a video file that was 2.4MB in size. Generally all these comments suggest the project will utterly fail because of these things.
+
+Many of these people seem to *want* to start a startup and make money selling things they've made. These preconceptions about what works and what doesn't when you are building a business are *just plain wrong*.
+
+
+
