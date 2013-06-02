@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">January 28th, 2013</p>
-
-# {{ page.title }} #
-
 In 2012 and this first month of 2013, I achieved many dreams I had for myself and [my company](http://drifty.co/).
 
 Perhaps biggest was my dream to create my own company that made enough money to pay myself and a few other people. We achieved that in October of 2012, less than a year after launching the company in January 2012.

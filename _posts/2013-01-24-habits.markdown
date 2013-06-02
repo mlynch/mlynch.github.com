@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">January 24th, 2013</p>
-
-# {{ page.title }} #
-
 Some habits that hurt my productivity that I need to work out:
 
 * Checking email every 5 minutes

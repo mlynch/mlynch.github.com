@@ -12,10 +12,6 @@ backgroundImageCredit: "unknown"
 summary: 
 ---
 
-<p class="meta">January 8th, 2013</p>
-
-# {{ page.title }} #
-
 When I graduated, I wanted nothing more than to get the hell out of Madison.
  
 I don't think Madison has historically handled the transition from UW-Madison student into local Madison citizen very well. The downtown area has traditionally been so student-heavy that most students view the university as the core of the city and aren't interested in hanging around college kids after they graduate, so they leave as soon as they get their diploma (among other reasons).

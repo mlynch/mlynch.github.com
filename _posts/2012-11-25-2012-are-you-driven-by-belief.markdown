@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-# {{ page.title }} #
-
-<p class="meta">25 November 2012</p>
-
 I recently found out about the awesome little book [Strengths Finder 2.0](http://www.amazon.com/dp/159562015X/?tag=googhydr-20&hvadid=8045098284&hvpos=1t1&hvexid=&hvnetw=g&hvrand=1146753244203994208&hvpone=13.27&hvptwo=&hvqmt=b&ref=pd_sl_ed0zidzzj_b), which helps you analyze yourself and find your strengths, in order to help you develop them further. It's about focusing on what you are good at, and less about where you fall short.
 
 Among other realizations, Strengths Finder pointed out that I might be strong in the Belief theme.

@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-# {{ page.title }} #
-
-<p class="meta">13 August 2012 - Madison, WI</p>
-
 When young adults graduate from college, they are told to find a good job, provide value to an employer, and work their way up. That is what "success" looks like.
 
 Since leaving my full time job in January to start my own company, I've realized that this definition doesn't apply in the world of entrepreneurship. 

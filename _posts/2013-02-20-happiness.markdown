@@ -10,10 +10,6 @@ published: false
 summary: 
 ---
 
-<p class="meta">February 20th, 2013</p>
-
-# {{ page.title }} #
-
 The last two years since I graduated college from UW-Madison have been a pure exercise in happiness.
 
 When you're young and in school, it seems like the world is yours for the taking.

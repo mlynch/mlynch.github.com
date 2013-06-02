@@ -10,8 +10,6 @@ published: false
 summary: 
 ---
 
-# {{ page.title }} #
-
 As my startup adventure has evolved, I've come to a much greater understanding of how far we've come, where we are today, and where we have yet to go.
 
 I remember the beginning of 2012 for my company [Drifty](http://drifty.com/) after we launched our first product [Codiqa](http://codiqa.com/). We made about $600 our first month. We got drunk the first time a credit card was charged through our Stripe account.

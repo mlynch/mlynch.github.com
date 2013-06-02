@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">August 13th, 2012</p>
-
-# {{ page.title }} #
-
 I was down in San Antonio, TX this weekend hanging out with some local tech people. One thing that struck me was how publicly critical everyone was of San Antonio.
 
 Comparisons are constantly made between Austin and San Antonio. SA is just the lame brother of Austin, and everyone accepts it. But at the same time, they realize that there is a bright future for the city and they want to be a part of it, they just aren't going to let it continue to be lame by ignoring the warts.

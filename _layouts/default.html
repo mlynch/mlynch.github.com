@@ -1,24 +1,40 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
-   <meta name="author" content="Max Lynch" />
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="Max's thoughts on building software and building software companies" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{{ page.title }}</title>
+  <meta name="author" content="Max Lynch" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Max's thoughts on building software and building software companies" />
+  <meta name="keywords" content="startups,bootstrapping,companies,tech,software development,codiqa,jetstrap,drifty,madison,wisconsin,founder" />
 
-   <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
 
-   <link href="http://feeds.feedburner.com/maxlynch" rel="alternate" title="Max Lynch" type="application/atom+xml" />
+  <link href="http://feeds.feedburner.com/maxlynch" rel="alternate" title="Max Lynch" type="application/atom+xml" />
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen2.css" type="text/css" media="screen, projection">
-   <link rel="stylesheet" href="/fonts/font-awesome.css">
+  <!-- Homepage CSS -->
+  <link rel="stylesheet" href="/css/screen2.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/index.css" type="text/css" media="screen, project">
+  <link rel="stylesheet" href="/fonts/font-awesome.css">
 
-   <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-31805197-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+  <script src="//s3.amazonaws.com/scripts.hellobar.com/6d54ab26342afccc9f3c5eb0975305ab292ff32c.js"></script>
 </head>
 <body>
   {% if page.backgroundImage %}
@@ -28,26 +44,40 @@
   </div>
   {% endif %}
   <div class="container">
+    <div class="top">
+      <div class="clearfix">
+        <div class="left face">
+          <a href="/" style="text-decoration: none; display: block; margin-bottom: 15px" id="face">
+            <img src="https://si0.twimg.com/profile_images/2267580936/kztws9hx14kocbphjfaf.png" />
+          </a>
+        </div>
+        <div class="left">
+          <div class="me">
+            <h1><a href="/">Max Lynch</a></h1>
+            <div>
+              <h2>Startups, bootstrapping, and making magic.</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="twelve columns content">
+      <div id="home">
+
+  {{ content }}
+
+  </div>
+</div>
     <div class="four columns sidebar">
-      <nav>
-      <a href="/" style="text-decoration: none; display: block; margin-bottom: 15px" id="face">
-        <img src="https://si0.twimg.com/profile_images/2267580936/kztws9hx14kocbphjfaf.png" style="height: 64px; border-radius: 100px; box-shadow: 0px 0px 2px rgba(0,0,0,0.3)" />
-      </a>
-      <h2><a href="/">Max Lynch</a></h2>
-      <ul>
-        <p>
-        Co-founder and CTO of <a href="http://drifty.co/">Drifty Co.</a> in Madison. <a href="http://techstars.com/">TechStars</a> alum. Achiever. Never satisifed.
-        </p>
-        <!--<a href="/"><img src="/images/max.png" height="72" /></a>-->
-        
-        <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="false">Follow me</a>
-      </ul>
-      </nav>
       
-      {% if page.category %}
-      <hr>
-      {% endif %}
       <div class="meta">
+        <div class="me-info">
+          I'm Max, co-founder of <a href="http://drifty.com/">Drifty</a> in Madison. <a href="http://techstars.com/">TechStars</a> alum. Hacker. Achiever. Never satisifed.
+          <div class="social-buttons">
+            <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="true">Follow me</a>
+          </div>
+        </div>
+        <hr>
         {% if page.category %}
         <h4 class="title">{{page.title}}</h4>
         <div class="info"><time>Posted {{page.dateString}}</time> in <b>{{page.tags}}</b></div>
@@ -56,57 +86,46 @@
           <g:plusone size="tall"></g:plusone>
           <a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-via="maxlynch" >Buffer</a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script>
         </div>
-        {% endif %}
         <hr>
+        {% endif %}
         <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=maxlynch', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
           <h4 class="title">Get my newsletter.</h4>
           Periodic articles on bootstrapping, startups, and life.
-          <p style="margin-top: 10px">
-          <input type="text" style="width:190px" name="email" placeholder="Email"/></p>
-          <input type="hidden" value="maxlynch" name="uri"/>
-          <input type="hidden" name="loc" value="en_US"/>
-          <input type="submit" value="Subscribe" />
+          <div>
+            <div class="controls" id="subscribe-input">
+              <input type="text" name="email" placeholder="Email"/>
+              <input type="hidden" value="maxlynch" name="uri"/>
+              <input type="hidden" name="loc" value="en_US"/>
+            </div>
+            <div class="embedded-button">
+              <input type="submit" value="Subscribe" />
+            </div>
+          </div>
         </form>
+        <a target="_blank" href="http://feeds.feedburner.com/maxlynch" class="rss"><i class="rss-icon"></i> Subscribe with RSS</a>
+        <hr>
+        <h4 class="title">Most popular posts</h4>
+        <nav>
+          <ul>
+            <li><a href="/blog/hiring">Creating a Great Place to Work</a></li>
+            <li><a href="/blog/less-risky">Less Risky: Leaving your Job</a></li>
+            <li><a href="/blog/business-plan-contests">Don't Do Business Plan Contests</a></li>
+            <li><a href="/blog/madison">Madison's Future</a></li>
+          </ul>
+        </nav>
       </div>
     </div>
-    <div class="eleven columns content">
-      <div id="home">
-        <div id="responsive-info">
-          <a href="/" style="text-decoration: none; display: block; margin-bottom: 15px">
-            <img src="https://si0.twimg.com/profile_images/2267580936/kztws9hx14kocbphjfaf.png" style="height: 64px; border-radius: 100px; box-shadow: 0px 0px 2px rgba(0,0,0,0.3)" />
-          </a>
-          {% if page.category %}
-          Written by <a href="/">Max Lynch</a>, founder of <a href="http://drifty.co/">Drifty</a>{% if page.dateString %}, on {{page.dateString}}{% endif %}. <a href="/">More by Max</a>
-          {% else %}
-          <a href="/">Max Lynch</a>, founder and CTO of <a href="http://drifty.co/">Drifty</a> in Madison, WI
-          {% endif %}
-        </div>
-
-  {{ content }}
-  
-  <div class="footer">
-    <div class="contact">
-    <!--
-      <p>
-        Max Lynch<br />
-        Co-founder of <a href="http://codiqa.com/">Codiqa</a><br />
-        max@codiqa.com
-      </p>
-      -->
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://github.com/mlynch/">github.com/mlynch</a><br />
-        <a href="http://twitter.com/maxlynch/">twitter.com/maxlynch</a><br />
-      </p>
-    </div>
-    <div class="rss">
-      <a href="http://feeds.feedburner.com/maxlynch">
-        <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
-      </a>
-    </div>
-  </div>
 </div>
+
+  <footer>
+    <div class="contact">
+      Follow my <a href="http://feeds.feedburner.com/maxlynch">RSS feed</a> or follow me <a href="http://twitter.com/maxlynch">on Twitter</a>.
+      <br>
+      &copy; 2010-2013 Max Lynch.
+      <br>
+      See <a href="http://drifty.com/">what I'm up to</a>
+    </div>
+  </footer>
 
 <!--<a href="http://github.com/mlynch"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>-->
 <script src="/js/jquery.backstretch.js"></script>
@@ -162,19 +181,6 @@ $('.sidebar .meta').fixie({
 
 </script>
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31805197-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
         
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 

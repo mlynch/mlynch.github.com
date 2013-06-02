@@ -10,12 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">January 22nd, 2013</p>
-
-# {{ page.title }} #
-
-*I hesitated to write this post since I know it's a sensitive topic in local business communities. However, I believe strongly that startups should not do business plan contests, and we should be looking for a leaner replacement for today's software-driven startups.*
-
 __Business Plan Contests are a waste of time for startups__
 
 In a business plan contest, you draft large document laying out future projections and goals of your company, given a target business model in a target market. 

@@ -96,7 +96,7 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #333; text-decoration: underline; outline: 0; }
+	a { color: #777; font-weight: bold; text-decoration: underline; outline: 0; }
 	a:hover, a:focus { color: #000; }
 	p a, p a:visited { line-height: inherit; }
 
@@ -568,6 +568,9 @@
       height: 0;
     }
 
+.left { float: left; }
+.right { float: right; }
+
 /*
 * Skeleton V1.1
 * Copyright 2011, Dave Gamache
@@ -596,6 +599,13 @@
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	nav {
 		width: 160px; }
+
+  .container {
+    width: 100%;
+  }
+  .container .four.columns.sidebar {
+    width: 160px;
+  }
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -736,7 +746,7 @@ ul {
 
 a {
   /*color: #0C84E8;*/
-  color: rgb(31, 131, 95);
+  color: black;
   text-decoration: none;
 }
 
@@ -744,9 +754,6 @@ a:hover {
   text-decoration: underline;
 }
 
-a:visited {
-  color: rgb(31, 131, 95);
-}
 
 table {
   font-size: inherit;
@@ -789,11 +796,55 @@ ul.posts span {
   margin: 0 0 10px 0;
 }
 
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  overflow: hidden;
+.meta .rss {
+  border: 1px solid #E0AE6D;
+  padding: 2px;
+  font-size: 11px !important;
+  font-weight: bold;
+  color: #333 !important;
+  border-radius: 3px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#FFEEC8),to(#FFBE6B));
+  background-image: -moz-linear-gradient(top,#FFEEC8,#FFBE6B);
+  background-image: -o-linear-gradient(top,#FFEEC8,#FFBE6B);
+  background-image: -ms-linear-gradient(top,#FFEEC8,#FFBE6B);
+  background-image: linear-gradient(top,#FFEEC8,#FFBE6B);
+}
+
+.meta .rss i {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  background: url('https://s3.amazonaws.com/maxlynch.com/rss_icon.png') no-repeat transparent;
+  vertical-align: middle;
+  margin: -3px 3px 0px 2px;
+}
+
+.meta nav ul li a {
+  font-weight: normal;
+  color: #aaa;
+}
+.meta ul {
+
+}
+.meta ul li {
+  list-style: none;
+}
+
+.meta hr {
+  margin: 15px 0px 15px 0px;
+}
+
+footer {
+  padding: 40px 0px 10px 0px;
+  text-align: center;
+  background-color: #fff;
+  color: #111;
+  font-size: 12px;
+}
+
+.meta form {
+  margin-bottom: 0px;
 }
     
 
@@ -802,6 +853,9 @@ ul.posts span {
   background-color: #eef;
   padding: 0 .4em;
   margin-bottom: 20px !important;
+}
+
+#post h3 {
 }
 
 #post ul,
@@ -844,9 +898,42 @@ ul.posts span {
   font-weight: normal;
 }
 
+.top {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.top h1 {
+  font-size: 30px;
+  margin-bottom: 6px;
+  line-height: 30px;
+}
+
+.top h2 {
+  font-size: 16px;
+  font-weight: normal;
+}
+.top .face {
+  margin-right: 15px;
+}
+
+.top .me {
+  width: 400px;
+}
+.top .face img {
+  border-radius: 4px;
+  height: 72px;
+}
+
+.top .me-info {
+  width: 256px;
+  font-size: 12px;
+}
+
 .sidebar {
-  padding-top: 25px;
+  padding-top: 0px;
   font-family: "open sans", sans-serif;
+  margin: 0;
 }
 
 .sidebar p {
@@ -881,6 +968,32 @@ ul.posts span {
 }
 .sidebar .meta .social-buttons > *:last-child {
 }
+
+form .controls {
+  display: inline-block;
+  margin-top: 5px;
+}
+form .controls input {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 15px;
+}
+form .embedded-button {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: -5px;
+}
+form .embedded-button input {
+  line-height: 19px;
+  border-radius: 0px 2px 2px 0px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+#subscribe-input input {
+  width: 139px;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	.sidebar h2 {
 		font-size: 18px;
@@ -904,19 +1017,14 @@ ul.posts span {
 
 .content {
   font: 400 16px/22px "open sans", sans-serif;
-  padding-left: 40px;
+  padding-left: 0px;
+  padding-right: 40px;
   padding-top: 3px;
+  margin: 0;
 }
 
 .footer {
   width: 100%;
-}
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #EEE;
-  overflow: hidden;
 }
 
 .gist {
@@ -944,8 +1052,60 @@ sup {
 #home > h1 {
   margin: 20px 0px;
 }
-#home h2 {
-  color: #0C84E8;
+
+#home .post .image {
+  position: relative;
+
+  margin-bottom: 20px;
+
+  min-width: 100%;
+  height: 400px;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -ms-background-size: cover;
+}
+
+#home .post .post-info h3 {
+  margin: 5px 0px 5px 0px;
+}
+#home .post .image .post-info time {
+  font-size: 12px;
+  color: #ccc;
+}
+#home .post .image .post-info {
+  background-color: rgba(0,0,0,0.3);
+  padding: 10px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+#home .post .image .credits {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  color: #eee;
+  font-weight: normal;
+  font-size: 11px;
+  padding: 3px 10px;
+  line-height: 15px;
+}
+
+#home .post .image h3 a {
+  color: white;
+}
+#home .post .post-info time {
+  color: #666666;
+  display: block;
+  margin-bottom: 5px;
+}
+#home .post h3 a {
+  color: #111;
+}
+
+#home .pagination .next {
+  float: right;
 }
 
 #stalker i {

@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">December 26th, 2012</p>
-
-# {{ page.title }} #
-
 As of last week I am proud to say that Ben and I hired our first ever employee for our software company, [Drifty Co.](http://drifty.co/)
 
 It's an extremely exciting time. I've always been interested in what makes a great work environment, and now I have the chance to create one.

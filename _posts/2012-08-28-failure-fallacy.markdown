@@ -10,11 +10,6 @@ published: true
 summary: 
 ---
 
-<p class="meta">August 28th, 2012</p>
-
-# {{ page.title }} #
-
-
 9 in 10 startups fail...right?
 
 You went big. Like *Facebook* big. Shit, *bigger* than Facebook big. You had a great social platform, lots of promise and maybe some rocket fuel from top investors...and *nothing*. The startup failed.

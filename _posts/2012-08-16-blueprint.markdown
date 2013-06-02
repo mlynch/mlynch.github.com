@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-# {{ page.title }} #
-
-<p class="meta">16 August 2012 - Madison</p>
-
 I absolutely love building products for the web. It's such a rush to create something new the world has never seen that is both polished and useful. It's also nice when you can make some money from your products, too.
 
 When starting a new product, here are the steps I take:

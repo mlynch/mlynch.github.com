@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-# {{ page.title }} #
-
-<p class="meta">28 August 2012 - Madison, WI</p>
-
 I'm officially obsessed with CoffeeScript.
 
 The language feels so unique: practical, yet non-commercial or standards-laden. Clearly the language was designed in a way that felt right to Jeremy Ashkenas, and it just so happens it feels right to lots of other people, too.
