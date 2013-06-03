@@ -981,7 +981,6 @@ form .controls input {
 form .embedded-button {
   display: inline-block;
   vertical-align: middle;
-  margin-left: -5px;
 }
 form .embedded-button input {
   line-height: 19px;
@@ -991,7 +990,7 @@ form .embedded-button input {
 }
 
 #subscribe-input input {
-  width: 139px;
+  width: 130px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {

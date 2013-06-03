@@ -70,16 +70,11 @@
     <div class="four columns sidebar">
       
       <div class="meta">
-        <div class="me-info">
-          I'm Max, co-founder of <a href="http://drifty.com/">Drifty</a> in Madison. <a href="http://techstars.com/">TechStars</a> alum. Hacker. Achiever. Never satisifed.
-          <div class="social-buttons">
-            <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="true">Follow me</a>
-          </div>
-        </div>
-        <hr>
         {% if page.category %}
+        <!--
         <h4 class="title">{{page.title}}</h4>
         <div class="info"><time>Posted {{page.dateString}}</time> in <b>{{page.tags}}</b></div>
+        -->
         <div class="social-buttons">
           <a href="https://twitter.com/share" class="twitter-share-button" data-via="maxlynch" data-count="vertical">Tweet</a>
           <g:plusone size="tall"></g:plusone>
@@ -87,6 +82,13 @@
         </div>
         <hr>
         {% endif %}
+        <div class="me-info">
+          I'm Max, co-founder of <a href="http://drifty.com/">Drifty</a> in Madison. <a href="http://techstars.com/">TechStars</a> alum. Hacker. Achiever. Never satisifed.
+          <div class="social-buttons">
+            <a href="https://twitter.com/maxlynch" class="twitter-follow-button" data-show-count="true">Follow me</a>
+          </div>
+        </div>
+        <hr>
         <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=maxlynch', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
           <h4 class="title">Get my newsletter.</h4>
           Periodic articles on bootstrapping, startups, and life.
@@ -174,9 +176,11 @@ $.fn.fixie = function(opts) {
 }
 
 
+/*
 $('.sidebar .meta').fixie({
   offsetTop: 20
 });
+*/
 
 </script>
 
