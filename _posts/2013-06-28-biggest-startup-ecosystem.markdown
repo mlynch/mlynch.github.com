@@ -40,7 +40,7 @@ Ask yourself whether you want to be tied down, just another citizen of a country
 
 Sure, the Bay Area is beautiful and I certainly have wanted to live there for many years. But it's just a place to live. It's still under American law, and increasingly restricted to wealthy citizens.
 
-When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality." Something that my ancestors didn't really have anyways or they wouldn't have immigrated here from Europe generations ago.
+When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality." Something that my ancestors didn't really have anyways or they wouldn't have immigrated here.
 
 To that end, I think we have a long ways to go. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
 
