@@ -28,17 +28,11 @@ I live in Madison, Wisconsin, far from the Bay Area. Madison is a small city in 
 
 People tell me I seem like a proud Madisonion, that I'm passionate about Madison dominating as a startup hub in the future.
 
-But that is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Sure, I enjoy living here and my family is here. My family has a cabin that I love going up to all year round. I am thinking of buying a house and starting a family here.
+But that is also wrong. When it comes to startups, I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Sure, I enjoy living here and my family is here. My family has a cabin that I love going up to all year round. I am thinking of buying a house and starting a family here.
 
-But that's life in meat space. I don't know if my experience would be all that different in any other modern country. Many countries like the US have high standards of living filled with incredibly smart and well educated people. Many even more so than the US.
+But that's life in meat space. I don't know if my startup experience would be all that different in any other modern country. Many countries like the US have high standards of living filled with incredibly smart and well educated people building awesome things.
 
-Our countries are becoming decreasingly differentiated from each other. Nationalism feels like a relic of a time past, when we didn't connect well with nations that were not our own. My family emigrated from Ireland in the 20th century, we've been here for such a short amount of time.
-
-It always surprises me when I meet smart people in tech that seem physically dependent. Isn't the dream that we connect with people from all over the world, to do great things and transcend our physical limitations?
-
-Ask yourself whether you want to be tied down, just another citizen of a country that [doesn't respect technology](http://en.wikipedia.org/wiki/PRISM_(surveillance_program) as much as we do. A country that has a too-recent history of disrespecting human rights. A country that finds every loophole it can to do more in a world that needs less of them.
-
-Sure, America is great in a lot of ways, and I do enjoy living here and I intensely respect the sacrifices so many have made to keep America at the forefront. But it's still just one country of many, a local area network in the expanses of the web.
+So it always surprises me when I meet smart people in tech that seem physically dependent. Isn't the dream that we connect with people from all over the world, to do great things and transcend our physical limitations?
 
 When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality."
 
@@ -46,7 +40,7 @@ I want to work with more people from across the world building tech that will ch
 
 But we are just at the beginning. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
 
-I strongly believe this is the future. To that end, I think there are some huge opportunities for startups to enable the world to work better with each other.
+I strongly believe this is the future. To that end, I think there are some huge opportunities for startups to enable the world to work better with each other. Some are starting to tackle this, and there will be many more to come.
 
 I am a citizen and founder on the internet, and that is my startup ecosystem.
 
