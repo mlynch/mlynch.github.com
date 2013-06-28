@@ -18,13 +18,15 @@ But that's wrong. The biggest startup ecosystem doesn't have a physical location
 
 The biggest startup ecosystem is the internet.
 
-I don't live in the Bay Area, but I've almost moved there several times.
+I don't live in the Bay Area, though I've almost moved there several times due to jobs and acquisitions.
 
-I live in Madison, Wisconsin. A small city in the midwest that is high but still low on the startup ecosystem ratings list.
+I live in Madison, Wisconsin. A small city in the midwest that is high but still low on the startup ecosystem ratings list. There are some startups here, but the number of them is quite a bit less than the top five cities.
 
-People tell me I seem like a proud Madisonion. That I want Madison to dominate in the future more than anything else.
+People tell me I seem like a proud Madisonion, that I want Madison to dominate in the future more than anything else.
 
-That is also wrong. I largely don't care about Madison, or America really. Why limit myself to a physical location that is near to where my family planted roots?
+That is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Why limit myself to a physical location that is near to where my family planted roots, and becoming decreasingly differentiated from other great places to live? 
+
+The most exciting stuff in tech and beyond is happening online.
 
 
 
