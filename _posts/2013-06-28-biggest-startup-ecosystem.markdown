@@ -38,7 +38,7 @@ It always surprises me when I meet smart people in tech that seem physically dep
 
 Ask yourself whether you want to be tied down, just another citizen of a country that [doesn't respect technology](http://en.wikipedia.org/wiki/PRISM_(surveillance_program) as much as we do. A country that has a too-recent history of disrespecting human rights. A country that finds every loophole it can to do more in a world that needs less of them.
 
-Sure, the Bay Area is beautiful and I certainly have wanted to live there for many years. But it's just a place to live. It's still under American law, and increasingly restricted to wealthy citizens.
+Sure, America is great in a lot of ways, and I do enjoy living here and I intensely respect the sacrifices so many have made to keep America #1. But it's still just one country of many.
 
 When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality." Something that my ancestors didn't really have anyways or they wouldn't have immigrated here.
 
