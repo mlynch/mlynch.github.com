@@ -42,7 +42,7 @@ Sure, the Bay Area is beautiful and I certainly have wanted to live there for ma
 
 When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality." Something that my ancestors didn't really have anyways or they wouldn't have immigrated here.
 
-To that end, I think we have a long ways to go. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
+But we are just at the beginning. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
 
 I strongly believe this is the future. To that end, I think there are some huge opportunities for startups to enable the world to work better with each other.
 
