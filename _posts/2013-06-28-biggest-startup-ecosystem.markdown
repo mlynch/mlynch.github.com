@@ -30,7 +30,7 @@ People tell me I seem like a proud Madisonion, that I'm passionate about Madison
 
 But that is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Sure, I enjoy living here and my family is here. My family has a cabin that I love going up to all year round. I am thinking of buying a house and starting a family here.
 
-But that's life in meat space. I don't know if my experience would be all that different in any other modern country. Many countries like the US have high standards of living filled with incredibly smart and well educated people.
+But that's life in meat space. I don't know if my experience would be all that different in any other modern country. Many countries like the US have high standards of living filled with incredibly smart and well educated people. Many even more so than the US.
 
 Our countries are becoming decreasingly differentiated from each other. Nationalism feels like a relic of a time past, when we didn't connect well with nations that were not our own. My family emigrated from Ireland in the 20th century, we've been here for such a short amount of time.
 
