@@ -36,7 +36,7 @@ Our countries are becoming decreasingly differentiated from each other. National
 
 It always surprises me when I meet smart people in tech that seem physically dependent. Isn't the dream that we connect with people from all over the world, to do great things and transcend our physical limitations?
 
-Ask yourself whether you want to be tied down, just another citizen of a country that [doesn't respect technology](http://en.wikipedia.org/wiki/PRISM_(surveillance_program)) as much as we do. A country that has a too-recent history of disrespecting human rights. A country that finds every loophole it can to do more in a world that needs less of them.
+Ask yourself whether you want to be tied down, just another citizen of a country that [doesn't respect technology](http://en.wikipedia.org/wiki/PRISM_(surveillance_program) as much as we do. A country that has a too-recent history of disrespecting human rights. A country that finds every loophole it can to do more in a world that needs less of them.
 
 Sure, the Bay Area is beautiful and I certainly have wanted to live there for many years. But it's just a place to live. It's still under American law, and increasingly restricted to wealthy citizens.
 
