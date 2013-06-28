@@ -28,5 +28,10 @@ That is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay
 
 The most exciting stuff in tech and beyond is happening online.
 
+It always surprises me when I meet smart people in tech that seem physically dependent. Isn't the dream that we connect with people from all over the world, to do great things and transcend our physical limitations?
+
+Ask yourself whether you want to be tied down, just another citizen of a country that [doesn't respect technology](http://en.wikipedia.org/wiki/PRISM_(surveillance_program)) as much as we do.
+
+
 
 
