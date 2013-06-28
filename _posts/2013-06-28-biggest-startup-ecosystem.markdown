@@ -6,33 +6,33 @@ tags: startups
 year: 2013
 month: 6
 day: 28 
-published: false
+published: true
 summary:
-backgroundImage: 
-backgroundImageCredit: 
+backgroundImage: https://s3.amazonaws.com/maxlynch.com/passports.jpg
+backgroundImageCredit: <a href="http://www.flickr.com/photos/madmack/">madmack66</a>
 ---
 
 I love the Bay Area. It's full of smart, innovative, and progressive people doing really interesting things.
 
-I've almost moved there several times due to jobs and acquisitions, and the pull to start a startup in what is largely considered the biggest startup ecosystem in the world. The best place to Start a Startup.
+I've almost moved there several times due to jobs and acquisitions, not to mention the pull to start a startup in what is largely considered the biggest startup ecosystem in the world. The best place to Start a Startup.
 
-But I see now that I was wrong to think that.
+But I've since realized that is wrong.
 
-The biggest startup ecosystem doesn't have a physical location. It doesn't have a government, or a diversity problem, or immigration issues, or high costs of living.
+The biggest startup ecosystem doesn't have a physical location. It doesn't have a single government, or a diversity problem, or immigration issues, or high costs of living.
 
-It doesn't have a morning commute, or even a single language.
+It doesn't have a morning commute, or even a single language. It doesn't require you to leave one place and move to another.
 
 The biggest startup ecosystem is the internet.
 
-I live in Madison, Wisconsin, far from the Bay Area. Madison is a small city in the midwest that is high but still low on the startup ecosystem ratings list. There are some startups here, but the number of them is quite a bit less than the top five cities.
+I live in Madison, Wisconsin, far from the Bay Area. Madison is a small city in the Midwest that is maybe in the top 20 on startup ecosystem ratings lists. There are some cool startups here, but the number of them is quite a bit less than the top five cities.
 
-People tell me I seem like a proud Madisonion, that I want Madison to dominate in the future more than anything else. That I live here because I like being an underdog and want to be a part of creating a new community here.
+People tell me I seem like a proud Madisonion, that I'm passionate about Madison dominating as a startup hub in the future.
 
-But that is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Sure, I enjoy living here and my family is here.
+But that is also wrong. I largely don't care about Madison, or Wisconsin, or the Bay Area, or America for that matter. Sure, I enjoy living here and my family is here. My family has a cabin that I love going up to all year round. I am thinking of buying a house and starting a family here.
 
-But why limit myself to a physical location that is near to where my family planted roots, and becoming decreasingly differentiated from other great places to live that aren't even on this continent?
+But that's life in meat space. I don't know if my experience would be all that different in any other modern country. Many countries like the US have high standards of living filled with incredibly smart and well educated people.
 
-The most exciting things are happening online.
+Our countries are becoming decreasingly differentiated from each other. Nationalism feels like a relic of a time past, when we didn't connect well with nations that were not our own. My family emigrated from Ireland in the 20th century, we've been here for such a short amount of time.
 
 It always surprises me when I meet smart people in tech that seem physically dependent. Isn't the dream that we connect with people from all over the world, to do great things and transcend our physical limitations?
 
@@ -42,7 +42,11 @@ Sure, the Bay Area is beautiful and I certainly have wanted to live there for ma
 
 When I dream of where our world is headed, it's towards a more global community that is not segregated by some strange concept of "nationality." Something that my ancestors didn't really have anyways or they wouldn't have immigrated here from Europe generations ago.
 
-Instead of moving to the Bay Area to live with my fellow techies, I'd rather work towards expanding the startup ecosystem online.
+To that end, I think we have a long ways to go. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
+
+I strongly believe this is the future. To that end, I think there are some huge opportunities for startups to enable the world to work better with each other.
+
+I am a citizen and founder on the internet, and that is my startup ecosystem.
 
 
 
