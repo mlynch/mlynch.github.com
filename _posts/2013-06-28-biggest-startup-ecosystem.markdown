@@ -38,6 +38,8 @@ When I dream of where our world is headed, it's towards a more global community 
 
 I want to work with more people from across the world building tech that will change the world. No matter what nation they call home.
 
+I know some of the smartest people don't call Silicon Valley home, and they are just an email or Github PR away.
+
 But we are just at the beginning. How do we increase communication across physical borders, where the primary languages are not the same? How do we increase productivity when we work across nations, languages, and cultures?
 
 I strongly believe this is the future. To that end, I think there are some huge opportunities for startups to enable the world to work better with each other. Some are starting to tackle this, and there will be many more to come.
