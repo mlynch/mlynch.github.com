@@ -14,3 +14,7 @@ backgroundImageCredit: DOE
 
 When I launched my last two products on Hacker News, I got the requisite Patrick McKenzie [scolding](https://news.ycombinator.com/item?id=3733692) and [shame](https://news.ycombinator.com/item?id=4572262) for planning to charge too little.
 
+At the time, I didn't really realize what was possible in the SaaS business. I wasn't really confident anyone would pay much more than $10/mo for a product I wasn't sure was that useful to people.
+
+Ignoring patio's advice and listening to my own ignorance, we launched [Codiqa](http://codiqa.com/) at a $10/mo price point.
+
