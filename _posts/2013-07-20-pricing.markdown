@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pricing: Why You Charge"
+title: "Pricing: Why We Charge"
 category: Blog
 tags: startups
 year: 2013
@@ -16,5 +16,10 @@ When I launched my last two products on Hacker News, I got the requisite Patrick
 
 At the time, I didn't really realize what was possible in the SaaS business. I wasn't really confident anyone would pay much more than $10/mo for a product I wasn't sure was that useful to people.
 
-Ignoring patio's advice and listening to my own ignorance, we launched [Codiqa](http://codiqa.com/) at a $10/mo price point.
+Ignoring patio's advice and listening to my own ignorance, we launched [Codiqa](http://codiqa.com/) at a $10/mo price point, with a $30/mo unlimited plan.
+
+I learned quickly that people do pay for things they find valuable. Count that as one of my first lessons learned in business.
+
+I also learned that one's relationship with money changes as it starts to become disconnected from their personal savings account. Businesses see money as a tool to exchange value, always thinking about the potential profit on top of the cost.
+
 
