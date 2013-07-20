@@ -8,6 +8,8 @@ month: 7
 day: 20
 published: true
 summary:
+backgroundImage: https://s3.amazonaws.com/maxlynch.com/snaildollar.png
+backgroundImageCredit: "<a href="http://www.flickr.com/photos/rangerrick/">RangerRick on Flickr</a>"
 ---
 
 When I launched my last two products on Hacker News, I got the requisite Patrick McKenzie [scolding](https://news.ycombinator.com/item?id=3733692) and [shame](https://news.ycombinator.com/item?id=4572262) for planning to charge too little.
