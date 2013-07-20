@@ -6,10 +6,8 @@ tags: startups
 year: 2013
 month: 7
 day: 20
-published: false
+published: true
 summary:
-backgroundImage: http://maxlynch.com.s3.amazonaws.com/Explosion.jpg
-backgroundImageCredit: DOE
 ---
 
 When I launched my last two products on Hacker News, I got the requisite Patrick McKenzie [scolding](https://news.ycombinator.com/item?id=3733692) and [shame](https://news.ycombinator.com/item?id=4572262) for planning to charge too little.
