@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pricing: Why We Charge"
+title: "Why You Should Charge More"
 category: Blog
 tags: startups
 year: 2013
