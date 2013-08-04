@@ -14,5 +14,9 @@ Yesterday I decided that I couldn't ignore the cries of Angular.js hotness any l
 
 Angular.js is an interesting framework that seems to have a lot of magic inside of it. I don't believe in magic, so I wanted to dig in and try to understand how Angular worked. Supposedly the docs for Angular are famous for being spotty, so hopefully these notes help if you are trying to truly understand how Angular works.
 
-Here are my notes so far:
+Here are my notes so far, Please correct me if I've got something wrong!
+
+
+
+
 
