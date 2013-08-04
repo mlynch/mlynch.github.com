@@ -10,12 +10,9 @@ published: false
 summary:
 ---
 
-I would say I've become complacent with some of the technologies I base my development work on. I generally care more about the work done on top of a framework, and when I find something that works that I've invested time into, I tend to stick with it.
+Yesterday I decided that I couldn't ignore the cries of Angular.js hotness any longer, I had to learn this thing.
 
-Well, I couldn't ignore the cries of Angular.js hotness any longer, I had to see what all the fuss is about. 
+Angular.js is an interesting framework that seems to have a lot of magic inside of it. I don't like magic, so I wanted to dig in and try to understand how Angular worked. 
 
-My first Angular program was building a quote slider, a little widget that cycled through some quotes for [one](http://codiqa.com/) of my products, showing a blown-up version of the quote and handling fading in and out the faces of the person making the quote.
-
-It was something probably better suited for a jQuery Widget or plugin, but it's all I could come up with at the time and I *had* to learn this thing.
-
+Here are my notes so far:
 
