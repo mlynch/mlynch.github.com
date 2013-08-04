@@ -12,7 +12,7 @@ summary:
 
 Yesterday I decided that I couldn't ignore the cries of Angular.js hotness any longer, I had to learn this thing.
 
-Angular.js is an interesting framework that seems to have a lot of magic inside of it. I don't like magic, so I wanted to dig in and try to understand how Angular worked. 
+Angular.js is an interesting framework that seems to have a lot of magic inside of it. I don't believe in magic, so I wanted to dig in and try to understand how Angular worked. 
 
 Here are my notes so far:
 
