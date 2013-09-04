@@ -1,0 +1,12 @@
+---
+layout: post
+title: "There Are No Rules"
+category: Blog
+tags: life
+year: 2013
+month: 9
+day: 3
+published: false
+---
+
+
