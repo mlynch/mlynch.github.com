@@ -9,4 +9,7 @@ day: 3
 published: false
 ---
 
+In the last two and a half years, I've turned from student, to employee, to employer.
+
+In this process, I've become acutely aware that there are no rules after school.
 
