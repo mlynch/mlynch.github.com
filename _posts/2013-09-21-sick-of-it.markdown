@@ -5,7 +5,7 @@ tags: startups
 year: 2013
 month: 9
 day: 21
-published: true
+published: false
 ---
 
 A few weeks ago I threw up my hands and realized I'm thoroughly sick of the entrepreneurship bullshit.
