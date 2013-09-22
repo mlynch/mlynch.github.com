@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm Sick of the Bullshit"
+title: ""
 tags: startups
 year: 2013
 month: 9
