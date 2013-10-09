@@ -23,7 +23,7 @@ And aptitude comes in all different forms, like being able to build and run a co
 
 But unfortunately, generic business skills are probably the least valuable role for an early stage tech startup. Yet so many startups are being founded with business people as the core team.
 
-It's hard to build a tech company when you don't have creators on the core team. Having business people isn't enough, because product is huge and there is no business to work on until your product gets off the ground. Unless they're a great marketer or growth hacker, a business person will likely find themselves spinning their wheels at this stage.
+It's hard to build a tech company when you don't have creators on the core team. Having business people isn't enough, because product is huge and there is no business to work on until your product gets off the ground. Unless they're a great marketer or growth hacker, or can close deals left and right, a business person will likely find themselves spinning their wheels at this stage.
 
 Not to mention if you have to outsource something so core to your business, you are already at a huge disadvantage.
 
