@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madison needs quality, not quantity"
+title: "Madison needs more technical founders"
 category: Blog
 tags: madison startups
 year: 2013
@@ -8,20 +8,6 @@ month: 10
 day: 9
 published: false
 ---
-
-The lack of awesome startups is constantly lamented in every city that isn't San Francisco, and Madison is no exception. While Madison has had some [huge successes](http://epic.com/), those are few and far between.
-
-The problem to me isn't that we lack enough founders trying to create companies. There are certainly plenty of people taking a swing at it.
-
-The problem is that we don't have enough quality founders doing it.
-
-I'm well aware that such a statement won't go over well with many people, but great founders are exactly what Madison needs. And I think we can fix the situation.
-
-In the last few years of running [Drifty](http://drifty.com/), I've come to realize that I can be better at this. Aptitude *does* play a role in growing a company, probably more so than any other factor.
-
-And aptitude comes in all different forms, like being able to build and run a complex tech stack, being able to design products that make people fall in love and get to market quickly, being able to get your stuff into as many hands as possible, and being able to keep and grow a great team.
-
-But unfortunately, generic business skills are probably the least valuable role for an early stage tech startup. Yet so many startups are being founded with business people as the core team.
 
 It's hard to build a tech company when you don't have creators on the core team. Having business people isn't enough, because product is huge and there is no business to work on until your product gets off the ground. Unless they're a great marketer or growth hacker, or can close deals left and right, a business person will likely find themselves spinning their wheels at this stage.
 
