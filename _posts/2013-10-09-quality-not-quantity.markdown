@@ -40,3 +40,5 @@ So what can we do about it? I think we have to start with the University. Unfort
 I'm a CS person, so I'd love to see more collaboration with the startup community and the CS department. It's starting to improve, but we have a long ways to go. I believe these students are the ones who are going to run the internet startups of tomorrow. Unfortunately, the business school gets more attention in Madison but I think that's wrong.
 
 To do my part, I want to help technical people start companies. Whether that means helping them get over their insecurity about not being a business person, or just how to channel their creative energy into making a company, I want to help. If you are one of these people, please <a href="mailto:max@drifty.com">email me</a> whenever, I'd love to talk!
+
+A city that draws so many smart people to it every year has a ton of potential. I think we have a very bright future in Madison and I'm happy to be a part of it.
