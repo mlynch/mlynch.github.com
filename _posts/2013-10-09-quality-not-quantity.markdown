@@ -6,7 +6,7 @@ tags: madison startups
 year: 2013
 month: 10
 day: 9
-published: true
+published: false
 ---
 
 The lack of awesome startups is constantly lamented in every city that isn't San Francisco, and Madison is no exception. While Madison has had some [huge successes](http://epic.com/), those are few and far between.
