@@ -27,7 +27,7 @@ It's hard to build a tech company when you don't have creators on the core team.
 
 Not to mention if you have to outsource something so core to your business, you are already at a huge disadvantage.
 
-I'm a huge fan of technical or creative founders. I think smart people can learn to run a company, even if they weren't business inclined before. And you don't have to like any of the classic business bullshit to be good at it.
+I'm a huge fan of technical or creative/designer founders. I think smart people can learn to run a company, even if they weren't business inclined before. And you don't have to like any of the classic business bullshit to be good at it.
 
 Unfortunately, creators often get cherry picked from outside of the state, never to return again. I've seen the typical cycle happen too many times, and it goes something like this: founder starts startup, startup fails because founder had no clue what they were doing, founder gets well paying job, founder leaves city.
 
