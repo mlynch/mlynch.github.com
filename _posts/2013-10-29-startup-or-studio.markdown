@@ -10,7 +10,7 @@ published: true
 
 I've recently come to the conclusion that [Drifty](http://drifty.com/) is more studio than startup. More creative agency than a typical tech company.
 
-The difference from a typical advertising agency or creative company is we aren't building products for clients, we are building them for customers. In fact, we almost always eschew consulting or contract work because it doesn't scale and we hate doing it.
+The difference from a typical advertising agency or creative company is we aren't building products for clients, we are building them for customers. In fact, we've always eschewed consulting or contract work because it doesn't scale and we hate doing it (plus we don't have to because we have customer revenue).
 
 Realizing this has been one of the most important things for Drifty, because it impacts the way we make some of the most important decisions a company can make. Specifically, it brings much more clarity to the way we deal with things like financing, partnerships, and investors.
 
