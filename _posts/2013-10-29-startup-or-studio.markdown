@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup or Studio?"
+category: Blog
 tags: startups
 year: 2013
 month: 10
