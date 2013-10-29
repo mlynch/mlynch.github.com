@@ -5,7 +5,7 @@ tags: startups
 year: 2013
 month: 10
 day: 29
-published: false
+published: true
 ---
 
 I've recently come to the conclusion that [Drifty](http://drifty.com/) is more studio than startup. More creative agency than a typical tech company.
@@ -24,6 +24,15 @@ When you have a great team of people who work really well together, you start to
 
 One downside to studios over startups is the general public finds them less interesting. To avoid that, we try to promote the products themselves as the "startup", and we keep a comparatively low profile for the Drifty brand. That is one evolution to earlier this year when we pushed Drifty as its own thing. Sometimes people think we are "Codiqa" as the company which is kind of confusing, but it's a tradeoff.
 
+Studios have some benefits. For really stubborn, independent people like us, they are a way to maintain creative control over everything, and make really tough dicisions without having to deal with investors.
+
+They are also a way to solve a lot of problems as the market evolves without having to form different companies every time you want to attack a problem. I couldn't imagine having to find a better group of people to create stuff with.
+
+As for fundraising for studios, I'm not quite sure how that should work yet. I don't think early stage investors are interested in investing in studios because they aren't really following the typical startup lifecycle. Plus, how do you invest in a product and not the company itself? Maybe form independent companies for each product and then raise on that?
+
+But luckily, smart founders need less money in 2013 than ever before, so I don't really care about the investibility of Drifty. 
+
+What I do care about though is making awesome shit and delighting the world with new shiny stuff as much as possible. So studios are a great fit for my personality.
 
 
 
