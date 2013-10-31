@@ -50,17 +50,6 @@ But how do we get more chickens to lay more eggs? That is where eggs start to be
 
 Unfortunately, a large quantity of the ones that are born male are culled immediately. Grinder style. Wikipedia has a lot more on the [Chick Culling](http://en.wikipedia.org/wiki/Chick_culling) process. It's pretty grisly.
 
-4. Being vegetarian isn't enough
---------------------------------
-
-This one is on here not to ridicule, but to explain that if you are going vegetarian in order to make a difference in the other things on this list, that it's not enough.
-
-What I mean by that is often demand in one industry carries over to demand in another. Take leather, for example. By avoiding meat but consuming leather, you are actually placing demand indirectly on the meat industry. Since leather is a valuable by-product of meat production, demand for leather helps increase meat production.
-
-Another example is egg consumption. By consuming eggs we are demanding farms to raise more female chickens which results in all the problems from #3. You can't pick and choose which part of the process to consume from, because each part relies on the others.
-
-If you are vegetarian because you just don't like meat, that is one thing. If you are vegetarian because you think by not eating meat you are making a differience, I don't really believe that's true, unfortunately. But it's a step in the right direction and like I said, this is not ridicule but education.
-
 5. Animal production consumes a massive amount of energy
 -------
 
@@ -70,4 +59,14 @@ Not to mention Cows actually do product a measurable and impactful amount of met
 
 Keeping animals alive requires a lot of water, food grown specifically for them (requiring even more resources), space to house and raise them, and energy to manage them (trucks, heat, etc).
 
+10. Being vegetarian isn't enough
+--------------------------------
+
+This one is on here not to ridicule, but to explain that if you are going vegetarian in order to make a difference in the other things on this list, that it's not enough.
+
+What I mean by that is often demand in one industry carries over to demand in another. Take leather, for example. By avoiding meat but consuming leather, you are actually placing demand indirectly on the meat industry. Since leather is a valuable by-product of meat production, demand for leather helps increase meat production.
+
+Another example is egg consumption. By consuming eggs we are demanding farms to raise more female chickens which results in all the problems from #3. You can't pick and choose which part of the process to consume from, because each part relies on the others.
+
+If you are vegetarian because you just don't like meat, that is one thing. If you are vegetarian because you think by not eating meat you are making a differience, I don't really believe that's true, unfortunately. But it's a step in the right direction and like I said, this is not ridicule but education.
 
