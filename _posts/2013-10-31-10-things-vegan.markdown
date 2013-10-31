@@ -66,4 +66,8 @@ If you are vegetarian because you just don't like meat, that is one thing. If yo
 
 It's a little silly to think about how much food we grow just to feed animals so we can eat them. There was an "inefficiency alarm" that went off in my programmer brain when I first started thinking about this.
 
-Not to mention Cows actually do product a measurable and impactful amount of methane and other greenhouse gasses just from being big burpers (and less by farting). This sounds silly but those animals are producing the molecules that contribute to global warming, and doing a lot of it.
+Not to mention Cows actually do product a measurable and impactful amount of methane and other greenhouse gasses just from being big burpers (and some by farting). This sounds silly but those animals are producing the molecules that contribute to global warming, and doing a lot of it.
+
+Keeping animals alive requires a lot of water, food grown specifically for them (requiring even more resources), space to house and raise them, and energy to manage them (trucks, heat, etc).
+
+
