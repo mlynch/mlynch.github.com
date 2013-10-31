@@ -45,3 +45,10 @@ Another one of those obvious things, but the reality is far from it. I think mos
 But how do we get more chickens to lay more eggs? That is where eggs start to become really problematic. So, we need females to lay eggs, but only 50% of chickens born are female. What happens with the males?
 
 Unfortunately, a large quantity of the ones that are born male are culled immediately. Grinder style. Wikipedia has a lot more on the [Chick Culling](http://en.wikipedia.org/wiki/Chick_culling) process.
+
+Being vegetarian isn't enough
+-----------------------------
+
+This one is on here not to ridicule, but to explain that if you are going vegetarian in order to avoid other things on this list that repulse you, that it's not enough.
+
+What I mean by that is often demand in one industry carries over to demand in another. Take leather, for example. By avoiding meat but consuming leather, you are actually placing demand indirectly on the meat industry. Since leather is a valuable by-product of meat production, demand for leather helps increase meat production.
