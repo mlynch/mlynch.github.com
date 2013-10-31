@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "10 Things I Learned Going Vegan"
+title: "10 Things I Learned By Going Vegan"
 category: Blog
 tags: life
 year: 2013
 month: 10
 day: 31
-published: false
+published: true
 ---
 
 Going vegan was a very enlightening experience for me. There were a lot of things about my habits that I never realized required such elaborate animal-based systems, or used certain animal ingredients. For some people these realizations might seem really elementary, but keep in mind I grew up in a close suburb of Milwaukee and had little rural experience (my girlfriend calls me a "city boy").
