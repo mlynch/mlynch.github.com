@@ -8,7 +8,7 @@ title: Startups, bootstrapping, and making magic
 
 # MAX LYNCH
 
-I'm the co-founder of [Drifty](http://drifty.com/) and co-creator of [Ionic](http://ionicframework.com/). Find me on [Twitter](http://twitter.com/) or drop me an [email](mailto:max@drifty.com). I live in [beautiful](http://farm9.staticflickr.com/8293/7561011804_edef96ec64_b.jpg) Madison, WI.
+I'm the co-founder of [Drifty](http://drifty.com/) and co-creator of [Ionic](http://ionicframework.com/). Find me on [Twitter](http://twitter.com/maxlynch) or drop me an [email](mailto:max@drifty.com). I live in [beautiful](http://farm9.staticflickr.com/8293/7561011804_edef96ec64_b.jpg) Madison, WI.
 
 Occasionally I write [essays](/blog) on this site. Here are my most popular ones:
 <nav id="most-popular">
