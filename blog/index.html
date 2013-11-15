@@ -1,0 +1,34 @@
+---
+layout: clean
+title: Startups, bootstrapping, and making magic
+---
+
+<div id="bio">
+  <h1><a href="/">MAX LYNCH</a></h1>
+  <p>
+    Thoughts from the co-founder of <a href="http://drifty.com/">Drifty</a> and co-creator of <a href="http://ionicframework.com/">Ionic</a>
+  </p>
+</div>
+
+{% for post in paginator.posts %}
+<div class="post">
+  <div class="post-info">
+    <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+    <time>{{post.date | date: "%B %d, %Y" }}</time>
+  </div>
+  {{post.content}}
+  <hr>
+</div>
+
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Newer</a>
+  {% endif %}
+  <!--<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Older</a>
+  {% endif %}
+</div>

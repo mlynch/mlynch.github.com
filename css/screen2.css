@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'linden_hillregular';
+    src: url('/fonts/LindenHill-webfont.eot');
+    src: url('/fonts/LindenHill-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/LindenHill-webfont.woff') format('woff'),
+         url('/fonts/LindenHill-webfont.ttf') format('truetype'),
+         url('/fonts/LindenHill-webfont.svg#linden_hillregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 
 /*
 * Skeleton V1.1
@@ -678,12 +690,12 @@ body {
   margin: 0;
   /*border-top: 7px solid #FFFF94;*/
   /*font-family: "ff-tisa-web-pro",Georgia,Cambria,"Times New Roman",Times,serif;*/
-  font-family: "open sans", sans-serif;
+  font-family: "linden_hillregular", Georgia, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
-  font-family: "open sans", sans-serif;
+  font-family: "linden_hillregular", Georgia, serif;
   font-weight: 600;
 }
 
@@ -693,7 +705,6 @@ h1, h2, h3, h4, h5, h6 {
 #post h1.title {
   font-weight: 800;
   display: block;
-  font-family: "open sans", sans-serif;
   font-size: 30px;
   color: #111;
   margin-top: 20px;
@@ -932,7 +943,6 @@ footer {
 
 .sidebar {
   padding-top: 0px;
-  font-family: "open sans", sans-serif;
   margin: 0;
 }
 
@@ -1015,7 +1025,6 @@ form .embedded-button input {
 }
 
 .content {
-  font: 400 16px/22px "open sans", sans-serif;
   padding-left: 0px;
   padding-right: 40px;
   padding-top: 3px;
@@ -1209,7 +1218,6 @@ position: absolute;
 .jumbotron h1 {
   display: inline-block;
   vertical-align: middle;
-  font-family: "open sans", sans-serif;
   font-weight: 600;
   color: #fff;
   font-size: 40px;

@@ -1,32 +1,11 @@
 ---
-layout: default
+layout: clean
 ---
-<!--<script src="/js/post.js"></script>-->
-<div id="post">
-  <!--
-  <div class="social">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="maxlynch">Tweet</a>
-    <g:plusone size="medium"></g:plusone>
-  </div>
-  -->
+<h1 class="post-title">{{page.title}}</h1>
 
-<!-- Add this just before the closing body tag of your web page --> 
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-{% if page.backgroundImage %}
-<h1 class="title offset">{{page.title}}</h1>
-{% else %}
-<h1 class="title">{{page.title}}</h1>
-{% endif %}
+<div class="post-info">By <a href="/">Max Lynch</a> on <time><span>{{ page.date | date: "%b %-d, %Y" }}</span></time></div>
 
 {{ content }}
-
-<hr>
 
 <div id="post-bottom">
   <div id="disqus_thread"></div>
@@ -45,14 +24,3 @@ layout: default
   <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
   </div>
 </div>
-
-<!--
-<div id="related">
-  <h2>Related Posts</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div> 
--->
