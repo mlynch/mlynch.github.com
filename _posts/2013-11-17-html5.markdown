@@ -1,0 +1,66 @@
+---
+layout: post
+title: "HTML5 on Mobile"
+category: Blog
+tags: startups
+year: 2013
+month: 11
+day: 17
+published: false
+---
+
+Over the last few months, we at Drifty have been working on an ambitious new project to build the next generation hybrid HTML5 mobile development framework. We are calling it the [Ionic Framework](http://ionicframework.com/).
+
+There are a lot of mobile frameworks out there, and you wouldn't be wrong to ask if the world really needs another. We think it does, desperately.
+
+The reality is that smartphones have advanced quite a bit since the iPhone was launched. And they've even advanced a ton since the iPhone 4S was released.
+
+But HTML5 mobile dev frameworks haven't really kept up.
+
+There is a pretty deeply held opinion by Native diehards and even web developers that HTML5 isn't ready for *Native* mobile development. That it's too slow. Too flickery. Too "web page" like. They never miss a chance to claim that HTML5 mobile app development is a lost cause.
+
+When we started building Ionic, one of the first things I did was build some interactive prototypes to see whether our assumptions were true: that the iPhone 5 could provide a compelling HTML5 mobile app experience. So I built a Side Menu which is one of my favorite mobile UI paradigms:
+
+<img src="http://ionicframework.com.s3.amazonaws.com/docs/controllers/sidemenu.gif" style="margin: 20px 0px">
+
+We were all incredibly excited when we played with the demo and it felt so *Native*. There was no flickering. The animation never lagged. You could drag with your finger and it responded the whole way. It was really encouraging.
+
+But we were met with some tough choices. The reality was some of our prototypes felt really bad on older phones. We had to decide then and there to leave the past behind and focus on new devices which were really giving HTML5 a chance to shine. We put the lower limit on support at iOS 6 and Android 4.2, looking to the bright future of smartphone and tablet performance.
+
+### Open source 
+
+We knew that for a new mobile framework to really take off, it had to be open source. And not just open source in license, but open source in spirit.
+
+That meant no split open source/commercial licensing, using the GPL as a cheap attempt to hobble the open source version and push people to buy the commercial license. Our competitors do that and it's one of the biggest weaknesses in their position.
+
+So we picked the MIT license which would give us the biggest possible reach without limiting what kinds of apps people can build, commercial or otherwise. And we would treat the MIT version as the reference implementation, foregoing the short-sighted chance to commercialize the framework itself.  And unlike our competitors we will actively encourage and accept contributions on our [GitHub project](http://github.com/driftyco/ionic) page.
+
+One of the cool things about Ionic is that it has a corporate sponsor in [Drifty](http://drifty.com/). What that means is we are putting full time engineering *and design* work on the framework. And we aren't a typical startup in that we don't have institutional investors (we are bootstrapped apart from a small investment by [TechStars](http://techstars.com/)) so I hope that edgy independence is felt in the framework.
+
+But Drifty needs to make money, and we get asked how we will do it with Ionic, being so open source and all. The answer is that we will build services that can help people build, launch, and maintain great apps, using Ionic as the underlying framework. Think wordpress.com versus wordpress.org.
+
+But that also means we are leaving room for competitors like wordpress.com has in wpengine.com and zippykid.com. That is part of the open source compromise and we think it's a great thing.
+
+### Taboo
+
+I think one thing we all need to prepare for is that Native developers are going to get mean as we start to push HTML5 as a compelling alternative to Native SDKs for app development.
+
+The reality is that Native developers are making an absolute killing peddling their skills around to various well-funded companies. Mobile app development is in high demand, and many kids are pulling $120k+ salaries right out of school building these apps.
+
+Not to mention many companies are getting paid double by clients to build apps on two platforms. They have the luxury of taking their time with Native, building a big Objective-C code base for iOS, and then doing it all over in Java for Android. Why would they want to damage that revenue potential by only being able to charge for one code base?
+
+So they are going to be really passionate about maintaining that valuable position and not letting it get commoditized by HTML5.
+
+One of the most exciting things about HTML5 on mobile is that it's a *taboo*. If you bring up the idea that you could build a real native app using only web technologies and it would be *compelling* you would be mocked by many developers.
+
+If you buy in to Paul Graham's [opinion](http://paulgraham.com/say.html) of what taboos represent in terms of market opportunities, then we can see that HTML5 fits this almost perfectly.
+
+People are overlooking HTML5 because the smartphone era *just began* and up until now it couldn't adequately support the most common application runtime ever made: the browser. I get excited just thinking about how shortsighted the market has been on HTML5.
+
+### The future
+
+One thing I should be clear about is that Ionic is playing the long game. We like to look at the mobile space as if it just started yesterday, and we are building a framework as if the iPhone 5 was really the original iPhone.
+
+So we aren't rushing this. We won't feel defeated if some of our more ambitious code doesn't feel 100% smooth on all phones, because we know it will, eventually. Ionic is really a framework for people who see the future and know that HTML5 is going to just kick Native's ass just like it has on the desktop.
+
+Because, at the end of the day, building on Native is really silly in a lot of ways, and silliness represents an innefficieny that we can innovate on to fix.
