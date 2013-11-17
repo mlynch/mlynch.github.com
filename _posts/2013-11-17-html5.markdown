@@ -67,3 +67,8 @@ So we aren't rushing this. We won't feel defeated if some of our more ambitious 
 
 Because, at the end of the day, building on Native is really silly in a lot of ways, and this silliness represents an innefficieny that we can innovate on to fix.
 
+### Our first steps
+
+The Ionic Framework [repository](http://github.com/driftyco/ionic) was opened up to the public a few days ago. It's still in pre-release mode, and will probably change dramatically over the next month.
+
+But it's a good start, and we are really happy with it. It's missing some crucial pieces like support for huge lists and more interesting animations, but the foundation is laid for building all of that and some of it is just a few commits away from being released.
