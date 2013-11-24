@@ -10,10 +10,6 @@ published: true
 summary: 
 ---
 
-# {{ page.title }} #
-
-<p class="meta">31 July 2012 - Madison, WI</p>
-
 Most often when we talk about career risk it's in a relatively short time context. If I leave my job tomorrow, I won't be able to afford rent next month. If I just stay and work a few more 60 hour weeks, a promotion or raise is right around the corner.
 
 For our jobs, risk is all about balancing an unknown future with a certain present. Our friends, social life, and title at our jobs are all obvious and manageable. Our future job role, salary, and influence are not.
