@@ -19,7 +19,7 @@ We knew the big vision with Ionic would be a feat of engineering, and we didn't 
 
 As I reflected back on how the company and our values had evolved over the last two years, I realized bootstrapping was never actually the goal, *maximizing our options* was.
 
-When we raised our round, we already had nice revenue coming in. And even though our product plans were changing, we had proved developers wanted to be a part of our new vision with [Ionic](http://ionicframework.com/). We were able to go out, not have to raise too much, and do it in less than one month so we could get back to work.
+When we raised our round, we already had nice revenue coming in. And even though our product plans were changing, we had proved developers wanted to be a part of our new vision with [Ionic](http://ionicframework.com/). We were able to get great investors, not have to raise too much, and do it in less than one month so we could get back to work.
 
 The reality is for most early-stage startups without meangingful traction or cash flow, investment is a bad deal. The investors are inexperienced and overbearing, the time it takes to raise is too long for too little, and the chance for negative impact before you really figure out what you are doing is too high.
 
