@@ -17,7 +17,7 @@ After we launched our new project [Ionic](http://ionicframework.com/) in late 20
 
 We knew the big vision with Ionic would be a feat of engineering, and we didn't want to have to worry about money. Not only that, but we didn't want our employees to have to worry about money, either.
 
-As I reflected back on how the company and our values had evolved over the last two years, I realized bootstrapping was never actually the goal, *maximizing our options* was.
+As I reflected on how the company and our values had evolved over the last two years, I realized bootstrapping was never actually the goal, *maximizing our options* was.
 
 When we raised our round, we already had nice revenue coming in. And even though our product plans were changing, we had proved developers wanted to be a part of our new vision with [Ionic](http://ionicframework.com/). We were able to get great investors, not have to raise too much, and do it in less than one month so we could get back to work.
 
