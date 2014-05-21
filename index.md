@@ -13,6 +13,7 @@ I'm the co-founder of [Drifty](http://drifty.com/) and co-creator of [Ionic](htt
 Occasionally I write [essays](/blog) on this site. Here are my most popular ones:
 <nav id="most-popular">
   <ul>
+    <li><a href="/blog/bootstrapping">On Not Bootstrapping</a></li>
     <li><a href="/blog/hiring">Creating a Great Place to Work</a></li>
     <li><a href="/blog/less-risky">Less Risky: Leaving your Job</a></li>
     <li><a href="/blog/business-plan-contests">Don't Do Business Plan Contests</a></li>
