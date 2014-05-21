@@ -15,6 +15,8 @@ I've [never](http://blog.drifty.com/2013/09/you-dont-get-our-bootstrapped-compan
 
 Here's why we raised: because bootstrapping actually wasn't the goal, *maximizing our options* was.
 
+When we raised our round, we already had nice revenue coming in. And even though our product plans were changing, we had proved developers wanted to be a part of our new vision with [Ionic](http://ionicframework.com/). We were able to go out, not have to raise too much, and do it in less than one month so we could get back to work.
+
 The reality is for most early-stage startups without meangingful traction or cash flow, investment is a bad deal. The investors are inexperienced and overbearing, the time it takes to raise is too long for too little, and the chance for negative impact before you really figure out what you are doing is too high.
 
 Too many companies make deals before they have any leverage. Bootstrapping is all about increasing your leverage.
