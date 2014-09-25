@@ -85,7 +85,7 @@ This is a bit of a truth and a myth in one. It's largely true that companies her
 
 With engineering-heavy teams, competition is global. People are working from the comforts of their home at well funded companies around the world. You have to compete with these companies whether you like it or not. I sometimes joke that Madison is like SF's remote office by how many engineers here work remotely for companies there.
 
-But there have also been some other positive changes in costs for building a startup. Few startups need to or should buy or host their own server hardware. That can dramatically cut costs and make you more flexible as you grow.
+But there have also been some other positive changes in costs for building a startup. For example, few startups need to or should buy or host their own server hardware. That can dramatically cut costs and make you more flexible as you grow.
 
 As such, I'm seeing compensation for engineers going up in Madison. I'd like to think Drifty is competitive not just locally but also around the country. It's a source of pride for me and I want to continue to be a leader there.
 
@@ -95,7 +95,7 @@ This is one I believe will hurt Madison's startup growth over time, though I don
 
 Madison is a much smaller city than SF, and it did not have the same history of growth that brought all the beautiful old buildings to downtown SF (though Milwaukee and Chicago *do* have these great old buildings). If you ignore the sketchy earthquake threat these buildings face, you see a lot more room for startups that are increasingly based in urban areas to grow rather large teams.
 
-We just moved into a new office in Madison. And while we love it, it's smaller than I'd like. Finding a space big enough that had any semblence of character was really hard. And being based on the far east or west side where there is a lot more space was not an option for us.
+We just moved into a new office in the heart of downtown Madison. And while we love it, it's smaller than I'd like. Finding a space big enough that had any semblence of character was really hard. And being based on the far east or west side where there is a lot more space was not an option for us.
 
 Of course, if you're willing to do custom build-outs to fix all the whacky government and law firm design decisions, you can be more flexible, but that does not fix the square footage constraint.
 
