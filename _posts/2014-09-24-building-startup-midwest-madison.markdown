@@ -9,7 +9,7 @@ day: 24
 published: true
 ---
 
-I'm currently sitting in SFO waiting for a flight back home to Madison, and whenever I'm here I always find myself juxtaposing this place with Madison and the midwest in general. Today I thought it would be fun to reflect on what being in in Madison has meant for [our company](http://drifty.com/), both the good and the bad, along with ways the Midwest is changing when it comes to startups.
+I'm currently sitting in SFO waiting for a flight back home to Madison, and whenever I'm here I always find myself juxtaposing this place with Madison and the midwest in general. Today I thought it would be fun to reflect on what being in Madison has meant for [our company](http://drifty.com/), both the good and the bad, along with ways the Midwest is changing when it comes to startups.
 
 In the process, I want to dispell (or not!) several myths about starting a startup in the midwest, as well as touch on some challenges and opportunities I believe startups have in the midwest, though through the lens of doing it in Madison (so some of this doesn't apply to other midwest cities like MSP or Chicago, but most of it does).
 
