@@ -107,7 +107,7 @@ Oh, and don't get me started on the 3-month lease insistence. Good luck finding 
 
 Let's just say when I tell people how little we are paying for our new office that we did a custom build out on, my SF friends can't believe it.
 
-Relatively speaking, office space is dirt cheap in Madison.
+Relatively speaking, office space is dirt cheap in Madison. And I wonder what cultural impact the insane office prices in SF have on young startups that are forced to work out of shared space for a lot longer.
 
 ## Truth #3: It's lonely here
 
