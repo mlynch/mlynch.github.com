@@ -129,7 +129,7 @@ While Madison is wonderful for hiring great developers, the reality is Software-
 
 What I'm seeing other companies doing is expanding to the coasts and adding offices there. I think this is what we will also end up doing as we grow. But it's not without its own challenges.
 
-This will change over time as this generation of Madison companies trains the local talent pool and learns how to build companies in this Brave New digital World.
+This will change over time as this generation of Madison companies trains the local talent pool and learns how to build companies in this Brave New Digital World.
 
 ## Truth #5: Traveling sucks from Madison
 
