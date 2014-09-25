@@ -99,7 +99,7 @@ We just moved into a new office in the heart of downtown Madison. And while we l
 
 Of course, if you're willing to do custom build-outs to fix all the whacky government and law firm design decisions, you can be more flexible, but that does not fix the square footage constraint.
 
-How we fix this in Madison is through legislation (or *lack thereof* in this case). With the space crunch on the isthmus combined with [building height restrictions](http://host.madison.com/news/local/writers/mike_ivey/by-design-madison-has-no-tall-buildings/article_64e73570-b5e1-11e3-9e53-0019bb2963f4.html) from the capitol, it seems the only way we will be able to expand the city is by increasing our sprawl. This is why I am passionate about abolishing this restriction.
+How we fix this in Madison is through legislation (or *lack thereof* in this case). With the space crunch on the isthmus combined with [building height restrictions](http://host.madison.com/news/local/writers/mike_ivey/by-design-madison-has-no-tall-buildings/article_64e73570-b5e1-11e3-9e53-0019bb2963f4.html) from the capitol, it seems the only way we will be able to expand the city is by increasing our sprawl. This is why I am passionate about abolishing the building height restriction.
 
 Oh, and don't get me started on the 3-month lease insistence. Good luck finding anything shorter than that beyond sublets and shared working spaces. I think that will change with increased startup activity and related turnover.
 
