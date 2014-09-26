@@ -27,8 +27,6 @@ When it comes to early stage, I can name many VC/seed firms, including [Arthur V
 
 Having spoken to everyone on this list, I am constantly impressed by how well they "get it," and I have many people on this list to thank for helping us fundraise and build our network. I hope I can give back to them in some way in the future.
 
-Then, of course, there are the angels and Angel Groups. Though unfortunately my conclusion with Wisconsin Angel Groups is to avoid them as the pain-to-capital ratio appears to be rather bad (ask anyone that has pitched or raised from one and you'll hear something similar most likely).
-
 Beyond the midwest firms, we are starting to see coastal firms like [Great Oaks](http://www.greatoaksvc.com/) focusing on the midwest (with investments in Madison firms like [EatStreet](http://eatstreet.com/) and [Fetch Rewards](http://www.fetchrewards.com/)), and even top-tier firms like Benchmark are [investing](http://techcrunch.com/2014/09/22/duo-security-12m-benchmark/?ncid=rss&utm_content=buffer3fa51&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) in the midwest.
 
 The reality is there just aren't as many companies here period, and even fewer that are ready for VC dollars, so sometimes it seems like you are at a huge disadvantage when it comes to fundraising here. But I actually think the VC ecosystem in the Midwest is capable of supporting many more companies than we currently have, so you can stand out a bit more.
@@ -37,7 +35,7 @@ These days traction trumps everything, and if you are a good company that fits t
 
 ## Myth #2: Fundraising takes much longer here
 
-This is also false...unless you are chasing Angel Groups. Then yes, it will take longer and your company might very well die before you ever hear a "yes" (okay, I relent!).
+This is also false, though can vary depending on who you work with and the stage you are at.
 
 When we [raised](http://techcrunch.com/2014/03/10/drifty-makers-of-the-ionic-mobile-framework-raise-1-million/) our $1M seed round from Arthur Ventures it was done from initial meeting to cash-in-the-bank in under a month. I think only the fundraising fervor on Y Combinator's demo day could beat that!
 
