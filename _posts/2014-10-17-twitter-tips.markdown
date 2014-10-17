@@ -28,6 +28,8 @@ their stream with your spam!
 When tweeting at someone, use a "." before if you want others to see it. If you just do `@maxlynch hey Max! Check out my new product` only those
 who follow both you and I will see that. Change it to `.@maxlynch` to avoid that.
 
+But, minding #1, don't just tweet me random crap unless you think I'll really like it :)
+
 ##3. Don't mass follow
 
 A lot of people do "mass follows" in attempt to get follows back. It doesn't really work and there is a limit to how many you can follow anyways.
