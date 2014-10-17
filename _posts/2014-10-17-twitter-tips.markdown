@@ -13,7 +13,7 @@ I notice far too many startups that just plain get Twitter wrong. They spam, the
 
 It's a tragedy because if done well, Twitter can be one of the best sources for *free*, *high quality* and *viral* traffic for your new product.
 
-While Twitter isn't right for every startup, depending on the target market it can a huge advantage for new startups just getting off the ground.
+While Twitter isn't right for every startup, depending on the target market it can be a huge advantage for new startups just getting off the ground. Here are some things to avoid, and some things to focus on:
 
 ##1. Don't spam
 
@@ -55,6 +55,8 @@ and he's happy with the additional traffic and is growing his own audience.
 If you are able to do like Nic does above and generate quality content that drives traffic, make sure you are
 encouraging those visitors to follow. An example from Ionic is our mailing list signup thank you page. Every visitor
 that signs up for our mailing list is encouraged to share, follow, and star us:
+
+![Follows](https://s3.amazonaws.com/maxlynch.com/follows.png)
 
 ##7. Be patient
 
