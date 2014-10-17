@@ -56,7 +56,7 @@ If you are able to do like Nic does above and generate quality content that driv
 encouraging those visitors to follow. An example from Ionic is our mailing list signup thank you page. Every visitor
 that signs up for our mailing list is encouraged to share, follow, and star us:
 
-![Follows](https://s3.amazonaws.com/maxlynch.com/follows.png)
+<img src="https://s3.amazonaws.com/maxlynch.com/follows.png" style="max-width: 100%">
 
 ##7. Be patient
 
