@@ -15,20 +15,24 @@ I've been luck to have  learned a ton about how the startup world works in that 
 
 Most people know I'm a huge fan of bootstrapping. Staying independent, building the products *you* want to build, and focusing on what is best for the customers.
 
+<!--
 But by many measures, bootstrapping is considered folly in the startup world. You're not investing enough in growth, you aren't thinking
 big enough, you're building a "lifestyle business," yadda yadda. Most of the negativity around bootstrapping is perpetuated by the VC community that doesn't really
 gain anything from you keeping that cap table nice and simple.
 
 But this isn't a rant about VCs. We have some [great ones](http://arthurventures.com/) who have been immensely helpful to us. Rather, I am fascinated by bootstrapping because it shows a tear in the fabric of startup culture mythos.
+-->
 
 Some of the [best](http://basecamp.com/) [bootstrapped](http://atlassian.com/) [companies](http://mailchimp.com/) have defined all odds to create immense value through non-institutional capital means. Some of them raised money later, yes, but 
 achieved far more than most startups do without raising a cent.
 
+<!--
 Bootstrapped companies are pretty well understood at this point. You basically focus on making money as soon as possible and you grow at a sustainable rate based on what your customer growth and core metrics can bear.
 
 But at the core, bootstrapped companies are *self-sufficient*. They are often started by a team that could build the product they are going to sell (rather than outsourcing it or having to hire a team), and had a close-knit founding team.
+-->
 
-So to me, bootstrapping represents the future of startups for many people, because capital costs have dropped sufficiently such that companies can great great value for little cost. Many founders will choose this route because it maximizes many things they care about (independence, control, ownership, etc.) while minimizing things they don't care about (growth at all costs, loss of control, focus on exits, etc.).
+To me, bootstrapping represents the future of startups for many people, because capital costs have dropped sufficiently such that companies can great great value for little cost. Many founders will choose this route because it maximizes many things they care about (independence, control, ownership, etc.) while minimizing things they don't care about (growth at all costs, loss of control, focus on exits, etc.).
 
 ### Something new emerging
 
@@ -39,4 +43,6 @@ or will spin off the product into a separate company with a new team to grow and
 
 This fascinates me. While bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
-If we assume that the same people starting bootstrapped companies would be great at starting Lab companies, the question is why we aren't seeing more of them.
+For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones.
+
+
