@@ -13,7 +13,7 @@ Ever since I started [Drifty](http://drifty.com/) I've been intrigued by how sta
 
 And I've been fortunate to have learned a lot about how they work. I've started a company with my best friend, hacked an MVP together and got an initial user base, bootstrapped the company, hired people, raised money, and focused hard on how to really grow it.
 
-Most people know I'm a huge fan of bootstrapping. Staying independent, building the products *you* want to build, and focusing on what is best for the customers.
+Most people know I'm a huge fan of bootstrapping. Staying independent, building the products *you* want to build, and focusing on what is best for the customers (though I'm very happy with the path we are taking at Drifty).
 
 <!--
 But by many measures, bootstrapping is considered folly in the startup world. You're not investing enough in growth, you aren't thinking
