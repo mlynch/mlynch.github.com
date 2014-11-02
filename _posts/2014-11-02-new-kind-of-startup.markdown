@@ -37,3 +37,6 @@ But this isn't about bootstrapping. Rather, I've been intrigued by a *new* kind 
 Kevin Rose is pretty much the poster child for this new startup format. His two companies [Milk](http://www.crunchbase.com/organization/milk) and now [North](http://techcrunch.com/2014/08/15/kevin-rose-google-ventures-north/) are essentially "startup labs": they are focusing on building new apps and social products to see what takes off. If something works, it's assumed the team will focus on that
 or will spin off the product into a separate company with a new team to grow and scale the product.
 
+This fascinates me. While bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
+
+If we assume that the same people starting bootstrapped companies would be great at starting Lab companies, the question is why we aren't seeing more of them.
