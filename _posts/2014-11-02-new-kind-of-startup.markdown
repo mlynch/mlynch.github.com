@@ -61,7 +61,7 @@ The problem is that both acquirers and investors usually want the team often mor
 
 ### A new future
 
-In the face of so few startup choices, the Lab represents something new. It's the joy of creating new products, the self-sufficiency of bootstrapping, the ability to keep great teams together, but the ability to grow and scale and retain upside on things that work.
+In the face of so few startup choices, the Lab represents something new. It's the joy of creating new products, the lack of responsibility VC-scale requires, the self-sufficiency of bootstrapping, the ability to keep great teams together, but the ability to grow and scale and retain upside on things that work.
 
 I think there is a crucial caveat to the Lab model: you *have* to have an incredible product team. A developer/designer duo perhaps, or a team that has worked together before and wants to stick together. I don't think it will work with a ragtag team though those often work in the VC startup land.
 
