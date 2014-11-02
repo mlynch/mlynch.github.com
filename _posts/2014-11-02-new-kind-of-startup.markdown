@@ -45,8 +45,9 @@ While Kevin's team has only shipped [one failed app](http://mashable.com/2012/03
 
 One fascinating difference between a lab and a bootstrapped startup is while bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
-For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leave and do something else (and possibly loosing any chance at upside).
+For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than starting up new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leaving and doing something else (and probably losing a good chunk of potential upside).
 
-And even then, with standard VC financing rounds and assuming the probable case that your startup isn't a [black swan or "unicorn"](http://paulgraham.com/swan.html), founder take-home might be the same whether you work 10 years, raise 5 rounds, and sell for $200M vs working a few years, raising little capital, and selling for $20M.
+And even if they pick the long road of building and scaling a working business, with standard VC financing rounds and assuming the probable case that your startup isn't a [black swan or "unicorn"](http://paulgraham.com/swan.html), founder take-home might be the same whether you work 10 years, raise 5 rounds, and sell for $200M vs working a few years, raising little capital, and selling for $20M.
 
+In the face of so few choices, the Lab represents something new. It's the joy of creating products, the self-sufficiency of bootstrapping, but the ability to grow and scale and retain upside on things that work.
 
