@@ -70,4 +70,4 @@ For now I'm eagerly watching this new model evolve, because it represents someth
 
 Teams that pull this off will find themselves working on more interesting problems, for less investment in time, and with potentially greater upside for the individuals creating the first versions of the product.
 
-And as a strange side-effect, VCs might find more interesting companies to put money into as more products solving more problems enter the market.
+And as a strange side-effect, VCs might find more interesting companies to put money into as more products solving more problems built by teams that know how to make things people want enter the market.
