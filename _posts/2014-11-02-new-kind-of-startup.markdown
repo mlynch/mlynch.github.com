@@ -19,4 +19,5 @@ gain anything from you keeping that cap table nice and simple.
 
 Do not think I'm going to rant about VCs. We have some [great ones](http://arthurventures.com/) who have been immensely helpful to us. Rather, I am fascinated by bootstrapping because it shows a tear in the fabric of startup culture bullshit.
 
-I only 
+Some of the [best](http://basecamp.com/) [bootstrapped](http://atlassian.com/) [companies](http://mailchimp.com/) have defined all odds to create immense value through non-institutional capital means. Some of them raised money later, yes, but 
+achieved far more than most startups do without raising a cent.
