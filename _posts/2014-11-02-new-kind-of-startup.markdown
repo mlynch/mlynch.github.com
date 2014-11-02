@@ -32,7 +32,7 @@ Bootstrapped companies are pretty well understood at this point. You basically f
 But at the core, bootstrapped companies are *self-sufficient*. They are often started by a team that could build the product they are going to sell (rather than outsourcing it or having to hire a team), and had a close-knit founding team.
 -->
 
-To me, bootstrapping represents a possible future of startups for many people, because capital costs have dropped sufficiently such that companies can great great value for little cost. Many founders will choose this route because it maximizes many things they care about (independence, control, ownership, etc.) while minimizing things they don't care about (growth at all costs, loss of control, focus on exits, etc.).
+To me, bootstrapping represents a possible future of startups for many people, because capital costs have dropped sufficiently such that companies can create great value for little cost. Many founders will choose this route because it maximizes many things they care about (independence, control, ownership, etc.) while minimizing things they don't care about (growth at all costs, loss of control, focus on exits, etc.).
 
 ### The "Lab"
 
