@@ -53,7 +53,7 @@ And even if they pick the long road of building and scaling a working business, 
 
 ### Upside
 
-A Lab has a different ownership structure and upside opportunities are a bit murkier. At first glance, the two sweet spots for Labs to make as much money as possible is to build a product quickly, see rapid adoption, and sell it to someone else or spin it out to a new team to scale it up (while retaining some equity ownership over it).
+A Lab has a different ownership structure and upside opportunities are a bit murkier. At first glance, the two sweet spots for Labs to make as much money as possible is to build a product quickly, see rapid adoption, and sell it to someone else or spin it out to a new team to scale it up (while retaining some equity ownership over it). Since the lab team is intentionally small, the upside on even a small sale can be large.
 
 In the case of a spin-out, perhaps this new team can raise VC and scale the product, with the lab taking some liquidity.
 
