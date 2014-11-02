@@ -41,8 +41,12 @@ But this isn't about bootstrapping. Rather, I've been intrigued by a *new* kind 
 Kevin Rose is pretty much the poster child for this new startup format. His two companies [Milk](http://www.crunchbase.com/organization/milk) and now [North](http://techcrunch.com/2014/08/15/kevin-rose-google-ventures-north/) are essentially "startup labs": they are focusing on building new apps and social products to see what takes off. If something works, it's assumed the team will focus on that
 or will spin off the product into a separate company with a new team to grow and scale the product.
 
-This fascinates me. While bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
+While Kevin's team has only shipped [one failed app](http://mashable.com/2012/03/14/kevin-roses-oink-folds/), I'm sure they learned a ton about how to make the system work.
+
+One fascinating difference between a lab and a bootstrapped startup, is while bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
 For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leave and do something else (and possibly loosing any chance at upside).
+
+And even then, with standard VC financing rounds and assuming the probable case that your startup isn't a [black swan or "unicorn"](http://paulgraham.com/swan.html), founder take-home might be the same whether you work 10 years, raise 5 rounds, and sell for $200M vs working a few years, raising little capital, and selling for $20M.
 
 
