@@ -43,7 +43,7 @@ or will spin off the product into a separate company with a new team to grow and
 
 While Kevin's team has only shipped [one failed app](http://mashable.com/2012/03/14/kevin-roses-oink-folds/), I'm sure they learned a ton about how to make the system work.
 
-One fascinating difference between a lab and a bootstrapped startup, is while bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
+One fascinating difference between a lab and a bootstrapped startup is while bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
 For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leave and do something else (and possibly loosing any chance at upside).
 
