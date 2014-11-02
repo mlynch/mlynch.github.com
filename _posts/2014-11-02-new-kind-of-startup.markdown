@@ -68,4 +68,6 @@ This is probably why we see so few Lab startups. It turns out that combo is pret
 
 For now I'm eagerly watching this new model evolve, because it represents something exciting to me: the ability to rapidly change the world in as many problem spaces as possible, while still being able to find financial success. 
 
-Teams that pull this off will find themselves working on more interesting problems, for less investment in time, and with potentially greater upside for the individuals creating the first versions of the product. 
+Teams that pull this off will find themselves working on more interesting problems, for less investment in time, and with potentially greater upside for the individuals creating the first versions of the product.
+
+And as a strange side-effect, VCs might find more interesting companies to put money into as more products solving more problems enter the market.
