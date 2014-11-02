@@ -34,7 +34,7 @@ But at the core, bootstrapped companies are *self-sufficient*. They are often st
 
 To me, bootstrapping represents the future of startups for many people, because capital costs have dropped sufficiently such that companies can great great value for little cost. Many founders will choose this route because it maximizes many things they care about (independence, control, ownership, etc.) while minimizing things they don't care about (growth at all costs, loss of control, focus on exits, etc.).
 
-### Something new emerging
+### The "Lab"
 
 But this isn't about bootstrapping. Rather, I've been intrigued by a *new* kind of startup format that I will refer to now as a "lab."
 
@@ -43,6 +43,6 @@ or will spin off the product into a separate company with a new team to grow and
 
 This fascinates me. While bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
-For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones.
+For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than startup new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leave and do something else (and possibly loosing any chance at upside).
 
 
