@@ -49,8 +49,18 @@ For many technical founders, the goal isn't to work on one thing forever. Rather
 
 And even if they pick the long road of building and scaling a working business, with standard VC financing rounds and assuming the probable case that your startup isn't a [black swan or "unicorn"](http://paulgraham.com/swan.html), founder take-home might be the same whether you work 10 years, raise 5 rounds, and sell for $200M vs working a few years, raising little capital, and selling for $20M.
 
+### Upside
+
+A Lab has a different ownership structure and upside opportunities are a bit murkier. At first glance, the two sweet spots for Labs to make as much money as possible is to build a product quickly, see rapid adoption, and sell it to someone else or spin it out to a new team to scale it up (while retaining some equity ownership over it).
+
+In the case of a spin-out, perhaps this new team can raise VC and scale the product, with the lab taking some liquidity.
+
+The problem is that both acquirers and investors usually want the team often more than the product. Labs are going to have to figure out how to retain the independence of the product team while enabling the sale or growth of the products they create.
+
 ### A new future
 
-In the face of so few choices, the Lab represents something new. It's the joy of creating products, the self-sufficiency of bootstrapping, but the ability to grow and scale and retain upside on things that work.
+In the face of so few choices, the Lab represents something new. It's the joy of creating new products, the self-sufficiency of bootstrapping, the ability to keep great teams together, but the ability to grow and scale and retain upside on things that work.
 
 I think there is a crucial caveat to the Lab model: you *have* to have an incredible product team. A developer/designer duo perhaps, or a team that has worked together before and wants to stick together. I don't think it will work with a ragtag team though those often work in the VC startup land.
+
+This is probably why we see so few Lab startups. It turns out that combo is pretty rare. I have a hunch it can be engineered but we will have to wait and see.
