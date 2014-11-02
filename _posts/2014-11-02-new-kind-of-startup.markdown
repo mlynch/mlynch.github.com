@@ -6,7 +6,7 @@ tags: startups
 year: 2014
 month: 11
 day: 2
-published: false  
+published: true  
 ---
 
 Ever since I started [Drifty](http://drifty.com/) I've been intrigued by how startups work, and how the startup world says they should work. 
