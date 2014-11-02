@@ -53,3 +53,4 @@ And even if they pick the long road of building and scaling a working business, 
 
 In the face of so few choices, the Lab represents something new. It's the joy of creating products, the self-sufficiency of bootstrapping, but the ability to grow and scale and retain upside on things that work.
 
+I think there is a crucial caveat to the Lab model: you *have* to have an incredible product team. A developer/designer duo perhaps, or a team that has worked together before and wants to stick together. I don't think it will work with a ragtag team though those often work in the VC startup land.
