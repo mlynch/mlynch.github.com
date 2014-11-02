@@ -11,7 +11,7 @@ published: false
 
 Ever since I started [Drifty](http://drifty.com/) I've been intrigued by how startups work, and how the startup world says they should work. 
 
-I've been lucky to have  learned a ton about how the startup world works in that time. I've started a company with my best friend, hacked an MVP together and got an initial user base, bootstrapped the company, hired people, raised money, and focused hard on how to really grow it.
+And I've been fortunate to have learned a lot about how they work. I've started a company with my best friend, hacked an MVP together and got an initial user base, bootstrapped the company, hired people, raised money, and focused hard on how to really grow it.
 
 Most people know I'm a huge fan of bootstrapping. Staying independent, building the products *you* want to build, and focusing on what is best for the customers.
 
