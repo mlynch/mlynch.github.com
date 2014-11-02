@@ -49,5 +49,7 @@ For many technical founders, the goal isn't to work on one thing forever. Rather
 
 And even if they pick the long road of building and scaling a working business, with standard VC financing rounds and assuming the probable case that your startup isn't a [black swan or "unicorn"](http://paulgraham.com/swan.html), founder take-home might be the same whether you work 10 years, raise 5 rounds, and sell for $200M vs working a few years, raising little capital, and selling for $20M.
 
+### A new future
+
 In the face of so few choices, the Lab represents something new. It's the joy of creating products, the self-sufficiency of bootstrapping, but the ability to grow and scale and retain upside on things that work.
 
