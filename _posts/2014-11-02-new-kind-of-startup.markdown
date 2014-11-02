@@ -13,7 +13,7 @@ Ever since I started [Drifty](http://drifty.com/) I've been intrigued by how sta
 
 I've learned a lot about them in the last few years by starting a company with my best friend, hacking an MVP together and getting that initial user base, bootstrapping, hiring, raising money, and focusing hard on how to really grow it.
 
-Most people know I'm a huge fan of bootstrapping. Staying independent, building the products *you* want to build, and focusing on what is best for the customers (though I'm very happy with the path we are taking at Drifty).
+Most people know I'm a huge fan of bootstrapping. I find the model intriguing because by many measures bootstrapping is considered folly by the larger startup ecosystem, primarily from the VC world that doesn't benefit from a cap table that doesn't have their name on it. And yet there have been some [huge](http://github.com/) [successes](http://mailchimp.com/) from following that model. It defies the conventional wisdom, and I love that.
 
 <!--
 But by many measures, bootstrapping is considered folly in the startup world. You're not investing enough in growth, you aren't thinking
