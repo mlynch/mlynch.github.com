@@ -21,11 +21,10 @@ big enough, you're building a "lifestyle business," yadda yadda. Most of the neg
 gain anything from you keeping that cap table nice and simple.
 
 But this isn't a rant about VCs. We have some [great ones](http://arthurventures.com/) who have been immensely helpful to us. Rather, I am fascinated by bootstrapping because it shows a tear in the fabric of startup culture mythos.
--->
 
 Some of the [best](http://basecamp.com/) [bootstrapped](http://atlassian.com/) [companies](http://mailchimp.com/) have defied all odds to create immense value through non-institutional capital means. Some of them raised money later, yes, but 
 achieved far more than most startups do without raising a cent.
-
+-->
 <!--
 Bootstrapped companies are pretty well understood at this point. You basically focus on making money as soon as possible and you grow at a sustainable rate based on what your customer growth and core metrics can bear.
 
