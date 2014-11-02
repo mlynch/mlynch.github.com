@@ -43,6 +43,8 @@ or will spin off the product into a separate company with a new team to grow and
 
 While Kevin's team has only shipped [one failed app](http://mashable.com/2012/03/14/kevin-roses-oink-folds/), I'm sure they learned a ton about how to make the system work.
 
+Another interesting example is the Samwer brothers' [Rocket Internet](https://www.rocket-internet.com/). Billed as the "world's largest incubator," they have found success cloning successful startups and tailoring them for a non-US userbase. While I don't like their approach, they've shown the model can be wildly successful.
+
 One fascinating difference between a lab and a bootstrapped startup is while bootstrappers keep everything they make (including the responsibilities of the products they create), the "lab" does not, almost as a rule.
 
 For many technical founders, the goal isn't to work on one thing forever. Rather, it's to create lots of new products and have a diversity of problem spaces they attack. Many technical founders find scaling a business a lot less interesting than starting up new ones, but when they raise VC company they are left with the choice of focusing only on this one space for the next 5-10 years, or leaving and doing something else (and probably losing a good chunk of potential upside).
@@ -59,8 +61,12 @@ The problem is that both acquirers and investors usually want the team often mor
 
 ### A new future
 
-In the face of so few choices, the Lab represents something new. It's the joy of creating new products, the self-sufficiency of bootstrapping, the ability to keep great teams together, but the ability to grow and scale and retain upside on things that work.
+In the face of so few startup choices, the Lab represents something new. It's the joy of creating new products, the self-sufficiency of bootstrapping, the ability to keep great teams together, but the ability to grow and scale and retain upside on things that work.
 
 I think there is a crucial caveat to the Lab model: you *have* to have an incredible product team. A developer/designer duo perhaps, or a team that has worked together before and wants to stick together. I don't think it will work with a ragtag team though those often work in the VC startup land.
 
 This is probably why we see so few Lab startups. It turns out that combo is pretty rare. I have a hunch it can be engineered but we will have to wait and see.
+
+For now I'm eagerly watching this new model evolve, because it represents something exciting to me: the ability to rapidly change the world in as many problem spaces as possible, while still being able to find financial success. 
+
+Teams that pull this off will find themselves working on more interesting problems, for less investment in time, and with potentially greater upside for the individuals creating the first versions of the product. 
