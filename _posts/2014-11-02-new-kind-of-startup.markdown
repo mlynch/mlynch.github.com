@@ -31,7 +31,7 @@ To me, bootstrapping represents a possible future of startups for many people, b
 
 ### The "Lab"
 
-But I'm starting to think there might be an even better startup model out there for certain types of founders, which I will refer to as the "Lab."
+But I'm starting to think there might be an even better startup model out there for certain types of founders. One which maximizes parts of the startup experience they value, and minimizes the rest. This format is called the "lab."
 
 Kevin Rose is pretty much the poster child for this new startup format. His two companies [Milk](http://www.crunchbase.com/organization/milk) and now [North](http://techcrunch.com/2014/08/15/kevin-rose-google-ventures-north/) are essentially "startup labs": they are focusing on building new apps and social products to see what takes off. If something works, it's assumed the team will focus on that
 or will spin off the product into a separate company with a new team to grow and scale the product.
