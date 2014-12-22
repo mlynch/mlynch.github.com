@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+  <script src="//use.typekit.net/utp0tbz.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>{{ page.title }}</title>
   <meta name="author" content="Max Lynch" />
@@ -19,6 +21,11 @@
   <link rel="stylesheet" href="/css/clean.css" type="text/css" media="screen, projection">
 </head>
 <body>
+  {% if page.header %}
+<div id="top-bg">
+  <img src="/images/bg.jpg">
+</div>
+  {% endif %}
   <div id="wrapper">
     {{ content }}
   </div>
