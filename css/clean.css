@@ -81,6 +81,9 @@ h1, h2, h3, h4, h5 {
   line-height: 29px;
   margin: 0 0 22px 0;
 }
+.post-content img {
+  max-width: 100%;
+}
 
 #post-bottom {
   margin-top: 40px;
