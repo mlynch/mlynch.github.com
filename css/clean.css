@@ -34,6 +34,8 @@ h1, h2, h3, h4, h5 {
 #top-bg {
   height: 200px;
   overflow: hidden;
+  background: url('/images/bg.jpg') no-repeat transparent;
+  background-size: contain;
 }
 
 #wrapper {
