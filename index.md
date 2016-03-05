@@ -24,7 +24,7 @@ Random thoughts:
     <li><a href="https://medium.com/@maxlynch/why-we-didn-t-sell-our-company-4505446c874d#.4iypp2tac">Why we didn't sell our startup</a></li>
     <li><a href="https://medium.com/business-startup-development-and-more/you-can-start-and-grow-a-startup-anywhere-b927c7735f76#.nm5axwf01">You can start, and grow, and startup anywhere</a></li>
     <li><a href="https://medium.com/@maxlynch/why-i-hated-business-36e9822119ab#.i8dudgpa2">Why I hated "business"</a></li>
-    <li><a href="/blog/new-kind-of-startup/">A New Kind of Startup</a></li>
+    <!--<li><a href="/blog/new-kind-of-startup/">A New Kind of Startup</a></li>-->
     <li><a href="/blog/building-startup-midwest-madison">Myths of Building a Startup in the Midwest</a></li>
     <li><a href="/blog/bootstrapping">On Not Bootstrapping</a></li>
     <li><a href="/blog/hiring">Creating a Great Place to Work</a></li>
