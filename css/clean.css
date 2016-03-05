@@ -16,6 +16,11 @@ padding: 0;
 margin: 0;
 }
 
+body {
+	 background: url('/images/24296251963_71b008e856_k.jpg') no-repeat #000;
+	 background-position: 75% 50%;
+	 
+}
 a {
   /*
   color: #ff0084;
@@ -33,9 +38,7 @@ h1, h2, h3, h4, h5 {
 }
 
 #top-bg {
-  height: 100%;
-  position: absolute;
-  background: url('/images/24296251963_71b008e856_k.jpg') no-repeat transparent;
+ 
 }
 
 #wrapper {
