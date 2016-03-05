@@ -18,7 +18,7 @@ margin: 0;
 
 body {
 	 background: url('/images/24296251963_71b008e856_k.jpg') no-repeat #000;
-	 background-position: 25% 50%;
+	 background-position: 600px 600px;
 	 
 }
 a {
@@ -42,9 +42,7 @@ h1, h2, h3, h4, h5 {
 }
 
 #wrapper {
-  max-width: 600px;
-  padding: 10px;
-  margin: auto;
+  margin-left: 20px;
 }
 
 #me {
