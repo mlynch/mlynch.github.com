@@ -20,7 +20,7 @@ a {
   /*
   color: #ff0084;
   */
-  color: #222;
+  color: #fff;
 }
 
 h1 {
@@ -33,8 +33,7 @@ h1, h2, h3, h4, h5 {
 
 #top-bg {
   height: 200px;
-  overflow: hidden;
-  background: url('/images/bg.jpg') no-repeat transparent;
+  background: url('/images/24296251963_71b008e856_k.jpg') no-repeat transparent;
   background-size: cover;
 }
 
