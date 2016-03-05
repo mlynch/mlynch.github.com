@@ -8,7 +8,9 @@ header: true
 
 # MAX LYNCH
 
-I co-founded [Ionic](http://ionicframework.com/) with some cool people. Find me on [Twitter](http://twitter.com/maxlynch) and [Instagram](http://instagram.com/maxlynch). Based in Madison, WI.
+I co-founded [Ionic](http://ionicframework.com/).
+
+[Twitter](http://twitter.com/maxlynch) - [Instagram](http://instagram.com/maxlynch)
 
 Occasionally I write essays on this site. Here are my most popular ones:
 <nav id="most-popular">
