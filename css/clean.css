@@ -72,7 +72,9 @@ h1, h2, h3, h4, h5 {
 #top-bg {
 
 }
-
+body.post-body #wrapper {
+	margin: 550px;
+}
 #wrapper {
   margin-left: 20px;
 }
