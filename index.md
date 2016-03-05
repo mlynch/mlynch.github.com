@@ -10,7 +10,7 @@ I co-founded [Ionic](http://ionicframework.com/).
 
 [Twitter](http://twitter.com/maxlynch) - [Instagram](http://instagram.com/maxlynch) - [Medium](http://medium.com/@maxlynch)
 
-Random thoughts:
+Random thoughts I've had at one point or another:
 
 <nav id="most-popular">
   <ul>
