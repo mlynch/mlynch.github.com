@@ -19,14 +19,14 @@ body {
 	color: #444;
 	background-color: white;
 }
-.body.index {
+body.index {
 	color: #fff;
 	 background: url('/images/24296251963_71b008e856_k.jpg') no-repeat #000;
 	 background-position: 15% 50%;
 	 font-size:13px;
 }
 
-.body.index a {
+body.index a {
   /*
   color: #ff0084;
   */
