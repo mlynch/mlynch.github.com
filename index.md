@@ -4,8 +4,6 @@ title: Startups, bootstrapping, and making magic
 header: true
 ---
 
-<img src="images/mehat.jpg" alt="Me" id="me">
-
 # MAX LYNCH
 
 I co-founded [Ionic](http://ionicframework.com/).
