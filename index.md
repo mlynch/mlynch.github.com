@@ -8,7 +8,7 @@ header: true
 
 # MAX LYNCH
 
-I'm the co-founder of [Drifty](http://drifty.com/) and co-creator of [Ionic](http://ionicframework.com/). Find me on [Twitter](http://twitter.com/maxlynch) and [Instagram](http://instagram.com/maxlynch). I spend most of my time in Madison, WI.
+I co-founded [Ionic](http://ionicframework.com/) with some cool people. Find me on [Twitter](http://twitter.com/maxlynch) and [Instagram](http://instagram.com/maxlynch). Based in Madison, WI.
 
 Occasionally I write essays on this site. Here are my most popular ones:
 <nav id="most-popular">
