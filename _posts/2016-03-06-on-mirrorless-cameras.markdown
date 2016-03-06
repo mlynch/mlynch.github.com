@@ -31,3 +31,6 @@ Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are 
 
 A few nice features I use constantly are the Wi-Fi and Film Simulation modes. With the Wi-Fi setting, photos can be quickly transferred to a smartphone without going through a slow SD-card import process. The Film Simulation modes simulate classic Fuji film, based on their years of creating film products, and do a great job adding sophistication to shots without looking like an over-the-top instagram filter.
 
+In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a major life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd. 
+
+10/10
