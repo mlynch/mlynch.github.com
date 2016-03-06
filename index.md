@@ -8,7 +8,7 @@ header: true
 
 I co-founded [Ionic](http://ionicframework.com/).
 
-[Twitter](http://twitter.com/maxlynch) - [Instagram](http://instagram.com/maxlynch) - [Medium](http://medium.com/@maxlynch)
+[Twitter](http://twitter.com/maxlynch) - [Instagram](http://instagram.com/maxlynch) - [Medium](http://medium.com/@maxlynch) - [Flickr](https://www.flickr.com/photos/techrolla/)
 
 Random thoughts I've had at one point or another:
 
