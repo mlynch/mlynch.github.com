@@ -15,6 +15,8 @@ Previously, I used a lower-end Canon DSLR and my iPhone for most of my photograp
 
 After a few weeks of use, I have some initial reactions on the camera. First, the JPEG image quality is incredible with a "magic" that's hard to describe. The EVF and LCD have tons of premium features like leveling, focus peaking, face detection, and more. The camera feels solid yet light, film era meets modern day.
 
+<img src="/images/blog/fujifilm/dog1.jpg" class="photo" style="max-width: 300px">
+
 One of the wonderful secrets of the X series, and other mirrorless cameras like it, is how easily they support old film lenses. With a simple glass-free adapter, classic Minolta Rokkor, Canon, Pentax, Nikkor, and other lenses can be given new life in the digital age.
 
 Yes, these lenses are going to be manual-only, but with modern features like Focus Peaking that highlight the in-focus area in the viewfinder, manual becomes much more practical. I bought a few old Rokkor lenses on ebay based on [Rokkor Files](http://www.rokkorfiles.com/Lenses.html) reviews (50mm f/1.4, 58mm f/1.4, 45mm f/2, 28mm f/2.8, and a 135mm f/2.8) for ~$240 with shipping. Five quality lenses for less than the price of one Fujinon 35mm.

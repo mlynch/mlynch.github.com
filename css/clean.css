@@ -126,3 +126,8 @@ body.post-body #wrapper {
 #post-bottom {
   margin-top: 40px;
 }
+
+.post-body .photo {
+  display: block;
+  margin: auto;
+}
