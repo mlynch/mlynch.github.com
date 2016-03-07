@@ -42,7 +42,7 @@ Yes, these lenses are going to be manual-only, but with modern features like Foc
 
 You'll notice I bought three lenses in the ~50mm focal length, which seems redundant. One of the fun parts about finding and researching old lenses is hearing about the history of each lens type. I found that, in many cases, one focal length line could be dramatically better in construction and performance than another depending on the volume produced, manufacturing process, and era of the lens. I tried a few in the ~50mm focal length based on those reviews, with the expectation that I'd use each one for different purposes. Plus, it's hard to say no to a $20 fast and quality lens in any focal length.
 
-Back to the camera. On a Fujifilm aperture and shutter speed are configured through analog dials. The most common state is aperture priority where the shutter speed is automatically chosen by the camera and the aperture can be changed by the user. Most lenses have an aperture ring that you rotate through f-stops, or lock in "auto" mode to push the camera into shutter priority mode (or full auto if both engaged). The shutter speed is configured through a classic dial. Both features hark back to film days and force the user to get involved in the photo-making process.
+Back to the camera. On a Fujifilm with Fujinon lenses aperture and shutter speed are configured through analog dials on the lens. The most common state is aperture priority where the shutter speed is automatically chosen by the camera and the aperture can be changed by the user. Most Fujinon lenses have an aperture ring that you rotate through f-stops, or lock in "auto" mode to push the camera into shutter priority mode (or full auto if both engaged). The shutter speed is configured through a classic dial. Both features hark back to film days and force the user to get involved in the photo-making process.
 
 <div class="photo-box">
   <a href="/images/blog/fujifilm/camera0.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera0.jpg"></a>
@@ -65,5 +65,7 @@ Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are 
 </div>
 
 A few nice features I use constantly are the Wi-Fi and Film Simulation modes. With the Wi-Fi setting, photos can be quickly transferred to a smartphone without going through a slow SD-card import process. The Film Simulation modes simulate classic Fuji film, based on their years of creating film products, and do a great job adding sophistication to shots without looking like an over-the-top instagram filter.
+
+Beyond features, I love the size and feel of the camera body. I wanted something small enough to carry with me most places, yet large enough to still feel like a classic camera. I initially tried the X70 which was wonderful in all the ways the Fujifilm X cameras are, but I felt the form factor was too small and I missed the viewfinder. No such issues here.
 
 In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd. 
