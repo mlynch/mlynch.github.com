@@ -71,3 +71,5 @@ Beyond features, I love the size and feel of the camera body. I wanted something
 In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd.
 
 I'm incredibly happy with my choice and recommend anyone new to mirrorless or wanting a smaller alternative to a DSLR check out the Fujifilm X line (and the X-E2S).
+
+Stay tuned for a future post with more Fuji Photos!
