@@ -9,7 +9,7 @@ day: 6
 published: true  
 ---
 
-A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the Fujinon 35mm F2 R WR lens (not pictured).
+A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the Fujinon 35mm F2 R WR lens.
 
 <div class="photo-box">
   <a href="/images/blog/fujifilm/camera1.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera1.jpg"></a>
