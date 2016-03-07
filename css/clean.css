@@ -73,8 +73,8 @@ h1, h2, h3, h4, h5 {
 
 }
 body.post-body #wrapper {
-	margin-left: 20px;
 	max-width: 550px;
+  margin: auto;
 }
 #wrapper {
   margin-left: 20px;
@@ -130,4 +130,16 @@ body.post-body #wrapper {
 .post-body .photo {
   display: block;
   margin: auto;
+}
+.photo-box {
+  margin: 40px auto;
+  text-align: center;
+}
+.photo-box img {
+  max-width: 550px;
+}
+.photo-caption {
+  margin-top: 15px;
+  font-style: italic;
+  font-size: 14px;
 }
