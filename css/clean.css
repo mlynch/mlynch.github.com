@@ -137,7 +137,7 @@ body.post-body #wrapper {
   text-align: center;
 }
 .photo-box img {
-  max-width: 550px;
+  max-width: 100%;
 }
 .photo-caption {
   margin-top: 15px;
