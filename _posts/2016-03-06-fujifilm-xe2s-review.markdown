@@ -18,7 +18,7 @@ A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the
   </div>
 </div>
 
-Previously, I used a lower-end Canon DSLR and my iPhone for most of my photography, so I was in need of an upgrade. I researched my options: bulky professional DSLRs with tons of features I didn't need, and Leica's with a price tag I couldn't afford. By chance, I stumbled on the Fujifilm X line, and was immediately smitten with the aesthetic: classic rangefinder-esque with modern conveniences. I knew I just *had* to have one.
+Previously, I used a lower-end Canon DSLR and my iPhone for most of my photography, so I was in need of an upgrade. I researched my options: bulky professional DSLRs with tons of features I didn't need, and Leica's with a price tag I couldn't afford. By chance, I stumbled on the Fujifilm X line, and was immediately smitten with the aesthetic: classic rangefinder-esque with modern conveniences. Just what I was looking for.
 
 After a few weeks of use, I have some initial reactions on the camera. First, the JPEG image quality is incredible with a "magic" that's hard to describe. The EVF and LCD have tons of premium features like leveling, focus peaking, face detection, and more. The camera feels solid yet light, film era meets modern day.
 
