@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5 {
 body.post-body #wrapper {
 	max-width: 550px;
   margin: auto;
+  padding: 10px;
 }
 #wrapper {
   margin-left: 20px;
