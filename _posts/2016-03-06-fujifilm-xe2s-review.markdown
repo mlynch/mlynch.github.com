@@ -55,7 +55,7 @@ The aperture dial is yet another reason old film lenses work so well on this cam
 
 I found the dial approach to be quick and painless once I got used to it, and appreciate that the settings stay put better than fully digital approaches like most DSLRs. One major feature I find myself using all the time is the exposure compensation dial. Having this dial so accessible makes it simple to quickly over or under (more commonly) expose a shot. On my canon that option was hidden through an awkward Q sub-menu.
 
-Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are a great way to quickly move between low and normal lighting situations without fiddling through options. I can let the camera jump to 6400 ISO if absolutely necessary but maintain a 1/60 shutter speed, for example. A more optimal shot could be taken, perhaps, but not without a pause to change options.
+Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are a great way to quickly move between low and normal lighting situations without fiddling through options. I can let the camera jump to 6400 ISO if absolutely necessary but maintain a 1/60 shutter speed minimum, for example. A more optimal shot could be taken, perhaps, but not without a pause to change options.
 
 <div class="photo-box">
   <a href="/images/blog/fujifilm/camera4.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera4.jpg"></a>
