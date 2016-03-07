@@ -18,7 +18,7 @@ A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the
   </div>
 </div>
 
-Previously, I used a lower-end Canon DSLR and my iPhone for most of my photography, so I was in need of an upgrade. I researched my options: bulky profesional DSLRs with tons of features I didn't need, and Leica's with a price tag I couldn't afford. By chance, I stumbled on the Fujifilm X line, and was immediately smitten with the aesthetic: classic rangefinder-esque with modern conveniences. I knew I just *had* to have one.
+Previously, I used a lower-end Canon DSLR and my iPhone for most of my photography, so I was in need of an upgrade. I researched my options: bulky professional DSLRs with tons of features I didn't need, and Leica's with a price tag I couldn't afford. By chance, I stumbled on the Fujifilm X line, and was immediately smitten with the aesthetic: classic rangefinder-esque with modern conveniences. I knew I just *had* to have one.
 
 After a few weeks of use, I have some initial reactions on the camera. First, the JPEG image quality is incredible with a "magic" that's hard to describe. The EVF and LCD have tons of premium features like leveling, focus peaking, face detection, and more. The camera feels solid yet light, film era meets modern day.
 
@@ -53,7 +53,7 @@ Back to the camera. On a Fujifilm aperture and shutter speed are configured thro
 
 The aperture dial is yet another reason old film lenses work so well on this camera. Unlike Canon lenses where so much of the lens is controlled by the body, Fujifilm X cameras expect aperture and manual focus to be lens-controlled. For example, my Canon EF 50mm f/1.8 STM lens has to be attached to a Canon (or compatible) body to control both the aperture *and* the focus, which makes it pretty much useless on any other camera. Since old film lenses are lens controlled, they work amazingly well on an X body.
 
-I found the dial approach to be quick and painless once I got used to them again, and appreciate that the settings stay put better than fully digital approaches like most DSLRs. One major feature I find myself using all the time is the exposure compensation dial. Having this dial so accessible makes it simple to quickly over or under (more commmonly) expose a shot. On my canon that option was hidden through an awkward Q sub-menu.
+I found the dial approach to be quick and painless once I got used to them again, and appreciate that the settings stay put better than fully digital approaches like most DSLRs. One major feature I find myself using all the time is the exposure compensation dial. Having this dial so accessible makes it simple to quickly over or under (more commonly) expose a shot. On my canon that option was hidden through an awkward Q sub-menu.
 
 Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are a great way to quickly move between low and normal lighting situations without fiddling through options. I can let the camera jump to 6400 ISO if absolutely necessary but maintain a 1/60 shutter speed, for example. A more optimal shot could be taken, perhaps, but not without a pause to change options.
 
