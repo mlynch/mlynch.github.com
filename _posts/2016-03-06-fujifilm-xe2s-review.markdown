@@ -68,4 +68,6 @@ A few nice features I use constantly are the Wi-Fi and Film Simulation modes. Wi
 
 Beyond features, I love the size and feel of the camera body. I wanted something small enough to carry with me most places, yet large enough to still feel like a classic camera. I initially tried the X70 which was wonderful in all the ways the Fujifilm X cameras are, but I felt the form factor was too small and I missed the viewfinder. No such issues here.
 
-In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd. 
+In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd.
+
+I'm incredibly happy with my choice and recommend anyone new to mirrorless or wanting a smaller alternative to a DSLR check out the Fujifilm X line (and the X-E2S).
