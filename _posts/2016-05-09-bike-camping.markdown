@@ -15,3 +15,4 @@ I first got enamored with solo camping while backpacking in the Porcupine Mounta
 
 The more I thought about solo camping, the more I was intrigued by the idea. I enjoy camping, especially backpacking, though I always did it in groups and with family and friends. Camping can be a lot work and being out *in it* can be stressful enough as a group, but doing it alone with no help or support at all? Crazy. I had to do it.
 
+Addionally, I recently bought a new bike for the longer commute my recent move added
