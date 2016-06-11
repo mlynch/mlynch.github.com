@@ -12,9 +12,9 @@ published: true
 A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the Fujinon 35mm F2 R WR lens.
 
 <div class="photo-box">
-  <a href="/images/blog/fujifilm/camera1.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera1.jpg"></a>
+  <a href="/images/blog/fujifilm/camera0.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera0.jpg"></a>
   <div class="photo-caption">
-    Fujifilm X-E2S with Minolta MC Rokkor-PF 58mm f/1.4 manual zoom lens
+    Hands required. Fujinon XF35mm F2 R WR shown in its solid glory.
   </div>
 </div>
 
@@ -45,9 +45,9 @@ You'll notice I bought three lenses in the ~50mm focal length, which seems redun
 Back to the camera. On a Fujifilm with Fujinon lenses aperture and shutter speed are configured through analog dials on the lens. The most common state is aperture priority where the shutter speed is automatically chosen by the camera and the aperture can be changed by the user. Most Fujinon lenses have an aperture ring that you rotate through f-stops, or lock in "auto" mode to push the camera into shutter priority mode (or full auto if both engaged). The shutter speed is configured through a classic dial. Both features hark back to film days and force the user to get involved in the photo-making process.
 
 <div class="photo-box">
-  <a href="/images/blog/fujifilm/camera0.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera0.jpg"></a>
+  <a href="/images/blog/fujifilm/camera1.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera1.jpg"></a>
   <div class="photo-caption">
-    Hands required. Fujinon XF35mm F2 R WR shown in its solid glory.
+    Fujifilm X-E2S with Minolta MC Rokkor-PF 58mm f/1.4 manual zoom lens
   </div>
 </div>
 
