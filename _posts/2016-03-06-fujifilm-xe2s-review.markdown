@@ -53,7 +53,7 @@ Back to the camera. On a Fujifilm with Fujinon lenses aperture and shutter speed
 
 The aperture dial is yet another reason old film lenses work so well on this camera. Unlike Canon lenses where so much of the lens is controlled by the body, Fujifilm X cameras expect aperture and manual focus to be lens-controlled. For example, my Canon EF 50mm f/1.8 STM lens has to be attached to a Canon (or compatible) body to control both the aperture *and* the focus, which makes it pretty much useless on any other camera. Since old film lenses are lens controlled, they work amazingly well on an X body.
 
-I found the dial approach to be quick and painless once I got used to it, and appreciate that the settings stay put better than fully digital approaches like most DSLRs. One major feature I find myself using all the time is the exposure compensation dial. Having this dial so accessible makes it simple to quickly over or under (more commonly) expose a shot. On my canon that option was hidden through an awkward Q sub-menu.
+I found the dial approach to be quick and painless once I got used to it, and appreciate that the settings stay put better than fully digital approaches like most DSLRs. One major feature I find myself using all the time is the exposure compensation dial. Having this dial so accessible makes it simple to quickly over or under (more commonly) expose a shot. On my canon that option was hidden through an awkward Q sub-menu.  I do wish I had an ISO dial as well but the Q menu will have to suffice.
 
 Auto ISO modes with a pre-configured upper bounds and minimum shutter speed are a great way to quickly move between low and normal lighting situations without fiddling through options. I can let the camera jump to 6400 ISO if absolutely necessary but maintain a 1/60 shutter speed minimum, for example. A more optimal shot could be taken, perhaps, but not without a pause to change options.
 
@@ -72,4 +72,3 @@ In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film
 
 I'm incredibly happy with my choice and recommend anyone new to mirrorless or wanting a smaller alternative to a DSLR check out the Fujifilm X line (and the X-E2S).
 
-Stay tuned for a future post with more Fuji Photos!
