@@ -14,6 +14,7 @@ Random thoughts I've had at one point or another:
 
 <nav id="most-popular">
   <ul>
+    <li><a href="/blog/film-photography">My Film Photography Obsession</a></li>
     <li><a href="/blog/fujifilm-xe2s-review">My Fujifilm X-E2S Review</a></li>
     <li><a href="https://medium.com/@maxlynch/developer-interviews-suck-6a37e9b5ee64">Developer Interviews Suck</a></li>
     <li><a href="https://medium.com/@maxlynch/how-i-actually-got-into-startups-fc506f226f2a#.3yr9xhqxl">How I actually got into startups and programming</a></li>
