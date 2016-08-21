@@ -79,6 +79,10 @@ Film feels like the first kind of traditional "art" passion I've ever had. Digit
 
 To be fair, I still thoroughly enjoy digital, but I see it as a tool for those moments when resolution and pixel perfection are a must. For example, you can bet that I'll be shooting the first moments of my son's birth with my digital Fujifilm! What I found with film, though, was a pretty shocking realization that technical details like megapixels really don't matter in photography apart from supporting large format prints.
 
+Beyond nostalgia and workflow, I love the colors of film and the qualities of the bokeh effect. The colors are what I always want my digital photos to look like, but which I cannot really reproduce in Lightroom or VSCO. The bokeh is just wonderful, likely accentuated by the grain structure of most films, and film was just *made* for it. In my head all my photos, digital or otherwise, want to look like film!
+
+Finally, I just love the surprise of film. I recently developed a roll that was four months old, and as I scanned it I had the biggest smile on my face seeing old moments for the first time. Each roll holds memories that I've since lost, just waiting to be rediscovered.
+
 Whenever I travel, I bring both my digital Fujifilm XE2S *and* my Minolta SRT 100. I found that I always seem to end up just using the Minolta the whole time. I think that says a lot about shooting film. It's just more *fun*.
 
-Go shoot some film!
+If you're reading this and even mildly intrigued by film, I recommend finding an old, used manual film camera. There are so many good ones on ebay right now! Grab some Portra or HP5 and shoot a few rolls. Sit on them a bit to let them build up meaning, go get them developed and scanned, and
