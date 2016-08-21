@@ -77,7 +77,7 @@ I also enjoy the workflow, and this really is *the* deciding factor for those st
 
 Film feels like the first kind of traditional "art" passion I've ever had. Digital never felt like that to me, and I never had to spend much time with my digital photos beyond filtering through the thousands of duplicates I rattled off. Digital photography is certainly an artful medium, but I personally don't see myself as an artist with my digital photography.
 
-To be fair, I still thoroughly enjoy digital, but I see it as a tool for those moments when resolution and pixel perfection are a must. For example, you can bet that I'll be shooting the first moments of my son's birth with my digital Fujifilm! What I found with film, though, was a pretty shocking realization that technical details like megapixels really don't matter in photography apart from supporting large format prints.
+To be fair, I still thoroughly enjoy digital, but I see it as a tool for those moments when resolution and pixel perfection are a must. For example, you can bet that I'll be shooting the first moments of my son's birth with my digital Fujifilm! What I found with film, though, was a pretty shocking realization that technical details like megapixels really don't matter in photography apart from supporting large format prints. I had to come up with a new framework for understanding the quality of a photo, and film fit perfectly within that.
 
 Beyond nostalgia and workflow, I love the colors of film and the qualities of the bokeh effect. The colors are what I always want my digital photos to look like, but which I cannot really reproduce in Lightroom or VSCO. The bokeh is just wonderful, likely accentuated by the grain structure of most films, and film was just *made* for it. In my head all my photos, digital or otherwise, want to look like film!
 
@@ -85,4 +85,4 @@ Finally, I just love the surprise of film. I recently developed a roll that was 
 
 Whenever I travel, I bring both my digital Fujifilm XE2S *and* my Minolta SRT 100. I found that I always seem to end up just using the Minolta the whole time. I think that says a lot about shooting film. It's just more *fun*.
 
-If you're reading this and even mildly intrigued by film, I recommend finding an old, used manual film camera. There are so many good ones on ebay right now! Grab some Portra or HP5 and shoot a few rolls. Sit on them a bit to let them build up meaning, go get them developed and scanned, and
+If you're reading this and even mildly intrigued by film, I recommend finding an old, used manual film camera. There are so many good ones on ebay right now! Grab some Portra or HP5 and shoot a few rolls. Sit on them a bit to let them build up meaning, go get them developed and scanned, and clean up dust in Photoshop. If you love the results, you might have just found a new obsession.
