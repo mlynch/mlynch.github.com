@@ -14,7 +14,7 @@ A few weeks ago I acquired my first mirrorless camera, a [Fujifilm X-E2S](http:/
 <div class="photo-box">
   <a href="/images/blog/fujifilm/camera0.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera0.jpg"></a>
   <div class="photo-caption">
-    Hands required. Fujinon XF35mm F2 R WR shown in its solid glory.
+    X-E2S and Fujinon XF35mm F2 R WR shown in their svelte glory.
   </div>
 </div>
 
