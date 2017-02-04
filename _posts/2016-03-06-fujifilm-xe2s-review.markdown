@@ -9,7 +9,7 @@ day: 6
 published: true  
 ---
 
-A few weeks ago I acquired my first mirrorless camera, a Fujifilm X-E2S with the Fujinon 35mm F2 R WR lens.
+A few weeks ago I acquired my first mirrorless camera, a [Fujifilm X-E2S](http://amzn.to/2kCpxRE) with the [Fujinon 35mm F2 R WR](http://amzn.to/2kbCcdX) lens.
 
 <div class="photo-box">
   <a href="/images/blog/fujifilm/camera0.jpg" target="_blank" class="photo"><img src="/images/blog/fujifilm/camera0.jpg"></a>
@@ -68,7 +68,9 @@ A few nice features I use constantly are the Wi-Fi and Film Simulation modes. Wi
 
 Beyond features, I love the size and feel of the camera body. I wanted something small enough to carry with me most places, yet large enough to still feel like a classic camera. I initially tried the X70 which was wonderful in all the ways the Fujifilm X cameras are, but I felt the form factor was too small and I missed the viewfinder. No such issues here.
 
-In general, the X-E2S, and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd.
+On the topic of the [35mm F2 R WR](http://amzn.to/2kbCcdX), it's one of the sharpest lenses I've ever used, with snappy auto focus and pleasing bokeh. It's a very light lens that looks great on the X-E2S, and I take it everywhere I go.
 
-I'm incredibly happy with my choice and recommend anyone new to mirrorless or wanting a smaller alternative to a DSLR check out the Fujifilm X line (and the X-E2S).
+In general, the [X-E2S](http://amzn.to/2kCpxRE), and other Fujifilm X cameras like it, bring back the film aesthetic and magic to digital photography. I'm not a professional photographer, but I consider taking increasingly better photos to be a life passion. The X-E2S lets me push forward in a way that feels natural and authentic, while still appealing to my inner nerd.
+
+I'm incredibly happy with my choice and recommend anyone new to mirrorless or wanting a smaller alternative to a DSLR check out the Fujifilm X line (and the [X-E2S](http://amzn.to/2kCpxRE)).
 
