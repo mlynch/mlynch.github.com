@@ -19,6 +19,21 @@
 
   <!-- Homepage CSS -->
   <link rel="stylesheet" href="/css/clean.css" type="text/css" media="screen, projection">
+
+  <!-- Core CSS file -->
+  <link rel="stylesheet" href="/js/photoswipe/photoswipe.css">
+
+  <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
+  In the folder of skin CSS file there are also:
+  - .png and .svg icons sprite,
+  - preloader.gif (for browsers that do not support CSS animations) -->
+  <link rel="stylesheet" href="/js/photoswipe/default-skin/default-skin.css">
+
+  <!-- Core JS file -->
+  <script src="/js/photoswipe/photoswipe.min.js"></script>
+
+  <!-- UI JS file -->
+  <script src="/js/photoswipe/photoswipe-ui-default.min.js"></script>
 </head>
 <body class="index">
   {% if page.header %}
@@ -27,9 +42,21 @@
 </div>
   {% endif %}
   <div id="wrapper">
-    {{ content }}
+    <div id="menu">
+      <h1>Max Lynch</h1>
+      <ul>
+        <li><a href="http://ionicframework.com/">Ionic</a></li>
+        <li><a href="http://twitter.com/maxlynch">Twitter</a></li>
+        <li><a href="http://medium.com/@maxlynch">Medium</a></li>
+        <li><a href="http://flickr.com/photos/techrolla">Flickr</a></li>
+        <li><a href="http://instagram.com/maxlynch">Instagram</a></li>
+      </ul>
+    </div>
+    <div id="content">
+      {{ content }}
+    </div>
   </div>
-        
+
   <script type="text/javascript">
 
   var _gaq = _gaq || [];

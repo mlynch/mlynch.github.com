@@ -25,7 +25,7 @@ body {
 }
 */
 
-html, body { height: 100%: }
+html, body { height: 100%; }
 body {
   font-family: "adobe garamond pro", Times, 'Times New Roman', serif;
 
@@ -47,21 +47,6 @@ body {
 	color: #222;
 	background-color: white;
 }
-body.index {
-	color: #fff;
-	 background: url('/images/24296251963_71b008e856_k.jpg') no-repeat #000;
-	 background-position: 15% 50%;
-	 font-size:16px;
-}
-
-body.index a {
-  /*
-  color: #ff0084;
-  */
-  color: #fff;
-
-}
-
 h1 {
   line-height: 40px;
 }
@@ -78,9 +63,60 @@ body.post-body #wrapper {
   margin: auto;
   padding: 10px;
 }
+body.index #wrapper {
+  display: flex;
+}
 #wrapper {
-  margin-left: 20px;
+  width: 100%;
   height: 100%;
+}
+#menu {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  box-sizing: border-box;
+  width: 300px;
+  height: 100%;
+  padding: 15px;
+}
+#menu h1 {
+  font-size: 18px;
+}
+#menu a {
+  color: #222;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+#menu ul {
+  padding: 0;
+  margin: 0;
+}
+#menu ul li {
+  margin-bottom: 15px;
+  list-style: none;
+}
+#menu ul li a {
+  text-decoration: none;
+}
+
+#content {
+  width: 100%;
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+#gallery {
+  width: 100%;
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space:nowrap;
+}
+#gallery .img {
+  display: inline-block;
+  min-height: min-content;
+}
+#gallery img {
 }
 
 #me {

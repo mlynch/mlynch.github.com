@@ -1,0 +1,30 @@
+---
+layout: clean
+title: Co-founder of Ionic
+header: true
+---
+
+<div id="gallery">
+  <a href="https://www.flickr.com/photos/techrolla/32555368531/in/dateposted-public/" target="_blank"><img src="/images/portfolio/32555368531_5f978fc52e_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/32554551791/in/dateposted-public/" target="_blank"><img src="/images/portfolio/32554551791_b0e021a0c6_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/31507117582/in/dateposted-public/" target="_blank"><img src="/images/portfolio/31507117582_7abd25c6ba_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/31415005756/in/dateposted-public/" target="_blank"><img src="/images/portfolio/31415005756_cb95e099ef_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/31449101335/in/dateposted-public/" target="_blank"><img src="/images/portfolio/31449101335_f0164ab32c_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/31448757645/in/dateposted-public/" target="_blank"><img src="/images/portfolio/31448757645_a7c37811e5_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/30429607564/in/dateposted-public/" target="_blank"><img src="/images/portfolio/30429607564_d0f4ceda20_o.jpg"></a>
+  <a href="https://www.flickr.com/photos/techrolla/31569875084/in/dateposted-public/" target="_blank"><img src="/images/portfolio/31569875084_3100aeb647_o.jpg"></a>
+</div>
+
+<script>
+function resizeImgs() {
+  var imgs = document.querySelectorAll('#gallery img');
+  var img;
+  for(var i = 0; i < imgs.length; i++) {
+    img = imgs[i];
+    img.style.height = document.body.clientHeight + 'px';
+  }
+}
+
+window.addEventListener('resize', resizeImgs);
+resizeImgs();
+</script>
