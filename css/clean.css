@@ -71,8 +71,7 @@ body.index #wrapper {
   height: 100%;
 }
 #menu {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
   box-sizing: border-box;
   width: 275px;
   height: 100%;
@@ -97,6 +96,7 @@ body.index #wrapper {
   list-style: none;
 }
 #menu ul li a {
+  cursor: pointer;
   text-decoration: none;
 }
 
@@ -120,6 +120,22 @@ body.index #wrapper {
   min-height: min-content;
 }
 #gallery img {
+}
+
+@media screen and (max-width: 480px) {
+  #gallery {
+    display: none;
+  }
+  #menu {
+    width: 100%;
+    text-align: center;
+  }
+  #menu h1 {
+    font-size: 24px;
+  }
+  #menu a {
+    font-size: 18px;
+  }
 }
 
 #me {

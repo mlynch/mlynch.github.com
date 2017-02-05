@@ -21,7 +21,10 @@ function resizeImgs() {
   var img;
   for(var i = 0; i < imgs.length; i++) {
     img = imgs[i];
-    img.style.height = document.body.clientHeight + 'px';
+    var m = 50;
+    var h = document.body.clientHeight - (m*2);
+    img.style.height = h + 'px';
+    img.style.marginTop = (m) + 'px';
   }
 }
 
