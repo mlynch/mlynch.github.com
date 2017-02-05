@@ -1,5 +1,5 @@
-markdown: rouge
-pygments: true
+markdown: rdiscount
+highlighter: redcarpet
 permalink: /blog/:title
 paginate_path: "blog/page:num"
 paginate: 5
