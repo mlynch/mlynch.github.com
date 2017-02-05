@@ -1,4 +1,3 @@
-markdown: rdiscount
 highlighter: rouge
 permalink: /blog/:title
 paginate_path: "blog/page:num"
