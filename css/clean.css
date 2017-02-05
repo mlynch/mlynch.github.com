@@ -80,6 +80,7 @@ body.index #wrapper {
 }
 #menu h1 {
   font-size: 18px;
+  margin-top: 0;
 }
 #menu a {
   color: #222;
