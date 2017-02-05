@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: rouge
 pygments: true
 permalink: /blog/:title
 paginate_path: "blog/page:num"
