@@ -25,6 +25,7 @@ body {
 }
 */
 
+html, body { height: 100%: }
 body {
   font-family: "adobe garamond pro", Times, 'Times New Roman', serif;
 
@@ -79,6 +80,7 @@ body.post-body #wrapper {
 }
 #wrapper {
   margin-left: 20px;
+  height: 100%;
 }
 
 #me {
