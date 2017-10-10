@@ -73,9 +73,10 @@ body.index #wrapper {
 #menu {
   font-family: 'Montserrat', sans-serif;
   box-sizing: border-box;
-  width: 275px;
-  height: 100%;
-  padding: 15px;
+width: 100px;
+    height: 100%;
+    padding: 0px;
+    margin: 100px;
 }
 #menu h1 {
   font-size: 18px;
