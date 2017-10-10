@@ -25,13 +25,13 @@ body {
 }
 */
 
-html, body { height: 100%; }
+html, body { }
 body {
   font-family: "adobe garamond pro", Times, 'Times New Roman', serif;
 
   font-size: 16px;
   line-height: 18px;
-
+height: 10000px;
   text-rendering: optimizeLegibility;
 font-feature-settings: "kern";
 -webkit-font-feature-settings: "kern";
