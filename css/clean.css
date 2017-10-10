@@ -46,7 +46,7 @@ margin: 0;
 body {
 	color: #222;
 	background-color: white;
-	background: linear-gradient(to bottom, #d1edf9 0%,#7cc7dd 10%,#5294ce 22%,#4071b2 51%,#182233 73%,#182233 100%);
+	background: linear-gradient(to bottom, #eafaff 0%,#7cc7dd 10%,#5294ce 22%,#4071b2 51%,#182233 73%,#182233 100%);
 }
 h1 {
   line-height: 40px;
