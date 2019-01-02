@@ -13,7 +13,6 @@ Shot on Canon AE-1P with a mixture of Vision3 500T, Lomography 400/800
   '000025720006.jpg',
   '000025720014.jpg',
   '000025720015-2.jpg',
-  '000025720015.jpg',
   '000025720016.jpg',
   '000025720019.jpg',
   '000025720024.jpg',
