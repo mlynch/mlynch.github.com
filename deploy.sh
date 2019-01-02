@@ -7,14 +7,14 @@ npm run build
 git add -A
 git commit -m "Deploy"
 
-git checkout gh-pages
+git checkout master
 git rm -rf .
-git checkout master -- .vuepress/dist
+git checkout develop -- .vuepress/dist
 mv .vuepress/dist/* .
 
 git add -A
 git commit -m "Deploy"
 
-git push -f origin gh-pages
+git push -f origin master
 
-git checkout master
+git checkout develop
