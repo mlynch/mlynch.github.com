@@ -4,6 +4,9 @@ set -e
 # build
 npm run build
 
+git add -A
+git commit -m "Deploy"
+
 git checkout gh-pages
 git rm -rf .
 git checkout master -- .vuepress/dist
