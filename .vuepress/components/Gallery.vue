@@ -21,7 +21,7 @@
 export default {
   props: ['images', 'gallery_name'],
 
-  created() {
+  mounted() {
     this.keyupListener = this.handleDocumentKeyup.bind(this);
     document.addEventListener('keyup', this.keyupListener);
   },
